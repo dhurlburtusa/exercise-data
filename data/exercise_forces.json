@@ -1,0 +1,27 @@
+[
+  {
+    "id": "",
+    "code": "pll",
+    "name": "Pull",
+    "desc": "",
+    "priv_notes": "On: bodybuilding.com, exercise.com."
+  }, {
+    "id": "",
+    "code": "psh",
+    "name": "Push",
+    "desc": "",
+    "priv_notes": "On: bodybuilding.com, exercise.com."
+  }, {
+    "id": "",
+    "code": "stt",
+    "name": "Static",
+    "desc": "",
+    "priv_notes": "On: bodybuilding.com."
+  }, {
+    "id": "",
+    "code": "na",
+    "name": "N/A",
+    "desc": "",
+    "priv_notes": "On: bodybuilding.com."
+  }
+]
