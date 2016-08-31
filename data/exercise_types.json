@@ -1,0 +1,81 @@
+[
+  {
+    "id": "",
+    "code": "cls",
+    "name": "Calisthenics",
+    "desc": "",
+    "priv_notes": "On: exercise.com."
+  }, {
+    "id": "",
+    "code": "crd",
+    "name": "Cardio",
+    "desc": "",
+    "priv_notes": "On: bodybuilding.com, exercise.com."
+  }, {
+    "id": "",
+    "code": "mra",
+    "name": "Martial Arts",
+    "desc": "",
+    "priv_notes": "On: exercise.com."
+  }, {
+    "id": "",
+    "code": "olw",
+    "name": "Olympic Weightlifting",
+    "desc": "",
+    "priv_notes": "On: bodybuilding.com, jefit.com."
+  }, {
+    "id": "",
+    "code": "plt",
+    "name": "Pilates",
+    "desc": "",
+    "priv_notes": "On: exercise.com."
+  }, {
+    "id": "",
+    "code": "plm",
+    "name": "Plyometrics",
+    "desc": "",
+    "priv_notes": "On: bodybuilding.com, exercise.com."
+  }, {
+    "id": "",
+    "code": "pwr",
+    "name": "Powerlifting",
+    "desc": "",
+    "priv_notes": "On: bodybuilding.com, jefit.com."
+  }, {
+    "id": "",
+    "code": "str",
+    "name": "Strength",
+    "desc": "",
+    "priv_notes": "On: bodybuilding.com, jefit.com."
+  }, {
+    "id": "",
+    "code": "stt",
+    "name": "Stretching",
+    "desc": "",
+    "priv_notes": "On: bodybuilding.com, exercise.com, jefit.com."
+  }, {
+    "id": "",
+    "code": "stn",
+    "name": "Strongman",
+    "desc": "",
+    "priv_notes": "On: bodybuilding.com."
+  }, {
+    "id": "",
+    "code": "ttb",
+    "name": "Total Body",
+    "desc": "",
+    "priv_notes": "On: exercise.com."
+  }, {
+    "id": "",
+    "code": "wru",
+    "name": "Warm-Up",
+    "desc": "",
+    "priv_notes": "On: exercise.com."
+  }, {
+    "id": "",
+    "code": "yg",
+    "name": "Yoga",
+    "desc": "",
+    "priv_notes": "On: exercise.com."
+  }
+]
