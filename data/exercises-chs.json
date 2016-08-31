@@ -1,0 +1,1954 @@
+[
+  {
+    "id": null,
+    "name": "Alternating Floor Press",
+    "aliases": [
+      "Alternating Kettlebell Floor Press",
+      "Kettlebell Floor Press"
+    ],
+    "desc": "",
+    "equip_code": "ktt",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/alternating-floor-press",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/alternating-floor-press",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "abd",
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Around The Worlds",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/around-the-worlds",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/around-the-worlds",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Barbell Bench Press - Medium Grip",
+    "aliases": [
+      "Barbell Bench Press"
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/barbell-bench-press-medium-grip",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/barbell-bench-press-medium-grip",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Barbell Bench Press-Wide Grip",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/barbell-bench-press-wide-grip",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/barbell-bench-press-wide-grip",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Barbell Guillotine Bench Press",
+    "aliases": [
+      "Neck Press"
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/barbell-guillotine-bench-press",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/barbell-guillotine-bench-press",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Barbell Incline Bench Press Medium-Grip",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/barbell-incline-bench-press-medium-grip",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/barbell-incline-bench-press-medium-grip",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Behind Head Chest Stretch",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "stt",
+    "level_code": "e",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/behind-head-chest-stretch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/behind-head-chest-stretch",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "shl"
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Bench Press - With Bands",
+    "aliases": [
+      "Bench Press With Bands"
+    ],
+    "desc": "",
+    "equip_code": "bnd",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/bench-press-with-bands",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/bench-press-with-bands",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Bench Press With Short Bands",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bnd",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/bench-press-with-short-bands",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/bench-press-with-short-bands",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "shl",
+      "trc"
+    ],
+    "type_code": "pwr"
+  },
+  {
+    "id": null,
+    "name": "Bent-Arm Dumbbell Pullover",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/bent-arm-dumbbell-pullover",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/bent-arm-dumbbell-pullover",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "lts",
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Bodyweight Flyes",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "ezb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/bodyweight-flyes",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/bodyweight-flyes",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "abd",
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Bosu Ball Push-Up",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "exb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/bosu-ball-push-up",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/bosu-ball-push-up",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Butterfly",
+    "aliases": [
+      "Pec Deck",
+      "Pec Deck Fly"
+    ],
+    "desc": "",
+    "equip_code": "mch",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/butterfly",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/butterfly",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Cable Chest Press",
+    "aliases": [
+      "Freemotion Chest Press"
+    ],
+    "desc": "",
+    "equip_code": "cbl",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/cable-chest-press",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/cable-chest-press",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Cable Crossover",
+    "aliases": [
+      "Standing Cable Crossovers"
+    ],
+    "desc": "",
+    "equip_code": "cbl",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/cable-crossover",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/cable-crossover",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Cable Iron Cross",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "cbl",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/cable-iron-cross",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/cable-iron-cross",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Chain Press",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/chain-press",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/chain-press",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "shl",
+      "trc"
+    ],
+    "type_code": "pwr"
+  },
+  {
+    "id": null,
+    "name": "Chest And Front Of Shoulder Stretch",
+    "aliases": [
+      "Broomstick Stretch"
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "stt",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/chest-and-front-of-shoulder-stretch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/chest-and-front-of-shoulder-stretch",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "shl"
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Chest Push (multiple response)",
+    "aliases": [
+      "Kneeling Medicine Ball Throw"
+    ],
+    "desc": "",
+    "equip_code": "mdb",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/chest-push-multiple-response",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/chest-push-multiple-response",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "abd",
+      "shl",
+      "trc"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "Chest Push (single response)",
+    "aliases": [
+      "Kneeling Medicine Ball Throw"
+    ],
+    "desc": "",
+    "equip_code": "mdb",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/chest-push-single-response",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/chest-push-single-response",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "abd",
+      "shl",
+      "trc"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "Chest Push from 3 point stance",
+    "aliases": [
+      "Medicine Ball Throw; Medicine Ball Snap"
+    ],
+    "desc": "",
+    "equip_code": "mdb",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/chest-push-from-3-point-stance",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/chest-push-from-3-point-stance",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "abd",
+      "shl",
+      "trc"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "Chest Push with Run Release",
+    "aliases": [
+      "Medicine Ball Throw With Sprint"
+    ],
+    "desc": "",
+    "equip_code": "mdb",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/chest-push-with-run-release",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/chest-push-with-run-release",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "abd",
+      "shl",
+      "trc"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "Chest Stretch on Stability Ball",
+    "aliases": [
+      "Stability Ball Pec Stretch"
+    ],
+    "desc": "",
+    "equip_code": "exb",
+    "force_code": "stt",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/chest-stretch-on-stability-ball",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/chest-stretch-on-stability-ball",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Clock Push-Up",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/clock-push-up",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/clock-push-up",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Close-Hands Push-Up",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/close-hands-push-up",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/close-hands-push-up",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Cross Over - With Bands",
+    "aliases": [
+      "Band Cross Over"
+    ],
+    "desc": "",
+    "equip_code": "bnd",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/cross-over-with-bands",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/cross-over-with-bands",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "bcp",
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Decline Barbell Bench Press",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/decline-barbell-bench-press",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/decline-barbell-bench-press",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Decline Dumbbell Bench Press",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/decline-dumbbell-bench-press",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/decline-dumbbell-bench-press",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Decline Dumbbell Flyes",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/decline-dumbbell-flyes",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/decline-dumbbell-flyes",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Decline Push-Up",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "nn",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/decline-push-up",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/decline-push-up",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Decline Smith Press",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "mch",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/decline-smith-press",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/decline-smith-press",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Diamond Push-Up",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/diamond-push-up",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/diamond-push-up",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Dips - Chest Version",
+    "aliases": [
+      "Chest Dips"
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/dips-chest-version",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/dips-chest-version",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Dive Bomber Push-Up",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/dive-bomber-push-up",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/dive-bomber-push-up",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Drop Push",
+    "aliases": [
+      "Plyometric Push-Up"
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/drop-push",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/drop-push",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "shl",
+      "trc"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "Dumbbell Bench Press",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/dumbbell-bench-press",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/dumbbell-bench-press",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Dumbbell Bench Press with Neutral Grip",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/dumbbell-bench-press-with-neutral-grip",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/dumbbell-bench-press-with-neutral-grip",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Dumbbell Flyes",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/dumbbell-flyes",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/dumbbell-flyes",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Dynamic Chest Stretch",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "nn",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/dynamic-chest-stretch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/dynamic-chest-stretch",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "mdb"
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Elbows Back",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "nn",
+    "force_code": "stt",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/elbows-back",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/elbows-back",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "shl"
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Extended Range One-Arm Kettlebell Floor Press",
+    "aliases": [
+      "Single-Arm Floor Press"
+    ],
+    "desc": "",
+    "equip_code": "ktt",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/extended-range-one-arm-kettlebell-floor-press",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/extended-range-one-arm-kettlebell-floor-press",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Flat Bench Cable Flyes",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "cbl",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/flat-bench-cable-flyes",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/flat-bench-cable-flyes",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Forward Drag with Press",
+    "aliases": [
+      "Sled Drag With Press"
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/forward-drag-with-press",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/forward-drag-with-press",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms",
+      "qdr",
+      "shl",
+      "trc"
+    ],
+    "type_code": "stn"
+  },
+  {
+    "id": null,
+    "name": "Front Raise And Pullover",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/front-raise-and-pullover",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/front-raise-and-pullover",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "lts",
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Hammer Grip Incline DB Bench Press",
+    "aliases": [
+      "Neutral Incline Dumbbell Press"
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/hammer-grip-incline-db-bench-press",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/hammer-grip-incline-db-bench-press",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Hand Release Push-Up",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/hand-release-push-up",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/hand-release-push-up",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "abd",
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Heavy Bag Thrust",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/heavy-bag-thrust",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/heavy-bag-thrust",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "abd",
+      "shl",
+      "trc"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "Incline Cable Chest Press",
+    "aliases": [
+      "Incline Cable Elevators"
+    ],
+    "desc": "",
+    "equip_code": "cbl",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/incline-cable-chest-press",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/incline-cable-chest-press",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Incline Cable Flye",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "cbl",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/incline-cable-flye",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/incline-cable-flye",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Incline Dumbbell Bench With Palms Facing In",
+    "aliases": [
+      "Neutral Incline Dumbbell Bench Press"
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/incline-dumbbell-bench-with-palms-facing-in",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/incline-dumbbell-bench-with-palms-facing-in",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Incline Dumbbell Flyes",
+    "aliases": [
+      "Incline Bench Flyes"
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/incline-dumbbell-flyes",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/incline-dumbbell-flyes",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Incline Dumbbell Flyes - With A Twist",
+    "aliases": [
+      "Supinating Incline Dumbbell Flyes"
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/incline-dumbbell-flyes-with-a-twist",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/incline-dumbbell-flyes-with-a-twist",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Incline Dumbbell Press",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/incline-dumbbell-press",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/incline-dumbbell-press",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Incline Dumbbell Press Reverse-Grip",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/incline-dumbbell-press-reverse-grip",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/incline-dumbbell-press-reverse-grip",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Incline Push-Up",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/incline-push-up",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/incline-push-up",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Incline Push-Up Depth Jump",
+    "aliases": [
+      "Plyometric Push-Up"
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/incline-push-up-depth-jump",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/incline-push-up-depth-jump",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "shl",
+      "trc"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "Incline Push-Up Medium",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/incline-push-up-medium",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/incline-push-up-medium",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "abd",
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Incline Push-Up Reverse Grip",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/incline-push-up-reverse-grip",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/incline-push-up-reverse-grip",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "abd",
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Incline Push-Up Wide",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/incline-push-up-wide",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/incline-push-up-wide",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "abd",
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Isometric Chest Squeezes",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "stt",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/isometric-chest-squeezes",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/isometric-chest-squeezes",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "shl",
+      "trc"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "Isometric Wipers",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/isometric-wipers",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/isometric-wipers",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "abd",
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Leg-Over Floor Press",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "ktt",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/leg-over-floor-press",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/leg-over-floor-press",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Leverage Chest Press",
+    "aliases": [
+      "Hammerstrength Chest Press"
+    ],
+    "desc": "",
+    "equip_code": "mch",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/leverage-chest-press",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/leverage-chest-press",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Leverage Decline Chest Press",
+    "aliases": [
+      "Hammerstrength Decline Chest Press"
+    ],
+    "desc": "",
+    "equip_code": "mch",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/leverage-decline-chest-press",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/leverage-decline-chest-press",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Leverage Incline Chest Press",
+    "aliases": [
+      "Hammerstrength Incline Chest Press"
+    ],
+    "desc": "",
+    "equip_code": "mch",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/leverage-incline-chest-press",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/leverage-incline-chest-press",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Low Cable Crossover",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "cbl",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/low-cable-crossover",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/low-cable-crossover",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Machine Bench Press",
+    "aliases": [
+      "Chest Press"
+    ],
+    "desc": "",
+    "equip_code": "mch",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/machine-bench-press",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/machine-bench-press",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Medicine Ball Chest Pass",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "mdb",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/medicine-ball-chest-pass",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/medicine-ball-chest-pass",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "shl",
+      "trc"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "Medicine-Ball Push-Up",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "mdb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/medicine-ball-push-up",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/medicine-ball-push-up",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Neck Press",
+    "aliases": [
+      "Clavicular Bench Press",
+      "Elbows-Out Barbell Press",
+      "Guillotine Press"
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/neck-press",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/neck-press",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "One Arm Dumbbell Bench Press",
+    "aliases": [
+      "Dumbbell Bench Press",
+      "One-Arm Dumbbell Press",
+      "Single Arm Dumbbell Press",
+      "Single-Arm Dumbbell Press"
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/one-arm-dumbbell-bench-press",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/one-arm-dumbbell-bench-press",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "One-Arm Flat Bench Dumbbell Flye",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/one-arm-flat-bench-dumbbell-flye",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/one-arm-flat-bench-dumbbell-flye",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "One-Arm Kettlebell Floor Press",
+    "aliases": [
+      "Floor Press"
+    ],
+    "desc": "",
+    "equip_code": "ktt",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/one-arm-kettlebell-floor-press",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/one-arm-kettlebell-floor-press",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Plyo Kettlebell Pushups",
+    "aliases": [
+      "Plyometric Push-Up"
+    ],
+    "desc": "",
+    "equip_code": "ktt",
+    "force_code": "psh",
+    "level_code": "e",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/plyo-kettlebell-pushups",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/plyo-kettlebell-pushups",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Plyo Push-up",
+    "aliases": [
+      "Plyometric Push-Up"
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/plyo-push-up",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/plyo-push-up",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "shl",
+      "trc"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "Push Up to Side Plank",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/push-up-to-side-plank",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/push-up-to-side-plank",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "abd",
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Push-Up Wide",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "na",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/push-up-wide",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/push-up-wide",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "abd",
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Push-Ups With Feet Elevated",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/push-ups-with-feet-elevated",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/push-ups-with-feet-elevated",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Push-Ups With Feet On An Exercise Ball",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "exb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/push-ups-with-feet-on-an-exercise-ball",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/push-ups-with-feet-on-an-exercise-ball",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Pushups",
+    "aliases": [
+      "Push Up",
+      "Push-Up"
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/pushups",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/pushups",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Pushups (Close and Wide Hand Positions)",
+    "aliases": [
+      "Push Up",
+      "Push-Up"
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/pushups-close-and-wide-hand-positions",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/pushups-close-and-wide-hand-positions",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Side To Side Push-Up",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/side-to-side-push-up",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/side-to-side-push-up",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Single-Arm Cable Crossover",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "cbl",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/single-arm-cable-crossover",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/single-arm-cable-crossover",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Single-Arm Push-Up",
+    "aliases": [
+      "One-Arm Push-Up",
+      "Push Up"
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/single-arm-push-up",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/single-arm-push-up",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Smith Machine Bench Press",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "mch",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/smith-machine-bench-press",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/smith-machine-bench-press",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Smith Machine Decline Press",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "mch",
+    "force_code": "na",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/smith-machine-decline-press",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/smith-machine-decline-press",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Smith Machine Incline Bench Press",
+    "aliases": [
+      "Smith Machine Incline Chest Press"
+    ],
+    "desc": "",
+    "equip_code": "mch",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/smith-machine-incline-bench-press",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/smith-machine-incline-bench-press",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Staggered Push-Up",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/staggered-push-up",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/staggered-push-up",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Standing Cable Chest Press",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "cbl",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/standing-cable-chest-press",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/standing-cable-chest-press",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Straight-Arm Dumbbell Pullover",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/straight-arm-dumbbell-pullover",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/straight-arm-dumbbell-pullover",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "lts",
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Suspended Chest Fly",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/suspended-chest-fly",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/suspended-chest-fly",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Suspended Push-Up",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/suspended-push-up",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/suspended-push-up",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Svend Press",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/svend-press",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/svend-press",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "frr",
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Wide-Grip Barbell Bench Press",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/wide-grip-barbell-bench-press",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/wide-grip-barbell-bench-press",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Wide-Grip Decline Barbell Bench Press",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/wide-grip-decline-barbell-bench-press",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/wide-grip-decline-barbell-bench-press",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Wide-Grip Decline Barbell Pullover",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/wide-grip-decline-barbell-pullover",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/wide-grip-decline-barbell-pullover",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Wide-Hands Push-Up",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/wide-hands-push-up",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/wide-hands-push-up",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "chs",
+    "other_mscl_grp_codes": [
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  }
+]

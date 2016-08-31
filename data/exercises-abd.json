@@ -1,0 +1,2284 @@
+[
+  {
+    "id": null,
+    "name": "3/4 Sit-Up",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/34-sit-up",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/34-sit-up",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Ab Crunch Machine",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "mch",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/ab-crunch-machine",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/ab-crunch-machine",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Ab Roller",
+    "aliases": [
+      "Ab Roll Out",
+      "Ab Roll-Out",
+      "Ab Rollout",
+      "Ab Wheel Rollout"
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/ab-roller",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/ab-roller",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Advanced Kettlebell Windmill",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "ktt",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/advanced-kettlebell-windmill",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/advanced-kettlebell-windmill",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+      "glt",
+      "hms",
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Air Bike",
+    "aliases": [
+      "Bicycle Crunches"
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/air-bike",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/air-bike",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Alternate Heel Touchers",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/alternate-heel-touchers",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/alternate-heel-touchers",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Barbell Ab Rollout",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/barbell-ab-rollout",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/barbell-ab-rollout",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+      "lwb",
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Barbell Ab Rollout - On Knees",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "e",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/barbell-ab-rollout-on-knees",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/barbell-ab-rollout-on-knees",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+      "lwb",
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Barbell Rollout from Bench",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/barbell-rollout-from-bench",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/barbell-rollout-from-bench",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+      "glt",
+      "hms",
+      "lts",
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Barbell Side Bend",
+    "aliases": [
+      "Barbell Side Bends"
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/barbell-side-bend",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/barbell-side-bend",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+      "lwb"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Bent Press",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "ktt",
+    "force_code": "pll",
+    "level_code": "e",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/bent-press",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/bent-press",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+      "glt",
+      "hms",
+      "lwb",
+      "qdr",
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Bent-Knee Hip Raise",
+    "aliases": [
+      "Reverse Crunch"
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/bent-knee-hip-raise",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/bent-knee-hip-raise",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Bosu Ball Cable Crunch With Side Bends",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "cbl",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/bosu-ball-cable-crunch-with-side-bends",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/bosu-ball-cable-crunch-with-side-bends",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Bosu Ball Crunch",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "exb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/bosu-ball-crunch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/bosu-ball-crunch",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Bottoms Up",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/bottoms-up",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/bottoms-up",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Butt-Ups",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/butt-ups",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/butt-ups",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Cable Crunch",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "cbl",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/cable-crunch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/cable-crunch",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Cable Judo Flip",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "cbl",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/cable-judo-flip",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/cable-judo-flip",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Cable Reverse Crunch",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "cbl",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/cable-reverse-crunch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/cable-reverse-crunch",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Cable Russian Twists",
+    "aliases": [
+      "Stability Ball Abdominal Twist"
+    ],
+    "desc": "",
+    "equip_code": "cbl",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/cable-russian-twists",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/cable-russian-twists",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Cable Seated Crunch",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "cbl",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/cable-seated-crunch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/cable-seated-crunch",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Cable Tuck Reverse Crunch",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": null,
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/cable-tuck-reverse-crunch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/cable-tuck-reverse-crunch",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Cocoons",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/cocoons",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/cocoons",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Cross Crunch",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/cross-crunch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/cross-crunch",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Cross-Body Crunch",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/cross-body-crunch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/cross-body-crunch",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Crunch - Hands Overhead",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/crunch-hands-overhead",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/crunch-hands-overhead",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Crunch - Legs On Exercise Ball",
+    "aliases": [
+      "Crunches on Exercise Ball"
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/crunch-legs-on-exercise-ball",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/crunch-legs-on-exercise-ball",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Crunches",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/crunches",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/crunches",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Dead Bug",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/dead-bug",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/dead-bug",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Decline Crunch",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/decline-crunch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/decline-crunch",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Decline Oblique Crunch",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/decline-oblique-crunch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/decline-oblique-crunch",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Decline Reverse Crunch",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/decline-reverse-crunch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/decline-reverse-crunch",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Double Kettlebell Windmill",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "ktt",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/double-kettlebell-windmill",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/double-kettlebell-windmill",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+      "glt",
+      "hms",
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Dumbbell Side Bend",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/dumbbell-side-bend",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/dumbbell-side-bend",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Elbow to Knee",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/elbow-to-knee",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/elbow-to-knee",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Exercise Ball Crunch",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "exb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/exercise-ball-crunch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/exercise-ball-crunch",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Exercise Ball Pull-In",
+    "aliases": [
+      "Ab Pull-In"
+    ],
+    "desc": "",
+    "equip_code": "exb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/exercise-ball-pull-in",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/exercise-ball-pull-in",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Flat Bench Leg Pull-In",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/flat-bench-leg-pull-in",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/flat-bench-leg-pull-in",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Flat Bench Lying Leg Raise",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/flat-bench-lying-leg-raise",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/flat-bench-lying-leg-raise",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Frog Sit-Ups",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/frog-sit-ups",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/frog-sit-ups",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Gorilla Chin/Crunch",
+    "aliases": [
+      "Gorilla Chin",
+      "Gorilla Crunch"
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/gorilla-chincrunch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/gorilla-chincrunch",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+      "bcp",
+      "lts"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Hanging Leg Raise",
+    "aliases": [
+      "Hanging Leg Raises"
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "pll",
+    "level_code": "e",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/hanging-leg-raise",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/hanging-leg-raise",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Hanging Oblique Knee Raise",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "pll",
+    "level_code": "e",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/hanging-oblique-knee-raise",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/hanging-oblique-knee-raise",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Hanging Pike",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "pll",
+    "level_code": "e",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/hanging-pike",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/hanging-pike",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Jackknife Sit-Up",
+    "aliases": [
+      "V-Up"
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/jackknife-sit-up",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/jackknife-sit-up",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Janda Sit-Up",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/janda-sit-up",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/janda-sit-up",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Kettlebell Figure 8",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "ktt",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/kettlebell-figure-8",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/kettlebell-figure-8",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+      "hms",
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Kettlebell Pass Between The Legs",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "ktt",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/kettlebell-pass-between-the-legs",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/kettlebell-pass-between-the-legs",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+      "glt",
+      "hms",
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Kettlebell Windmill",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "ktt",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/kettlebell-windmill",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/kettlebell-windmill",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+      "glt",
+      "hms",
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Knee/Hip Raise On Parallel Bars",
+    "aliases": [
+      "Knee / Hip Raise on Parallel Bars"
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/kneehip-raise-on-parallel-bars",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/kneehip-raise-on-parallel-bars",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Kneeling Cable Crunch With Alternating Oblique Twists",
+    "aliases": [
+      "Kneeling Oblique Cable Crunch"
+    ],
+    "desc": "",
+    "equip_code": "cbl",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/kneeling-cable-crunch-with-alternating-oblique-twists",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/kneeling-cable-crunch-with-alternating-oblique-twists",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Landmine 180's",
+    "aliases": [
+      "Russian Twist"
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/landmine-180s",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/landmine-180s",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+      "glt",
+      "lwb",
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Leg Pull-In",
+    "aliases": [
+      "Reverse Crunch"
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/leg-pull-in",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/leg-pull-in",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Lower Back Curl",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "stt",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/lower-back-curl",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/lower-back-curl",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Medicine Ball Full Twist",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "mdb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/medicine-ball-full-twist",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/medicine-ball-full-twist",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+      "shl"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "Medicine Ball Rotational Throw",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "mdb",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/medicine-ball-rotational-throw",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/medicine-ball-rotational-throw",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+      "lwb",
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Oblique Cable Crunch",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "cbl",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/oblique-cable-crunch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/oblique-cable-crunch",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Oblique Crunches",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/oblique-crunches",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/oblique-crunches",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Oblique Crunches - On The Floor",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/oblique-crunches-on-the-floor",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/oblique-crunches-on-the-floor",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "One-Arm High-Pulley Cable Side Bends",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "cbl",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/one-arm-high-pulley-cable-side-bends-",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/one-arm-high-pulley-cable-side-bends-",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "One-Arm Medicine Ball Slam",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "mdb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/one-arm-medicine-ball-slam",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/one-arm-medicine-ball-slam",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+      "lts",
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Otis-Up",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/otis-up",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/otis-up",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+      "chs",
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Overhead Stretch",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "nn",
+    "force_code": "stt",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/overhead-stretch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/overhead-stretch",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+      "chs",
+      "frr",
+      "lts",
+      "trc"
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Pallof Press",
+    "aliases": [
+      "Pallof Press ISO"
+    ],
+    "desc": "",
+    "equip_code": "cbl",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/pallof-press",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/pallof-press",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+      "chs",
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Pallof Press With Rotation",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "cbl",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/pallof-press-with-rotation",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/pallof-press-with-rotation",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+      "chs",
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Partner 3-Touch Motion Russian Twist",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "mdb",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/partner-3-touch-motion-russian-twist",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/partner-3-touch-motion-russian-twist",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+      "lwb"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Partner Facing Planks With Alternating High-Five",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "stt",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/partner-facing-planks-with-alternating-high-five",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/partner-facing-planks-with-alternating-high-five",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+      "lwb",
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Partner Hanging Knee Raise With Manual Resistance",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/partner-hanging-knee-raise-with-manual-resistance",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/partner-hanging-knee-raise-with-manual-resistance",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Partner Hanging Knee Raise With Throw Down",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/partner-hanging-knee-raise-with-throw-down",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/partner-hanging-knee-raise-with-throw-down",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Partner Lying Leg Raise With Lateral Throw Down",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/partner-lying-leg-raise-with-lateral-throw-down",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/partner-lying-leg-raise-with-lateral-throw-down",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Partner Lying Leg Raise With Throw Down",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/partner-lying-leg-raise-with-throw-down",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/partner-lying-leg-raise-with-throw-down",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Partner Resistance Standing Twist",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": null,
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/partner-resistance-standing-twist",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/partner-resistance-standing-twist",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Partner Side-To-Side Russian Twist & Pass",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "mdb",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/partner-side-to-side-russian-twist-pass",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/partner-side-to-side-russian-twist-pass",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+      "lwb"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Partner Sit-Up With High-Five",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/partner-sit-up-with-high-five",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/partner-sit-up-with-high-five",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Partner Target Sit-Up",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/partner-target-sit-up",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/partner-target-sit-up",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Plank",
+    "aliases": [
+      "Prone Iso Abs"
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "stt",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/plank",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/plank",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Plate Twist",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/plate-twist",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/plate-twist",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Press Sit-Up",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "e",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/press-sit-up",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/press-sit-up",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+      "chs",
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Reverse Crunch",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/reverse-crunch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/reverse-crunch",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Rope Crunch",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "cbl",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/rope-crunch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/rope-crunch",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Russian Twist",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/russian-twist",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/russian-twist",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+      "lwb"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Scissor Kick",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/scissor-kick",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/scissor-kick",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Seated Barbell Twist",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/seated-barbell-twist",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/seated-barbell-twist",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Seated Flat Bench Leg Pull-In",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/seated-flat-bench-leg-pull-in",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/seated-flat-bench-leg-pull-in",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Seated Leg Tucks",
+    "aliases": [
+      "Leg Pull-in"
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/seated-leg-tucks",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/seated-leg-tucks",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Seated Overhead Stretch",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "nn",
+    "force_code": "stt",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/seated-overhead-stretch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/seated-overhead-stretch",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Seated Scissor Kick",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/seated-scissor-kick",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/seated-scissor-kick",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+      "abc",
+      "add"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Side Bridge",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "stt",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/side-bridge",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/side-bridge",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Side Jackknife",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/side-jackknife",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/side-jackknife",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Sit-Up",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/sit-up",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/sit-up",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Sledgehammer Swings",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/sledgehammer-swings",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/sledgehammer-swings",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+      "clv",
+      "frr",
+      "lts",
+      "mdb",
+      "shl"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "Smith Machine Hip Raise",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "mch",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/smith-machine-hip-raise",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/smith-machine-hip-raise",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Spell Caster",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/spell-caster",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/spell-caster",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+      "glt",
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Spider Crawl",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/spider-crawl",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/spider-crawl",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+      "chs",
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Stability Ball Pike With Knee Tuck",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "exb",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/stability-ball-pike-with-knee-tuck",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/stability-ball-pike-with-knee-tuck",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Standing Cable Lift",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "cbl",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/standing-cable-lift",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/standing-cable-lift",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Standing Cable Wood Chop",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "cbl",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/standing-cable-wood-chop",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/standing-cable-wood-chop",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Standing Lateral Stretch",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "nn",
+    "force_code": "stt",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/standing-lateral-stretch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/standing-lateral-stretch",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Standing Rope Crunch",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "cbl",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/standing-rope-crunch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/standing-rope-crunch",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Stomach Vacuum",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "stt",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/stomach-vacuum",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/stomach-vacuum",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Straight-Legged Hip Raise",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/straight-legged-hip-raise",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/straight-legged-hip-raise",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Suitcase Crunch",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/suitcase-crunch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/suitcase-crunch",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Supine One-Arm Overhead Throw",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "mdb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/supine-one-arm-overhead-throw",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/supine-one-arm-overhead-throw",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+      "chs",
+      "lts",
+      "shl"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "Supine Two-Arm Overhead Throw",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "mdb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/supine-two-arm-overhead-throw",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/supine-two-arm-overhead-throw",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+      "chs",
+      "lts",
+      "shl"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "Suspended Crunch",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/suspended-crunch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/suspended-crunch",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Suspended Fallout",
+    "aliases": [
+      "Blast Straps Fallout",
+      "Suspended Abdominal Fallout",
+      "TRX Fallout"
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/suspended-fallout",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/suspended-fallout",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+      "chs",
+      "lwb",
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Suspended Pike",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": null,
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/suspended-pike",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/suspended-pike",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Suspended Reverse Crunch",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/suspended-reverse-crunch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/suspended-reverse-crunch",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Toe Touchers",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/toe-touchers",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/toe-touchers",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Torso Rotation",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "exb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/torso-rotation",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/torso-rotation",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Tuck Crunch",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/tuck-crunch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/tuck-crunch",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Waiter's Carry",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "stt",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/waiters-carry",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/waiters-carry",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Weighted Ball Side Bend",
+    "aliases": [
+      "Oblique Crunch"
+    ],
+    "desc": "",
+    "equip_code": "exb",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/weighted-ball-side-bend",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/weighted-ball-side-bend",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Weighted Crunches",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "mdb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/weighted-crunches",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/weighted-crunches",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Weighted Sit-Ups - With Bands",
+    "aliases": [
+      "Sit Up",
+      "Situp"
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/weighted-sit-ups-with-bands",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/weighted-sit-ups-with-bands",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Weighted Suitcase Crunch",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "mdb",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/weighted-suitcase-crunch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/weighted-suitcase-crunch",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Wind Sprints",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/wind-sprints",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/wind-sprints",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  }
+]

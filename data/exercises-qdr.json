@@ -1,0 +1,4344 @@
+[
+  {
+    "id": null,
+    "name": "Alien Squat",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/alien-squat",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/alien-squat",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "abc",
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "All Fours Quad Stretch",
+    "aliases": [
+      "Pronated Hip Flexor Stretch"
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "stt",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/all-fours-quad-stretch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/all-fours-quad-stretch",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Alternate Leg Diagonal Bound",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "nn",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/alternate-leg-diagonal-bound",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/alternate-leg-diagonal-bound",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "abc",
+      "add",
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "Backward Drag",
+    "aliases": [
+      "Backward Sled Drag"
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/backward-drag",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/backward-drag",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "frr",
+      "glt",
+      "hms",
+      "lwb"
+    ],
+    "type_code": "stn"
+  },
+  {
+    "id": null,
+    "name": "Barbell Full Squat",
+    "aliases": [
+      "High Bar Squat",
+      "Olympic Squat"
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/barbell-full-squat",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/barbell-full-squat",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms",
+      "lwb"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Barbell Hack Squat",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/barbell-hack-squat",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/barbell-hack-squat",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "frr",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Barbell Lunge",
+    "aliases": [
+      "Weighted Lunges"
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/barbell-lunge",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/barbell-lunge",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Barbell Reverse Lunge",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/barbell-reverse-lunge",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/barbell-reverse-lunge",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Barbell Side Split Squat",
+    "aliases": [
+      "Barbell Side Lunge"
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/barbell-side-split-squat",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/barbell-side-split-squat",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "hms",
+      "lwb"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Barbell Squat",
+    "aliases": [
+      "Barbell Full Squat"
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/barbell-squat",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/barbell-squat",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Barbell Squat To A Bench",
+    "aliases": [
+      "Barbell Squat to a Box"
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "e",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/barbell-squat-to-a-bench",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/barbell-squat-to-a-bench",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms",
+      "lwb"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Barbell Squat To A Box",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/barbell-squat-to-a-box",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/barbell-squat-to-a-box",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Barbell Step Ups",
+    "aliases": [
+      "Barbell Step-Ups"
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/barbell-step-ups",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/barbell-step-ups",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Barbell Thruster",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/barbell-thruster",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/barbell-thruster",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "glt",
+      "hms",
+      "mdb",
+      "shl",
+      "trc",
+      "trp"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Barbell Walking Lunge",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/barbell-walking-lunge",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/barbell-walking-lunge",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Bear Crawl Sled Drags",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/bear-crawl-sled-drags-",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/bear-crawl-sled-drags-",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "stn"
+  },
+  {
+    "id": null,
+    "name": "Bench Jump",
+    "aliases": [
+      "Front Bench Jump",
+      "Front Box Jump",
+      "Front Jump"
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/bench-jump",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/bench-jump",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "Bench Sprint",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/bench-sprint",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/bench-sprint",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "Bicycling",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "na",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/bicycling",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/bicycling",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "crd"
+  },
+  {
+    "id": null,
+    "name": "Bicycling, Stationary",
+    "aliases": [
+      "Stationary Bike"
+    ],
+    "desc": "",
+    "equip_code": "mch",
+    "force_code": "na",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/bicycling-stationary",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/bicycling-stationary",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "crd"
+  },
+  {
+    "id": null,
+    "name": "Bodyweight Lunge",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/bodyweight-lunge",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/bodyweight-lunge",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Bodyweight Reverse Lunge",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/bodyweight-reverse-lunge",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/bodyweight-reverse-lunge",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Bodyweight Squat",
+    "aliases": [
+      "Air Squat",
+      "Prisoner Squat"
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/bodyweight-squat",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/bodyweight-squat",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Bodyweight Walking Lunge",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "nn",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/bodyweight-walking-lunge",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/bodyweight-walking-lunge",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Bosu Ball Squat",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "exb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/bosu-ball-squat",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/bosu-ball-squat",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Box Squat",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/box-squat",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/box-squat",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "add",
+      "clv",
+      "glt",
+      "hms",
+      "lwb"
+    ],
+    "type_code": "pwr"
+  },
+  {
+    "id": null,
+    "name": "Box Squat with Bands",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "e",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/box-squat-with-bands",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/box-squat-with-bands",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "abc",
+      "add",
+      "clv",
+      "glt",
+      "hms",
+      "lwb"
+    ],
+    "type_code": "pwr"
+  },
+  {
+    "id": null,
+    "name": "Box Squat with Chains",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "e",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/box-squat-with-chains",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/box-squat-with-chains",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "abc",
+      "add",
+      "clv",
+      "glt",
+      "hms",
+      "lwb"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Burpee",
+    "aliases": [
+      "Burpees"
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/burpee",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/burpee",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "chs",
+      "clv",
+      "hms",
+      "shl",
+      "trc"
+    ],
+    "type_code": "crd"
+  },
+  {
+    "id": null,
+    "name": "Burpee Over Barbell",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/burpee-over-barbell",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/burpee-over-barbell",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "chs",
+      "clv",
+      "glt",
+      "hms",
+      "trc"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "Butt Kicks",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/butt-kicks",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/butt-kicks",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "hms"
+    ],
+    "type_code": "crd"
+  },
+  {
+    "id": null,
+    "name": "Cable Deadlifts",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "cbl",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/cable-deadlifts",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/cable-deadlifts",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "frr",
+      "glt",
+      "hms",
+      "lwb"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Cable Hip Adduction",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "cbl",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/cable-hip-adduction",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/cable-hip-adduction",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Car Deadlift",
+    "aliases": [
+      "Deadlift Apparatus"
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/car-deadlift",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/car-deadlift",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "frr",
+      "glt",
+      "hms",
+      "lwb",
+      "trp"
+    ],
+    "type_code": "stn"
+  },
+  {
+    "id": null,
+    "name": "Chair Squat",
+    "aliases": [
+      "Smith Machine Squat"
+    ],
+    "desc": "",
+    "equip_code": "mch",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/chair-squat",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/chair-squat",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Clean from Blocks",
+    "aliases": [
+      "Clean From Boxes"
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/clean-from-blocks",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/clean-from-blocks",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms",
+      "shl",
+      "trp"
+    ],
+    "type_code": "olw"
+  },
+  {
+    "id": null,
+    "name": "Clean Pull",
+    "aliases": [
+      "Clean High Pull"
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/clean-pull-",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/clean-pull-",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "frr",
+      "glt",
+      "hms",
+      "lwb",
+      "trp"
+    ],
+    "type_code": "olw"
+  },
+  {
+    "id": null,
+    "name": "Conan's Wheel",
+    "aliases": [
+      "Conans",
+      "Wheel of Pain"
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "na",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/conans-wheel",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/conans-wheel",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "abd",
+      "bcp",
+      "clv",
+      "frr",
+      "lwb",
+      "shl",
+      "trp"
+    ],
+    "type_code": "stn"
+  },
+  {
+    "id": null,
+    "name": "Defensive Slide",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "na",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/defensive-slide",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/defensive-slide",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "add",
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "crd"
+  },
+  {
+    "id": null,
+    "name": "Depth Jump Leap",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/depth-jump-leap",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/depth-jump-leap",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "abc",
+      "add",
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "Double Leg Butt Kick",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/double-leg-butt-kick",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/double-leg-butt-kick",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "abc",
+      "add",
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "Dumbbell Goblet Squat",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/dumbbell-goblet-squat",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/dumbbell-goblet-squat",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Dumbbell Lunges",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/dumbbell-lunges",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/dumbbell-lunges",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Dumbbell Overhead Squat",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/dumbbell-overhead-squat-",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/dumbbell-overhead-squat-",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms",
+      "lwb",
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Dumbbell Rear Lunge",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/dumbbell-rear-lunge",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/dumbbell-rear-lunge",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Dumbbell Seated Box Jump",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/dumbbell-seated-box-jump",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/dumbbell-seated-box-jump",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "Dumbbell Side Lunge",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/dumbbell-side-lunge",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/dumbbell-side-lunge",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "add",
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Dumbbell Squat",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/dumbbell-squat",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/dumbbell-squat",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms",
+      "lwb"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Dumbbell Squat To A Bench",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/dumbbell-squat-to-a-bench",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/dumbbell-squat-to-a-bench",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms",
+      "lwb"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Dumbbell Step Ups",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/dumbbell-step-ups",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/dumbbell-step-ups",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Dumbbell Walking Lunge",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/dumbbell-walking-lunge",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/dumbbell-walking-lunge",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Elevated Back Lunge",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/elevated-back-lunge",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/elevated-back-lunge",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Elliptical Trainer",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "mch",
+    "force_code": "na",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/elliptical-trainer",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/elliptical-trainer",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "crd"
+  },
+  {
+    "id": null,
+    "name": "Fast Kick With Arm Circles",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "na",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/fast-kick-with-arm-circles",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/fast-kick-with-arm-circles",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms",
+      "shl"
+    ],
+    "type_code": "crd"
+  },
+  {
+    "id": null,
+    "name": "Fast Skipping",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/fast-skipping",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/fast-skipping",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "abc",
+      "add",
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "Feet Jack",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "na",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/feet-jack",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/feet-jack",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "Football Up-Down",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "na",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/football-up-down",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/football-up-down",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "chs",
+      "clv",
+      "hms",
+      "shl",
+      "trc"
+    ],
+    "type_code": "crd"
+  },
+  {
+    "id": null,
+    "name": "Forward Band Walk",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bnd",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/forward-band-walk",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/forward-band-walk",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Frankenstein Squat",
+    "aliases": [
+      "Hands-Free Front Squat"
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/frankenstein-squat",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/frankenstein-squat",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "abd",
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "olw"
+  },
+  {
+    "id": null,
+    "name": "Freehand Jump Squat",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/freehand-jump-squat",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/freehand-jump-squat",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Frog Hops",
+    "aliases": [
+      "Prisoner Squat Jump"
+    ],
+    "desc": "",
+    "equip_code": "nn",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/frog-hops",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/frog-hops",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Front Barbell Squat",
+    "aliases": [
+      "Front Squats"
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "e",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/front-barbell-squat",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/front-barbell-squat",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Front Barbell Squat To A Bench",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "e",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/front-barbell-squat-to-a-bench",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/front-barbell-squat-to-a-bench",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Front Cone Hops (or hurdle hops)",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/front-cone-hops-or-hurdle-hops",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/front-cone-hops-or-hurdle-hops",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "abc",
+      "add",
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "Front Squat (Bodybuilder)",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/front-squat-bodybuilder",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/front-squat-bodybuilder",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Front Squat (Clean Grip)",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/front-squat-clean-grip",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/front-squat-clean-grip",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Front Squat Push Press",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/front-squat-push-press",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/front-squat-push-press",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "abd",
+      "mdb",
+      "shl",
+      "trc",
+      "trp"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Front Squats With Two Kettlebells",
+    "aliases": [
+      "Kettlebell Front Squat"
+    ],
+    "desc": "",
+    "equip_code": "ktt",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/front-squats-with-two-kettlebells",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/front-squats-with-two-kettlebells",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Front-To-Back Squat With Belt",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/front-to-back-squat-with-belt",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/front-to-back-squat-with-belt",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Goblet Squat",
+    "aliases": [
+      "Kettlebell Squat"
+    ],
+    "desc": "",
+    "equip_code": "ktt",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/goblet-squat",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/goblet-squat",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms",
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Hack Squat",
+    "aliases": [
+      "Hack Squats"
+    ],
+    "desc": "",
+    "equip_code": "mch",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/hack-squat",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/hack-squat",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Hang Clean",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/hang-clean",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/hang-clean",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "frr",
+      "glt",
+      "hms",
+      "lwb",
+      "shl",
+      "trp"
+    ],
+    "type_code": "olw"
+  },
+  {
+    "id": null,
+    "name": "Hang Clean - Below the Knees",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/hang-clean-below-the-knees",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/hang-clean-below-the-knees",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "frr",
+      "glt",
+      "hms",
+      "lwb",
+      "shl",
+      "trp"
+    ],
+    "type_code": "olw"
+  },
+  {
+    "id": null,
+    "name": "Heaving Snatch Balance",
+    "aliases": [
+      "Drop Snatch"
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/heaving-snatch-balance",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/heaving-snatch-balance",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "abd",
+      "frr",
+      "glt",
+      "hms",
+      "shl",
+      "trc"
+    ],
+    "type_code": "olw"
+  },
+  {
+    "id": null,
+    "name": "High Knee Jog",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/high-knee-jog",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/high-knee-jog",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "hms"
+    ],
+    "type_code": "crd"
+  },
+  {
+    "id": null,
+    "name": "Hip Flexion with Band",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bnd",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/hip-flexion-with-band",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/hip-flexion-with-band",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Ice Skater",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/ice-skater",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/ice-skater",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "Intermediate Hip Flexor and Quad Stretch",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "stt",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/intermediate-hip-flexor-and-quad-stretch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/intermediate-hip-flexor-and-quad-stretch",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Iron Crosses (stretch)",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "nn",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/iron-crosses-stretch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/iron-crosses-stretch",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Jefferson Squats",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/jefferson-squats",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/jefferson-squats",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms",
+      "lwb",
+      "trp"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Jerk Dip Squat",
+    "aliases": [
+      "Dip Squat"
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/jerk-dip-squat",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/jerk-dip-squat",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "abd",
+      "clv"
+    ],
+    "type_code": "olw"
+  },
+  {
+    "id": null,
+    "name": "Jog In Place",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "na",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/jog-in-place",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/jog-in-place",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "crd"
+  },
+  {
+    "id": null,
+    "name": "Jogging-Treadmill",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "mch",
+    "force_code": "na",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/jogging-treadmill",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/jogging-treadmill",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "glt",
+      "hms"
+    ],
+    "type_code": "crd"
+  },
+  {
+    "id": null,
+    "name": "Jump Lunge To Feet Jack",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/jump-lunge-to-feet-jack",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/jump-lunge-to-feet-jack",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "Jump Squat",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/jump-squat",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/jump-squat",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "Jumping Jacks",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "nn",
+    "force_code": "na",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/jumping-jacks",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/jumping-jacks",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "shl"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "Kettlebell Curtsy Lunge",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "ktt",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/kettlebell-curtsy-lunge",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/kettlebell-curtsy-lunge",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Kettlebell Pistol Squat",
+    "aliases": [
+      "Kettlebell One-Legged Squat"
+    ],
+    "desc": "",
+    "equip_code": "ktt",
+    "force_code": "psh",
+    "level_code": "e",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/kettlebell-pistol-squat",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/kettlebell-pistol-squat",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms",
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Kettlebell Sumo Squat",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "ktt",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/kettlebell-sumo-squat",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/kettlebell-sumo-squat",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Kneeling Hip Flexor",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "nn",
+    "force_code": "stt",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/kneeling-hip-flexor",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/kneeling-hip-flexor",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Lateral Speed Step",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/lateral-speed-step",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/lateral-speed-step",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "hms"
+    ],
+    "type_code": "crd"
+  },
+  {
+    "id": null,
+    "name": "Leg Extensions",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "mch",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/leg-extensions",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/leg-extensions",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Leg Press",
+    "aliases": [
+      "Leg Presses"
+    ],
+    "desc": "",
+    "equip_code": "mch",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/leg-press",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/leg-press",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Leverage Deadlift",
+    "aliases": [
+      "Leverage Squat"
+    ],
+    "desc": "",
+    "equip_code": "mch",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/leverage-deadlift",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/leverage-deadlift",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Linear Depth Jump",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/linear-depth-jump",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/linear-depth-jump",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "Looking At Ceiling",
+    "aliases": [
+      "Kneeling Quad Stretch"
+    ],
+    "desc": "",
+    "equip_code": "nn",
+    "force_code": "stt",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/looking-at-ceiling",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/looking-at-ceiling",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Lunge Sprint",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "mch",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/lunge-sprint",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/lunge-sprint",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Lying Machine Squat",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "mch",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/lying-machine-squat",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/lying-machine-squat",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Lying Prone Quadriceps",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "na",
+    "level_code": "e",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/lying-prone-quadriceps",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/lying-prone-quadriceps",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Machine Squat",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "mch",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/machine-squat",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/machine-squat",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Mountain Climbers",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "nn",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/mountain-climbers",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/mountain-climbers",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "chs",
+      "hms",
+      "shl"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "Narrow Stance Hack Squats",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "mch",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/narrow-stance-hack-squats",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/narrow-stance-hack-squats",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Narrow Stance Leg Press",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "mch",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/narrow-stance-leg-press",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/narrow-stance-leg-press",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Narrow Stance Squats",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/narrow-stance-squats",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/narrow-stance-squats",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms",
+      "lwb"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Olympic Squat",
+    "aliases": [
+      "High Bar Squat",
+      "Squat"
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/olympic-squat-",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/olympic-squat-",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "olw"
+  },
+  {
+    "id": null,
+    "name": "On Your Side Quad Stretch",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "nn",
+    "force_code": "stt",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/on-your-side-quad-stretch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/on-your-side-quad-stretch",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "On-Your-Back Quad Stretch",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "stt",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/on-your-back-quad-stretch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/on-your-back-quad-stretch",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "One Half Locust",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "nn",
+    "force_code": "stt",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/one-half-locust",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/one-half-locust",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "abd",
+      "bcp",
+      "chs"
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "One Leg Barbell Squat",
+    "aliases": [
+      "Bulgarian Split Squat",
+      "Rear Foot Elevated Split Squat",
+      "Single-Leg Squat"
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "e",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/one-leg-barbell-squat",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/one-leg-barbell-squat",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "One-Arm Overhead Kettlebell Squats",
+    "aliases": [
+      "Overhead Squat"
+    ],
+    "desc": "",
+    "equip_code": "ktt",
+    "force_code": "psh",
+    "level_code": "e",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/one-arm-overhead-kettlebell-squats",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/one-arm-overhead-kettlebell-squats",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms",
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "One-Arm Side Deadlift",
+    "aliases": [
+      "Suitcase Deadlift"
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "e",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/one-arm-side-deadlift",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/one-arm-side-deadlift",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "abd",
+      "clv",
+      "glt",
+      "hms",
+      "lwb",
+      "trp"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Overhead Squat",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "e",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/overhead-squat",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/overhead-squat",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "abd",
+      "clv",
+      "glt",
+      "hms",
+      "lwb",
+      "shl",
+      "trc"
+    ],
+    "type_code": "olw"
+  },
+  {
+    "id": null,
+    "name": "Pistol Squat",
+    "aliases": [
+      "One-Legged Squat"
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/pistol-squat",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/pistol-squat",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Plie Dumbbell Squat",
+    "aliases": [
+      "Sumo Dumbbell Squat"
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/plie-dumbbell-squat",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/plie-dumbbell-squat",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "abd",
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Pop Squat",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/pop-squat",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/pop-squat",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "abc",
+      "add",
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "Power Jerk",
+    "aliases": [
+      "Push Jerk"
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "e",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/power-jerk-",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/power-jerk-",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "abd",
+      "clv",
+      "glt",
+      "hms",
+      "shl",
+      "trc"
+    ],
+    "type_code": "olw"
+  },
+  {
+    "id": null,
+    "name": "Power Snatch from Blocks",
+    "aliases": [
+      "Power Snatch From Boxes"
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/power-snatch-from-blocks",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/power-snatch-from-blocks",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "frr",
+      "glt",
+      "hms",
+      "lwb",
+      "shl",
+      "trc",
+      "trp"
+    ],
+    "type_code": "olw"
+  },
+  {
+    "id": null,
+    "name": "Quad Stretch",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "stt",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/quad-stretch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/quad-stretch",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Quadriceps-SMR",
+    "aliases": [
+      "Foam Roll Quadriceps",
+      "Myofascial Release Quads"
+    ],
+    "desc": "",
+    "equip_code": "fmr",
+    "force_code": "stt",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/quadriceps-smr",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/quadriceps-smr",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Quick Leap",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/quick-leap",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/quick-leap",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "hms"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "Rear Leg Raises",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/rear-leg-raises",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/rear-leg-raises",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Recumbent Bike",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "mch",
+    "force_code": "na",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/recumbent-bike",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/recumbent-bike",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "crd"
+  },
+  {
+    "id": null,
+    "name": "Reverse Band Box Squat",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/reverse-band-box-squat",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/reverse-band-box-squat",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "abc",
+      "add",
+      "clv",
+      "frr",
+      "glt",
+      "hms",
+      "lwb"
+    ],
+    "type_code": "pwr"
+  },
+  {
+    "id": null,
+    "name": "Reverse Band Power Squat",
+    "aliases": [
+      "Reverse Band Squat"
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "e",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/reverse-band-power-squat",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/reverse-band-power-squat",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "add",
+      "clv",
+      "glt",
+      "hms",
+      "lwb"
+    ],
+    "type_code": "pwr"
+  },
+  {
+    "id": null,
+    "name": "Rickshaw Deadlift",
+    "aliases": [
+      "Frame Deadlift"
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/rickshaw-deadlift-",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/rickshaw-deadlift-",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "frr",
+      "glt",
+      "hms",
+      "lwb",
+      "trp"
+    ],
+    "type_code": "stn"
+  },
+  {
+    "id": null,
+    "name": "Rocket Jump",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/rocket-jump",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/rocket-jump",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "hms"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "Rope Jumping",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "na",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/rope-jumping",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/rope-jumping",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "hms"
+    ],
+    "type_code": "crd"
+  },
+  {
+    "id": null,
+    "name": "Rowing, Stationary",
+    "aliases": [
+      "Stationary Rowing"
+    ],
+    "desc": "",
+    "equip_code": "mch",
+    "force_code": "na",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/rowing-stationary",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/rowing-stationary",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "bcp",
+      "clv",
+      "glt",
+      "hms",
+      "lwb",
+      "mdb"
+    ],
+    "type_code": "crd"
+  },
+  {
+    "id": null,
+    "name": "Running, Treadmill",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "mch",
+    "force_code": "na",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/running-treadmill",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/running-treadmill",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "crd"
+  },
+  {
+    "id": null,
+    "name": "Sandbag Load",
+    "aliases": [
+      "Sandbags"
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/sandbag-load",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/sandbag-load",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "abd",
+      "bcp",
+      "clv",
+      "frr",
+      "glt",
+      "hms",
+      "lwb",
+      "mdb",
+      "shl",
+      "trp"
+    ],
+    "type_code": "stn"
+  },
+  {
+    "id": null,
+    "name": "Scissors Jump",
+    "aliases": [
+      "Lunge Jump"
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/scissors-jump",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/scissors-jump",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "glt",
+      "hms"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "Seated Leg Press",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "mch",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/seated-leg-press",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/seated-leg-press",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Side Hop-Sprint",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/side-hop-sprint",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/side-hop-sprint",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "abc",
+      "add",
+      "clv",
+      "hms"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "Side Lunge",
+    "aliases": [
+      "Bodyweight Side Lunge"
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/side-lunge",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/side-lunge",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Side Standing Long Jump",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "nn",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/side-standing-long-jump",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/side-standing-long-jump",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "Side to Side Box Shuffle",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/side-to-side-box-shuffle",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/side-to-side-box-shuffle",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "abc",
+      "add",
+      "clv",
+      "hms"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "Single Arm Overhead Kettlebell Squat",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "ktt",
+    "force_code": "psh",
+    "level_code": "e",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/single-arm-overhead-kettlebell-squat",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/single-arm-overhead-kettlebell-squat",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "glt",
+      "hms",
+      "lwb",
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Single Leg Butt Kick",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/single-leg-butt-kick",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/single-leg-butt-kick",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "hms"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "Single Leg Push-off",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/single-leg-push-off",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/single-leg-push-off",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "hms"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "Single-Arm Dumbbell Overhead Squat",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/single-arm-dumbbell-overhead-squat",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/single-arm-dumbbell-overhead-squat",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms",
+      "lwb",
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Single-Cone Sprint Drill",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/single-cone-sprint-drill",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/single-cone-sprint-drill",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "Single-Leg Box Jump",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "psh",
+    "level_code": "e",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/single-leg-box-jump",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/single-leg-box-jump",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "Single-Leg High Box Squat",
+    "aliases": [
+      "Band-Assisted Step-Up"
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/single-leg-high-box-squat",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/single-leg-high-box-squat",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Single-Leg Hop Progression",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/single-leg-hop-progression",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/single-leg-hop-progression",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "abc",
+      "add",
+      "clv",
+      "hms"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "Single-Leg Lateral Hop",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/single-leg-lateral-hop",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/single-leg-lateral-hop",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "abc",
+      "add",
+      "clv",
+      "hms"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "Single-Leg Leg Extension",
+    "aliases": [
+      "Leg Extension"
+    ],
+    "desc": "",
+    "equip_code": "mch",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/single-leg-leg-extension",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/single-leg-leg-extension",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Single-Leg Press",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "mch",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/single-leg-press",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/single-leg-press",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Single-Leg Skater Squat",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/single-leg-skater-squat",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/single-leg-skater-squat",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Single-Leg Squat To Box",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/single-leg-squat-to-box",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/single-leg-squat-to-box",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Single-Leg Stride Jump",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/single-leg-stride-jump",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/single-leg-stride-jump",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "abc",
+      "add",
+      "clv",
+      "hms"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "Sit Squats",
+    "aliases": [
+      "Air Squats"
+    ],
+    "desc": "",
+    "equip_code": "nn",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/sit-squats",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/sit-squats",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "abc",
+      "glt",
+      "hms"
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Skating",
+    "aliases": [
+      "Rollerblading"
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "na",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/skating",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/skating",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "abc",
+      "add",
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "crd"
+  },
+  {
+    "id": null,
+    "name": "Sled Drag - Harness",
+    "aliases": [
+      "Sled Pull"
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/sled-drag-harness",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/sled-drag-harness",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "stn"
+  },
+  {
+    "id": null,
+    "name": "Sled Push",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/sled-push",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/sled-push",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "chs",
+      "clv",
+      "glt",
+      "hms",
+      "trc"
+    ],
+    "type_code": "stn"
+  },
+  {
+    "id": null,
+    "name": "Slide Jump Shot",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/slide-jump-shot",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/slide-jump-shot",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms",
+      "shl"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "Slow Jog",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "na",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/slow-jog",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/slow-jog",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "crd"
+  },
+  {
+    "id": null,
+    "name": "Smith Machine Leg Press",
+    "aliases": [
+      "Inverted Leg Press"
+    ],
+    "desc": "",
+    "equip_code": "mch",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/smith-machine-leg-press",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/smith-machine-leg-press",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Smith Machine Pistol Squat",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "mch",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/smith-machine-pistol-squat",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/smith-machine-pistol-squat",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Smith Machine Squat",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "mch",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/smith-machine-squat",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/smith-machine-squat",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms",
+      "lwb"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Smith Single-Leg Split Squat",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "mch",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/smith-single-leg-split-squat",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/smith-single-leg-split-squat",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Snatch",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/snatch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/snatch",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "bcp",
+      "glt",
+      "hms",
+      "lwb",
+      "shl",
+      "trc",
+      "trp"
+    ],
+    "type_code": "olw"
+  },
+  {
+    "id": null,
+    "name": "Snatch Balance",
+    "aliases": [
+      "Drop Snatch"
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/snatch-balance-",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/snatch-balance-",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms",
+      "shl",
+      "trc"
+    ],
+    "type_code": "olw"
+  },
+  {
+    "id": null,
+    "name": "Snatch from Blocks",
+    "aliases": [
+      "Snatch From Boxes"
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "e",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/snatch-from-blocks",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/snatch-from-blocks",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "frr",
+      "glt",
+      "hms",
+      "lwb",
+      "shl",
+      "trc",
+      "trp"
+    ],
+    "type_code": "olw"
+  },
+  {
+    "id": null,
+    "name": "Speed Box Squat",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/speed-box-squat",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/speed-box-squat",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "pwr"
+  },
+  {
+    "id": null,
+    "name": "Speed Squats",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "e",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/speed-squats",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/speed-squats",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms",
+      "lwb"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Split Clean",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/split-clean",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/split-clean",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "frr",
+      "glt",
+      "hms",
+      "lwb",
+      "shl",
+      "trp"
+    ],
+    "type_code": "olw"
+  },
+  {
+    "id": null,
+    "name": "Split Jerk",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/split-jerk",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/split-jerk",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "glt",
+      "hms",
+      "shl",
+      "trc"
+    ],
+    "type_code": "olw"
+  },
+  {
+    "id": null,
+    "name": "Split Jump",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/split-jump",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/split-jump",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "Split Squat with Dumbbells",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/split-squat-with-dumbbells",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/split-squat-with-dumbbells",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Split Squat With Kettlebells",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "ktt",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/split-squat-with-kettlebells",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/split-squat-with-kettlebells",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Square Hop",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/square-hop",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/square-hop",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "hms"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "Squat Jerk",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "e",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/squat-jerk",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/squat-jerk",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms",
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Squat with Bands",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/squat-with-bands",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/squat-with-bands",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "add",
+      "clv",
+      "glt",
+      "hms",
+      "lwb"
+    ],
+    "type_code": "pwr"
+  },
+  {
+    "id": null,
+    "name": "Squat with Chains",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/squat-with-chains",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/squat-with-chains",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "add",
+      "clv",
+      "glt",
+      "hms",
+      "lwb"
+    ],
+    "type_code": "pwr"
+  },
+  {
+    "id": null,
+    "name": "Squat with Plate Movers",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/squat-with-plate-movers",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/squat-with-plate-movers",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "abc",
+      "add",
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Squats - With Bands",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bnd",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/squats-with-bands",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/squats-with-bands",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms",
+      "lwb"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Stairmaster",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "mch",
+    "force_code": "na",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/stairmaster",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/stairmaster",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "crd"
+  },
+  {
+    "id": null,
+    "name": "Standing Elevated Quad Stretch",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "stt",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/standing-elevated-quad-stretch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/standing-elevated-quad-stretch",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Standing Hip Flexors",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "nn",
+    "force_code": "stt",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/standing-hip-flexors",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/standing-hip-flexors",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Standing Long Jump",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/standing-long-jump",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/standing-long-jump",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "Star Jump",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/star-jump",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/star-jump",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms",
+      "shl"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "Step Mill",
+    "aliases": [
+      "Stairmaster"
+    ],
+    "desc": "",
+    "equip_code": "mch",
+    "force_code": "na",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/step-mill",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/step-mill",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "crd"
+  },
+  {
+    "id": null,
+    "name": "Stride Jump Crossover",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/stride-jump-crossover",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/stride-jump-crossover",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "abc",
+      "add",
+      "clv",
+      "hms"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "Suspended Split Squat",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/suspended-split-squat",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/suspended-split-squat",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "abc",
+      "add",
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Tire Flip",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/tire-flip",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/tire-flip",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "chs",
+      "clv",
+      "frr",
+      "glt",
+      "hms",
+      "lwb",
+      "shl",
+      "trc",
+      "trp"
+    ],
+    "type_code": "stn"
+  },
+  {
+    "id": null,
+    "name": "Trail Running/Walking",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "nn",
+    "force_code": "na",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/trail-runningwalking",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/trail-runningwalking",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "crd"
+  },
+  {
+    "id": null,
+    "name": "Trap Bar Deadlift",
+    "aliases": [
+      "Hex Bar Deadlift"
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/trap-bar-deadlift",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/trap-bar-deadlift",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Trap Bar Jump",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/trap-bar-jump",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/trap-bar-jump",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "Vertical Mountain Climber",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/vertical-mountain-climber",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/vertical-mountain-climber",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms",
+      "lts",
+      "shl"
+    ],
+    "type_code": "crd"
+  },
+  {
+    "id": null,
+    "name": "Walking High Knees",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/walking-high-knees",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/walking-high-knees",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "crd"
+  },
+  {
+    "id": null,
+    "name": "Walking Lunge With Overhead Weight",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/walking-lunge-with-overhead-weight",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/walking-lunge-with-overhead-weight",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms",
+      "lwb",
+      "mdb",
+      "shl",
+      "trc",
+      "trp"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Walking, Treadmill",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "mch",
+    "force_code": "na",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/walking-treadmill",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/walking-treadmill",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "crd"
+  },
+  {
+    "id": null,
+    "name": "Wall Ball Squat",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "mdb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/wall-ball-squat",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/wall-ball-squat",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "abd",
+      "clv",
+      "glt",
+      "hms",
+      "mdb",
+      "shl",
+      "trc",
+      "trp"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "Wall Squat",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/wall-squat",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/wall-squat",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Weighted Jump Squat",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/weighted-jump-squat-",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/weighted-jump-squat-",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms",
+      "lwb"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Weighted Sissy Squat",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "e",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/weighted-sissy-squat",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/weighted-sissy-squat",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Weighted Squat",
+    "aliases": [
+      "Belt Squat",
+      "Hip-Belt Squat"
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/weighted-squat",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/weighted-squat",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Wide-Stance Barbell Squat",
+    "aliases": [
+      "Sumo Squat"
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/wide-stance-barbell-squat",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/wide-stance-barbell-squat",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "add",
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Wide-Stance Leg Press",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "mch",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/wide-stance-leg-press",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/wide-stance-leg-press",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Yoke Walk",
+    "aliases": [
+      "Fridge Carry"
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "na",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/yoke-walk",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/yoke-walk",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "abc",
+      "abd",
+      "add",
+      "clv",
+      "glt",
+      "hms",
+      "lwb"
+    ],
+    "type_code": "stn"
+  },
+  {
+    "id": null,
+    "name": "Zercher Squats",
+    "aliases": [
+      "Front-Loaded Barbell Squat"
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "e",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/zercher-squats",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/zercher-squats",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  }
+]

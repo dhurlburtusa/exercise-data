@@ -1,0 +1,270 @@
+[
+  {
+    "id": null,
+    "name": "Adductor",
+    "aliases": [
+      "Foam Roll Inner Thigh",
+      "Myofascial Release"
+    ],
+    "desc": "",
+    "equip_code": "fmr",
+    "force_code": "stt",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/adductor",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/adductor",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "add",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Adductor/Groin",
+    "aliases": [
+      "Adductor PNF Stretch",
+      "Adductor Stretch",
+      "Groin PNF Stretch"
+    ],
+    "desc": "",
+    "equip_code": "nn",
+    "force_code": "stt",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/adductorgroin-",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/adductorgroin-",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "add",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Band Hip Adductions",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bnd",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/band-hip-adductions",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/band-hip-adductions",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "add",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Carioca Quick Step",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "nn",
+    "force_code": "na",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/carioca-quick-step",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/carioca-quick-step",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "add",
+    "other_mscl_grp_codes": [
+      "abc",
+      "abd",
+      "clv",
+      "glt",
+      "hms",
+      "qdr"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "Groin and Back Stretch",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "nn",
+    "force_code": "stt",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/groin-and-back-stretch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/groin-and-back-stretch",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "add",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Groiners",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/groiners-",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/groiners-",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "add",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Lateral Bound",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/lateral-bound-",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/lateral-bound-",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "add",
+    "other_mscl_grp_codes": [
+      "abc",
+      "clv",
+      "glt",
+      "hms",
+      "qdr"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "Lateral Box Jump",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/lateral-box-jump",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/lateral-box-jump",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "add",
+    "other_mscl_grp_codes": [
+      "abc",
+      "clv",
+      "glt",
+      "hms",
+      "qdr"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "Lateral Cone Hops",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/lateral-cone-hops",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/lateral-cone-hops",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "add",
+    "other_mscl_grp_codes": [
+      "abc",
+      "clv",
+      "glt",
+      "hms",
+      "qdr"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "Lying Bent Leg Groin",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "stt",
+    "level_code": "e",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/lying-bent-leg-groin",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/lying-bent-leg-groin",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "add",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Side Leg Raises",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/side-leg-raises",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/side-leg-raises",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "add",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Side Lying Groin Stretch",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "nn",
+    "force_code": "stt",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/side-lying-groin-stretch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/side-lying-groin-stretch",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "add",
+    "other_mscl_grp_codes": [
+      "hms"
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Thigh Adductor",
+    "aliases": [
+      "Inner Thigh Machine"
+    ],
+    "desc": "",
+    "equip_code": "mch",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/thigh-adductor",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/thigh-adductor",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "add",
+    "other_mscl_grp_codes": [
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  }
+]

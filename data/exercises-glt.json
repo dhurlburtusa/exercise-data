@@ -1,0 +1,516 @@
+[
+  {
+    "id": null,
+    "name": "Ankle On The Knee",
+    "aliases": [
+      "Hip Stretch",
+      "Piriformis Stretch"
+    ],
+    "desc": "",
+    "equip_code": "nn",
+    "force_code": "stt",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/ankle-on-the-knee",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/ankle-on-the-knee",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "glt",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Barbell Glute Bridge",
+    "aliases": [
+      "Hip Thrust"
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/barbell-glute-bridge",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/barbell-glute-bridge",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "glt",
+    "other_mscl_grp_codes": [
+      "clv",
+      "hms"
+    ],
+    "type_code": "pwr"
+  },
+  {
+    "id": null,
+    "name": "Barbell Hip Thrust",
+    "aliases": [
+      "Bridge",
+      "Weighted Hip Extension"
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/barbell-hip-thrust",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/barbell-hip-thrust",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "glt",
+    "other_mscl_grp_codes": [
+      "clv",
+      "hms"
+    ],
+    "type_code": "pwr"
+  },
+  {
+    "id": null,
+    "name": "Butt Lift (Bridge)",
+    "aliases": [
+      "Glute Bridge",
+      "Hip Thrust"
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/butt-lift-bridge",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/butt-lift-bridge",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "glt",
+    "other_mscl_grp_codes": [
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Downward Facing Balance",
+    "aliases": [
+      "Hip Extension"
+    ],
+    "desc": "",
+    "equip_code": "exb",
+    "force_code": "stt",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/downward-facing-balance",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/downward-facing-balance",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "glt",
+    "other_mscl_grp_codes": [
+      "abd",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Flutter Kicks",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/flutter-kicks",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/flutter-kicks",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "glt",
+    "other_mscl_grp_codes": [
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Glute Bridge Hamstring Walkout",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/glute-bridge-hamstring-walkout",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/glute-bridge-hamstring-walkout",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "glt",
+    "other_mscl_grp_codes": [
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Glute Kickback",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/glute-kickback",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/glute-kickback",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "glt",
+    "other_mscl_grp_codes": [
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Hip Extension with Bands",
+    "aliases": [
+      "Glute Kickback"
+    ],
+    "desc": "",
+    "equip_code": "bnd",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/hip-extension-with-bands",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/hip-extension-with-bands",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "glt",
+    "other_mscl_grp_codes": [
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Hip Lift with Band",
+    "aliases": [
+      "Floor Bridge",
+      "Glute Bridge",
+      "Hip Thrust"
+    ],
+    "desc": "",
+    "equip_code": "bnd",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/hip-lift-with-band",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/hip-lift-with-band",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "glt",
+    "other_mscl_grp_codes": [
+      "clv",
+      "hms"
+    ],
+    "type_code": "pwr"
+  },
+  {
+    "id": null,
+    "name": "Knee Across The Body",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "nn",
+    "force_code": "stt",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/knee-across-the-body",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/knee-across-the-body",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "glt",
+    "other_mscl_grp_codes": [
+      "abc",
+      "lwb"
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Kneeling Jump Squat",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "e",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/kneeling-jump-squat",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/kneeling-jump-squat",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "glt",
+    "other_mscl_grp_codes": [
+      "clv",
+      "hms",
+      "qdr"
+    ],
+    "type_code": "olw"
+  },
+  {
+    "id": null,
+    "name": "Kneeling Squat",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/kneeling-squat",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/kneeling-squat",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "glt",
+    "other_mscl_grp_codes": [
+      "abd",
+      "hms",
+      "lwb"
+    ],
+    "type_code": "pwr"
+  },
+  {
+    "id": null,
+    "name": "Leg Lift",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/leg-lift",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/leg-lift",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "glt",
+    "other_mscl_grp_codes": [
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Lying Glute",
+    "aliases": [
+      "PNF Glute Stretch"
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "stt",
+    "level_code": "e",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/lying-glute",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/lying-glute",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "glt",
+    "other_mscl_grp_codes": [
+      "abc"
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Neck Bridge Supine",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/neck-bridge-supine",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/neck-bridge-supine",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "glt",
+    "other_mscl_grp_codes": [
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "One Knee To Chest",
+    "aliases": [
+      "Glute Stretch"
+    ],
+    "desc": "",
+    "equip_code": "nn",
+    "force_code": "stt",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/one-knee-to-chest",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/one-knee-to-chest",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "glt",
+    "other_mscl_grp_codes": [
+      "hms",
+      "lwb"
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "One-Legged Cable Kickback",
+    "aliases": [
+      "Cable Hip Extension"
+    ],
+    "desc": "",
+    "equip_code": "cbl",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/one-legged-cable-kickback",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/one-legged-cable-kickback",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "glt",
+    "other_mscl_grp_codes": [
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Physioball Hip Bridge",
+    "aliases": [
+      "Stability Ball Hip Bridge"
+    ],
+    "desc": "",
+    "equip_code": "exb",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/physioball-hip-bridge",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/physioball-hip-bridge",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "glt",
+    "other_mscl_grp_codes": [
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Piriformis-SMR",
+    "aliases": [
+      "Foam Roll Glutes",
+      "Foam Roll Piriformis",
+      "Myofascial Release Piriformis"
+    ],
+    "desc": "",
+    "equip_code": "fmr",
+    "force_code": "stt",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/piriformis-smr",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/piriformis-smr",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "glt",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Pull Through",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "cbl",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/pull-through",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/pull-through",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "glt",
+    "other_mscl_grp_codes": [
+      "hms",
+      "lwb"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Seated Glute",
+    "aliases": [
+      "Glute Stretch"
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "stt",
+    "level_code": "e",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/seated-glute",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/seated-glute",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "glt",
+    "other_mscl_grp_codes": [
+      "add"
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Seated Glute Stretch",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/seated-glute-stretch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/seated-glute-stretch",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "glt",
+    "other_mscl_grp_codes": [
+      "hms"
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Single Leg Glute Bridge",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/single-leg-glute-bridge-",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/single-leg-glute-bridge-",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "glt",
+    "other_mscl_grp_codes": [
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Step-up with Knee Raise",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/step-up-with-knee-raise",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/step-up-with-knee-raise",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "glt",
+    "other_mscl_grp_codes": [
+      "hms",
+      "qdr"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Suspended Hip Thrust",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/suspended-hip-thrust",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/suspended-hip-thrust",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "glt",
+    "other_mscl_grp_codes": [
+      "hms",
+      "lwb"
+    ],
+    "type_code": "str"
+  }
+]

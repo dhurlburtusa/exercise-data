@@ -1,0 +1,1947 @@
+[
+  {
+    "id": null,
+    "name": "90/90 Hamstring",
+    "aliases": [
+      "Dynamic Hamstring Stretch"
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/9090-hamstring",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/9090-hamstring",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "clv"
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Alternating Hang Clean",
+    "aliases": [
+      "Alternating Kettlebell Clean",
+      "Alternating Kettlebell Hang Clean",
+      "Kettlebell Clean"
+    ],
+    "desc": "",
+    "equip_code": "ktt",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/alternating-hang-clean",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/alternating-hang-clean",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "bcp",
+      "clv",
+      "frr",
+      "glt",
+      "lwb",
+      "trp"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Alternating Leg Swing",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "na",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/alternating-leg-swing",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/alternating-leg-swing",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "lwb"
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Ball Leg Curl",
+    "aliases": [
+      "Hamstring Curl",
+      "Physioball Leg Curl",
+      "Stability Ball Leg Curl"
+    ],
+    "desc": "",
+    "equip_code": "exb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/ball-leg-curl",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/ball-leg-curl",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Band Good Morning",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bnd",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/band-good-morning",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/band-good-morning",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "glt",
+      "lwb"
+    ],
+    "type_code": "pwr"
+  },
+  {
+    "id": null,
+    "name": "Band Good Morning (Pull Through)",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bnd",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/band-good-morning-pull-through",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/band-good-morning-pull-through",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "glt",
+      "lwb"
+    ],
+    "type_code": "pwr"
+  },
+  {
+    "id": null,
+    "name": "Barbell Deadlift",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/barbell-deadlift",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/barbell-deadlift",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "lwb"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Box Jump (Multiple Response)",
+    "aliases": [
+      "Front Box Jump"
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/box-jump-multiple-response",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/box-jump-multiple-response",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "abc",
+      "add",
+      "clv",
+      "glt",
+      "qdr"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "Box Skip",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/box-skip",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/box-skip",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "abc",
+      "add",
+      "clv",
+      "glt",
+      "qdr"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "Chair Leg Extended Stretch",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "stt",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/chair-leg-extended-stretch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/chair-leg-extended-stretch",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "add"
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Clean",
+    "aliases": [
+      "Squat Clean"
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/clean",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/clean",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "clv",
+      "frr",
+      "glt",
+      "lwb",
+      "qdr",
+      "shl",
+      "trp"
+    ],
+    "type_code": "olw"
+  },
+  {
+    "id": null,
+    "name": "Clean Deadlift",
+    "aliases": [
+      "Clean-Grip Deadlift"
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/clean-deadlift",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/clean-deadlift",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "frr",
+      "glt",
+      "lwb",
+      "mdb",
+      "qdr",
+      "trp"
+    ],
+    "type_code": "olw"
+  },
+  {
+    "id": null,
+    "name": "Double Kettlebell Alternating Hang Clean",
+    "aliases": [
+      "Alternating Kettlebell Clean"
+    ],
+    "desc": "",
+    "equip_code": "ktt",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/double-kettlebell-alternating-hang-clean",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/double-kettlebell-alternating-hang-clean",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "bcp",
+      "clv",
+      "frr",
+      "glt",
+      "lwb",
+      "qdr",
+      "trp"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Dumbbell Clean",
+    "aliases": [
+      "Dumbbell Power Clean"
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/dumbbell-clean",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/dumbbell-clean",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "clv",
+      "frr",
+      "glt",
+      "lwb",
+      "qdr",
+      "shl",
+      "trp"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Floor Glute-Ham Raise",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "nn",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/floor-glute-ham-raise",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/floor-glute-ham-raise",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Front Box Jump",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/front-box-jump",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/front-box-jump",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "abc",
+      "add",
+      "clv",
+      "glt",
+      "qdr"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "Front Leg Raises",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/front-leg-raises",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/front-leg-raises",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Glute Ham Raise",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "mch",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/glute-ham-raise",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/glute-ham-raise",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt"
+    ],
+    "type_code": "pwr"
+  },
+  {
+    "id": null,
+    "name": "Good Morning",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/good-morning",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/good-morning",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "abd",
+      "glt",
+      "lwb"
+    ],
+    "type_code": "pwr"
+  },
+  {
+    "id": null,
+    "name": "Good Morning off Pins",
+    "aliases": [
+      "Bottoms Up Good Morning"
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/good-morning-off-pins",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/good-morning-off-pins",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "abd",
+      "glt",
+      "lwb"
+    ],
+    "type_code": "pwr"
+  },
+  {
+    "id": null,
+    "name": "Hamstring Stretch",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "nn",
+    "force_code": "stt",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/hamstring-stretch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/hamstring-stretch",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Hamstring-SMR",
+    "aliases": [
+      "Foam Roll Hamstrings",
+      "Hamstrings Myofascial Release"
+    ],
+    "desc": "",
+    "equip_code": "fmr",
+    "force_code": "stt",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/hamstring-smr",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/hamstring-smr",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Hang Snatch",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "e",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/hang-snatch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/hang-snatch",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "abd",
+      "clv",
+      "frr",
+      "glt",
+      "lwb",
+      "qdr",
+      "shl",
+      "trp"
+    ],
+    "type_code": "olw"
+  },
+  {
+    "id": null,
+    "name": "Hang Snatch - Below Knees",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "e",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/hang-snatch-below-knees",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/hang-snatch-below-knees",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "abd",
+      "clv",
+      "frr",
+      "glt",
+      "lwb",
+      "qdr",
+      "shl",
+      "trp"
+    ],
+    "type_code": "olw"
+  },
+  {
+    "id": null,
+    "name": "Hanging Bar Good Morning",
+    "aliases": [
+      "Suspended Good Morning"
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/hanging-bar-good-morning",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/hanging-bar-good-morning",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "abd",
+      "glt",
+      "lwb"
+    ],
+    "type_code": "pwr"
+  },
+  {
+    "id": null,
+    "name": "High Kick",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "na",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/high-kick",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/high-kick",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Hip Stretch With Twist",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "na",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/hip-stretch-with-twist",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/hip-stretch-with-twist",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "abd",
+      "chs",
+      "qdr"
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Hurdle Hops",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/hurdle-hops",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/hurdle-hops",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "abc",
+      "add",
+      "clv",
+      "glt"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "Inchworm",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "na",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/inchworm",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/inchworm",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Intermediate Groin Stretch",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "stt",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/intermediate-groin-stretch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/intermediate-groin-stretch",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Kettlebell Dead Clean",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "ktt",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/kettlebell-dead-clean",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/kettlebell-dead-clean",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "lwb",
+      "qdr",
+      "trp"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Kettlebell Hang Clean",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "ktt",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/kettlebell-hang-clean",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/kettlebell-hang-clean",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "lwb",
+      "shl",
+      "trp"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Kettlebell One-Legged Deadlift",
+    "aliases": [
+      "Single-Leg Deadlift"
+    ],
+    "desc": "",
+    "equip_code": "ktt",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/kettlebell-one-legged-deadlift",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/kettlebell-one-legged-deadlift",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "glt",
+      "lwb"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Knee To Chest",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/knee-to-chest",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/knee-to-chest",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "glt"
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Knee Tuck Jump",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/knee-tuck-jump",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/knee-tuck-jump",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "abc",
+      "add",
+      "clv",
+      "glt",
+      "qdr"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "Leg-Up Hamstring Stretch",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "nn",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/leg-up-hamstring-stretch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/leg-up-hamstring-stretch",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Linear 3-Part Start Technique",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "nn",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/linear-3-part-start-technique",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/linear-3-part-start-technique",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "clv",
+      "qdr"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "Linear Acceleration Wall Drill",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "nn",
+    "force_code": "na",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/linear-acceleration-wall-drill",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/linear-acceleration-wall-drill",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "qdr"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "Lunge Pass Through",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "ktt",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/lunge-pass-through",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/lunge-pass-through",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "qdr"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Lying Hamstring",
+    "aliases": [
+      "PNF Hamstring Stretch"
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "stt",
+    "level_code": "e",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/lying-hamstring",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/lying-hamstring",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "clv"
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Lying Leg Curls",
+    "aliases": [
+      "Lying Hamstrings Curl"
+    ],
+    "desc": "",
+    "equip_code": "mch",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/lying-leg-curls",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/lying-leg-curls",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Moving Claw Series",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "nn",
+    "force_code": "na",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/moving-claw-series-",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/moving-claw-series-",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "clv",
+      "qdr"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "Muscle Snatch",
+    "aliases": [
+      "Snatch"
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/muscle-snatch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/muscle-snatch",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "glt",
+      "lwb",
+      "qdr",
+      "shl",
+      "trc"
+    ],
+    "type_code": "olw"
+  },
+  {
+    "id": null,
+    "name": "Natural Glute Ham Raise",
+    "aliases": [
+      "Glute-Ham Raise",
+      "Leg Curl"
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/natural-glute-ham-raise",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/natural-glute-ham-raise",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "lwb"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "One-Arm Kettlebell Clean",
+    "aliases": [
+      "Kettlebell Clean"
+    ],
+    "desc": "",
+    "equip_code": "ktt",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/one-arm-kettlebell-clean",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/one-arm-kettlebell-clean",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "glt",
+      "lwb",
+      "shl",
+      "trp"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "One-Arm Kettlebell Swings",
+    "aliases": [
+      "Kettlebell Swing"
+    ],
+    "desc": "",
+    "equip_code": "ktt",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/one-arm-kettlebell-swings",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/one-arm-kettlebell-swings",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "lwb",
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "One-Arm Open Palm Kettlebell Clean",
+    "aliases": [
+      "Kettlebell Clean"
+    ],
+    "desc": "",
+    "equip_code": "ktt",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/one-arm-open-palm-kettlebell-clean-",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/one-arm-open-palm-kettlebell-clean-",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "frr",
+      "glt",
+      "lwb",
+      "qdr",
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Open Palm Kettlebell Clean",
+    "aliases": [
+      "Kettlebell Clean"
+    ],
+    "desc": "",
+    "equip_code": "ktt",
+    "force_code": "pll",
+    "level_code": "e",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/open-palm-kettlebell-clean-",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/open-palm-kettlebell-clean-",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "glt",
+      "lwb",
+      "qdr",
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Platform Hamstring Slides",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/platform-hamstring-slides",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/platform-hamstring-slides",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "glt"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Power Clean",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/power-clean",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/power-clean",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "clv",
+      "frr",
+      "glt",
+      "lwb",
+      "mdb",
+      "qdr",
+      "shl",
+      "trc",
+      "trp"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Power Clean from Blocks",
+    "aliases": [
+      "Power Clean From Boxes"
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/power-clean-from-blocks",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/power-clean-from-blocks",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "qdr"
+    ],
+    "type_code": "olw"
+  },
+  {
+    "id": null,
+    "name": "Power Snatch",
+    "aliases": [
+      "Hang Power Snatch"
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "e",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/power-snatch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/power-snatch",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "lwb",
+      "qdr",
+      "shl",
+      "trc",
+      "trp"
+    ],
+    "type_code": "olw"
+  },
+  {
+    "id": null,
+    "name": "Power Stairs",
+    "aliases": [
+      "Power Stair Trainer"
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/power-stairs",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/power-stairs",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "add",
+      "clv",
+      "glt",
+      "lwb",
+      "qdr",
+      "shl",
+      "trp"
+    ],
+    "type_code": "stn"
+  },
+  {
+    "id": null,
+    "name": "Prone Manual Hamstring",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "nn",
+    "force_code": "stt",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/prone-manual-hamstring",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/prone-manual-hamstring",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Prowler Sprint",
+    "aliases": [
+      "Sled Push"
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/prowler-sprint",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/prowler-sprint",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "chs",
+      "clv",
+      "glt",
+      "qdr",
+      "shl"
+    ],
+    "type_code": "crd"
+  },
+  {
+    "id": null,
+    "name": "Reverse Band Sumo Deadlift",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "e",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/reverse-band-sumo-deadlift",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/reverse-band-sumo-deadlift",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "abc",
+      "add",
+      "clv",
+      "frr",
+      "glt",
+      "lwb",
+      "qdr",
+      "trp"
+    ],
+    "type_code": "pwr"
+  },
+  {
+    "id": null,
+    "name": "Reverse Hyperextension",
+    "aliases": [
+      "Reverse Hyper"
+    ],
+    "desc": "",
+    "equip_code": "mch",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/reverse-hyperextension",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/reverse-hyperextension",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Romanian Deadlift",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/romanian-deadlift",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/romanian-deadlift",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "glt"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Romanian Deadlift from Deficit",
+    "aliases": [
+      "Straight-Legged Deadlift"
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/romanian-deadlift-from-deficit",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/romanian-deadlift-from-deficit",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "frr",
+      "glt",
+      "lwb",
+      "trp"
+    ],
+    "type_code": "olw"
+  },
+  {
+    "id": null,
+    "name": "Romanian Deadlift With Dumbbells",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/romanian-deadlift-with-dumbbells",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/romanian-deadlift-with-dumbbells",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "glt",
+      "lwb"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Romanian Deadlift with Kettlebell",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "ktt",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/romanian-deadlift-with-kettlebell",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/romanian-deadlift-with-kettlebell",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "glt",
+      "lwb"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Runner's Stretch",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "nn",
+    "force_code": "stt",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/runners-stretch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/runners-stretch",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "clv"
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Seated Band Hamstring Curl",
+    "aliases": [
+      "Leg Curl"
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/seated-band-hamstring-curl",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/seated-band-hamstring-curl",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Seated Floor Hamstring Stretch",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "nn",
+    "force_code": "stt",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/seated-floor-hamstring-stretch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/seated-floor-hamstring-stretch",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "clv"
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Seated Hamstring",
+    "aliases": [
+      "Hamstring Stretch"
+    ],
+    "desc": "",
+    "equip_code": "nn",
+    "force_code": "stt",
+    "level_code": "e",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/seated-hamstring",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/seated-hamstring",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "clv"
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Seated Hamstring and Calf Stretch",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "stt",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/seated-hamstring-and-calf-stretch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/seated-hamstring-and-calf-stretch",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "clv"
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Seated Leg Curl",
+    "aliases": [
+      "Seated Leg Curls"
+    ],
+    "desc": "",
+    "equip_code": "mch",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/seated-leg-curl",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/seated-leg-curl",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Single Leg Deadlift",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "ktt",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/single-leg-deadlift",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/single-leg-deadlift",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "glt",
+      "lwb"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Single-Leg Balance",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/single-leg-balance-",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/single-leg-balance-",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Smith Machine Hang Power Clean",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "mch",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/smith-machine-hang-power-clean",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/smith-machine-hang-power-clean",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "glt",
+      "lwb",
+      "qdr",
+      "shl",
+      "trp"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Smith Machine Stiff-Legged Deadlift",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "mch",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/smith-machine-stiff-legged-deadlift",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/smith-machine-stiff-legged-deadlift",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "glt",
+      "lwb"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Snatch Deadlift",
+    "aliases": [
+      "Snatch-Grip Deadlift"
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/snatch-deadlift",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/snatch-deadlift",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "frr",
+      "glt",
+      "lwb",
+      "qdr",
+      "trp"
+    ],
+    "type_code": "olw"
+  },
+  {
+    "id": null,
+    "name": "Snatch Pull",
+    "aliases": [
+      "Snatch High Pull"
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/snatch-pull",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/snatch-pull",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "lwb",
+      "qdr",
+      "trp"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Split Snatch",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "e",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/split-snatch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/split-snatch",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "clv",
+      "frr",
+      "glt",
+      "lwb",
+      "qdr",
+      "shl",
+      "trc",
+      "trp"
+    ],
+    "type_code": "olw"
+  },
+  {
+    "id": null,
+    "name": "Split Squats",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "nn",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/split-squats",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/split-squats",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "qdr"
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Standing Hamstring and Calf Stretch",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "stt",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/standing-hamstring-and-calf-stretch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/standing-hamstring-and-calf-stretch",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Standing Leg Curl",
+    "aliases": [
+      "Hamstring Curl",
+      "Single-Leg Curl"
+    ],
+    "desc": "",
+    "equip_code": "mch",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/standing-leg-curl",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/standing-leg-curl",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Standing Toe Touches",
+    "aliases": [
+      "Standing Hamstring Stretch"
+    ],
+    "desc": "",
+    "equip_code": "nn",
+    "force_code": "stt",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/standing-toe-touches",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/standing-toe-touches",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "clv"
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Stiff-Legged Barbell Deadlift",
+    "aliases": [
+      "Barbell Stiff-Legged Deadlifts"
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/stiff-legged-barbell-deadlift",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/stiff-legged-barbell-deadlift",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "glt",
+      "lwb"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Stiff-Legged Deadlift",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/stiff-legged-deadlift",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/stiff-legged-deadlift",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "glt",
+      "lwb"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Stiff-Legged Dumbbell Deadlift",
+    "aliases": [
+      "Dumbbell Stiff Legged Dead Lifts"
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/stiff-legged-dumbbell-deadlift",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/stiff-legged-dumbbell-deadlift",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "glt",
+      "lwb"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Sumo Deadlift",
+    "aliases": [
+      "Wide Stance Deadlift"
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/sumo-deadlift",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/sumo-deadlift",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "add",
+      "frr",
+      "glt",
+      "lwb",
+      "mdb",
+      "qdr",
+      "trp"
+    ],
+    "type_code": "pwr"
+  },
+  {
+    "id": null,
+    "name": "Sumo Deadlift with Bands",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/sumo-deadlift-with-bands",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/sumo-deadlift-with-bands",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "add",
+      "frr",
+      "glt",
+      "lwb",
+      "mdb",
+      "qdr",
+      "trp"
+    ],
+    "type_code": "pwr"
+  },
+  {
+    "id": null,
+    "name": "Sumo Deadlift with Chains",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/sumo-deadlift-with-chains",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/sumo-deadlift-with-chains",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "abc",
+      "add",
+      "frr",
+      "glt",
+      "lwb",
+      "mdb",
+      "qdr",
+      "trp"
+    ],
+    "type_code": "pwr"
+  },
+  {
+    "id": null,
+    "name": "Sumo Squat Stretch",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": null,
+    "force_code": "stt",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/sumo-squat-stretch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/sumo-squat-stretch",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "add",
+      "clv",
+      "glt"
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Suspended Leg Curl",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/suspended-leg-curl",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/suspended-leg-curl",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "glt",
+      "lwb"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "The Straddle",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "nn",
+    "force_code": "stt",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/the-straddle",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/the-straddle",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "add",
+      "clv"
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Upper Back-Leg Grab",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "nn",
+    "force_code": "stt",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/upper-back-leg-grab",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/upper-back-leg-grab",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "lwb",
+      "mdb"
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Vertical Swing",
+    "aliases": [
+      "Dumbbell Swing"
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/vertical-swing",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/vertical-swing",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "glt",
+      "qdr",
+      "shl"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "Wide Stance Stiff Legs",
+    "aliases": [
+      "Stiff Legged Deadlift - Wide",
+      "Stiff-Legged Deadlift",
+      "Sumo Stiff-Legged Deadlift",
+      "Wide Stance Stiff-Legged Deadlift",
+      "Wide-Stance Stiff Legs"
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/wide-stance-stiff-legs",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/wide-stance-stiff-legs",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "add",
+      "glt",
+      "lwb"
+    ],
+    "type_code": "olw"
+  },
+  {
+    "id": null,
+    "name": "World's Greatest Stretch",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "nn",
+    "force_code": "stt",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/worlds-greatest-stretch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/worlds-greatest-stretch",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "hms",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "qdr"
+    ],
+    "type_code": "stt"
+  }
+]

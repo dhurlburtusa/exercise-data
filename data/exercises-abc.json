@@ -1,0 +1,234 @@
+[
+  {
+    "id": null,
+    "name": "Clam",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/clam",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/clam",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "abc",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Fire Hydrant",
+    "aliases": [
+      "Kneeling Hip Abduction"
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/fire-hydrant",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/fire-hydrant",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "abc",
+    "other_mscl_grp_codes": [
+      "glt"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Hip Circle",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "na",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/hip-circle",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/hip-circle",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abc",
+    "other_mscl_grp_codes": [
+      "add"
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Hip Circles (prone)",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/hip-circles-prone",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/hip-circles-prone",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "abc",
+    "other_mscl_grp_codes": [
+      "add"
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Iliotibial Tract-SMR",
+    "aliases": [
+      "Foam Roll Iliotibial Band",
+      "Myofascial Release IT Band"
+    ],
+    "desc": "",
+    "equip_code": "fmr",
+    "force_code": "stt",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/iliotibial-tract-smr",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/iliotibial-tract-smr",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "abc",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "IT Band and Glute Stretch",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "stt",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/it-band-and-glute-stretch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/it-band-and-glute-stretch",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "abc",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Lateral Band Walk",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bnd",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/lateral-band-walk",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/lateral-band-walk",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abc",
+    "other_mscl_grp_codes": [
+      "glt",
+      "qdr"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Lying Crossover",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "stt",
+    "level_code": "e",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/lying-crossover",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/lying-crossover",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "abc",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Monster Walk",
+    "aliases": [
+      "Band Walk"
+    ],
+    "desc": "",
+    "equip_code": "bnd",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/monster-walk",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/monster-walk",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abc",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Standing Hip Circles",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/standing-hip-circles",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/standing-hip-circles",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "abc",
+    "other_mscl_grp_codes": [
+      "add"
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Thigh Abductor",
+    "aliases": [
+      "Outer Thigh Machine"
+    ],
+    "desc": "",
+    "equip_code": "mch",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/thigh-abductor",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/thigh-abductor",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "abc",
+    "other_mscl_grp_codes": [
+      "glt"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Windmills",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "nn",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/windmills",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/windmills",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "abc",
+    "other_mscl_grp_codes": [
+      "glt",
+      "hms",
+      "lwb"
+    ],
+    "type_code": "stt"
+  }
+]

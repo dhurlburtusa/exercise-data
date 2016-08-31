@@ -1,0 +1,1060 @@
+[
+  {
+    "id": null,
+    "name": "Alternate Hammer Curl",
+    "aliases": [
+      "Alternating Hammer Curl",
+      "Dumbbell Curl With Neutral Grip",
+      "Neutral Grip Bicep Curl"
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/alternate-hammer-curl",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/alternate-hammer-curl",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "bcp",
+    "other_mscl_grp_codes": [
+      "frr"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Alternate Incline Dumbbell Curl",
+    "aliases": [
+      "Alternating Incline Bicep Curl",
+      "Alternating Incline Dumbbell Curl"
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/alternate-incline-dumbbell-curl",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/alternate-incline-dumbbell-curl",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "bcp",
+    "other_mscl_grp_codes": [
+      "frr"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Barbell Curl",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/barbell-curl",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/barbell-curl",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "bcp",
+    "other_mscl_grp_codes": [
+      "frr"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Barbell Curls Lying Against An Incline",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/barbell-curls-lying-against-an-incline",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/barbell-curls-lying-against-an-incline",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "bcp",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Biceps Curl To Shoulder Press",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/biceps-curl-to-shoulder-press",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/biceps-curl-to-shoulder-press",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "bcp",
+    "other_mscl_grp_codes": [
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Brachialis-SMR",
+    "aliases": [
+      "Bicep Foam Roll"
+    ],
+    "desc": "",
+    "equip_code": "fmr",
+    "force_code": "stt",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/brachialis-smr",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/brachialis-smr",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "bcp",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Cable Hammer Curls - Rope Attachment",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "cbl",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/cable-hammer-curls-rope-attachment",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/cable-hammer-curls-rope-attachment",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "bcp",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Cable Preacher Curl",
+    "aliases": [
+      "Cable Scott Curl"
+    ],
+    "desc": "",
+    "equip_code": "cbl",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/cable-preacher-curl",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/cable-preacher-curl",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "bcp",
+    "other_mscl_grp_codes": [
+      "frr"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Close-Grip EZ Bar Curl",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/close-grip-ez-bar-curl",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/close-grip-ez-bar-curl",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "bcp",
+    "other_mscl_grp_codes": [
+      "frr"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Close-Grip EZ-Bar Curl with Band",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "ezb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/close-grip-ez-bar-curl-with-band",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/close-grip-ez-bar-curl-with-band",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "bcp",
+    "other_mscl_grp_codes": [
+      "frr"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Close-Grip Standing Barbell Curl",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/close-grip-standing-barbell-curl",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/close-grip-standing-barbell-curl",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "bcp",
+    "other_mscl_grp_codes": [
+      "frr"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Concentration Curls",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/concentration-curls",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/concentration-curls",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "bcp",
+    "other_mscl_grp_codes": [
+      "frr"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Cross Body Hammer Curl",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/cross-body-hammer-curl",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/cross-body-hammer-curl",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "bcp",
+    "other_mscl_grp_codes": [
+      "frr"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Drag Curl",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/drag-curl",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/drag-curl",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "bcp",
+    "other_mscl_grp_codes": [
+      "frr"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Dumbbell Alternate Bicep Curl",
+    "aliases": [
+      "Alternating Dumbbell Curl"
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/dumbbell-alternate-bicep-curl",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/dumbbell-alternate-bicep-curl",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "bcp",
+    "other_mscl_grp_codes": [
+      "frr"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Dumbbell Bicep Curl",
+    "aliases": [
+      "Dumbbell Curls"
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/dumbbell-bicep-curl",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/dumbbell-bicep-curl",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "bcp",
+    "other_mscl_grp_codes": [
+      "frr"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Dumbbell Prone Incline Curl",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/dumbbell-prone-incline-curl",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/dumbbell-prone-incline-curl",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "bcp",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "EZ-Bar Curl",
+    "aliases": [
+      "E-Z Curls"
+    ],
+    "desc": "",
+    "equip_code": "ezb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/ez-bar-curl",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/ez-bar-curl",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "bcp",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Flexor Incline Dumbbell Curls",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/flexor-incline-dumbbell-curls",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/flexor-incline-dumbbell-curls",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "bcp",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Hammer Curls",
+    "aliases": [
+      "Neutral Grip Biceps Curl"
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/hammer-curls",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/hammer-curls",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "bcp",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "High Cable Curls",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "cbl",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/high-cable-curls",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/high-cable-curls",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "bcp",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Incline Dumbbell Curl",
+    "aliases": [
+      "Incline Dumbbell Curls"
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/incline-dumbbell-curl",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/incline-dumbbell-curl",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "bcp",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Incline Hammer Curls",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/incline-hammer-curls",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/incline-hammer-curls",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "bcp",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Incline Inner Biceps Curl",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "na",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/incline-inner-biceps-curl",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/incline-inner-biceps-curl",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "bcp",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Lying Cable Curl",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "cbl",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/lying-cable-curl",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/lying-cable-curl",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "bcp",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Lying Close-Grip Bar Curl On High Pulley",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "cbl",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/lying-close-grip-bar-curl-on-high-pulley",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/lying-close-grip-bar-curl-on-high-pulley",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "bcp",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Lying High Bench Barbell Curl",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/lying-high-bench-barbell-curl",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/lying-high-bench-barbell-curl",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "bcp",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Lying Supine Dumbbell Curl",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/lying-supine-dumbbell-curl",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/lying-supine-dumbbell-curl",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "bcp",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Machine Bicep Curl",
+    "aliases": [
+      "Biceps Curl"
+    ],
+    "desc": "",
+    "equip_code": "mch",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/machine-bicep-curl",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/machine-bicep-curl",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "bcp",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Machine Preacher Curls",
+    "aliases": [
+      "Machine Biceps Curls",
+      "Preacher Curl"
+    ],
+    "desc": "",
+    "equip_code": "mch",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/machine-preacher-curls",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/machine-preacher-curls",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "bcp",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "One Arm Dumbbell Preacher Curl",
+    "aliases": [
+      "One-Arm Preacher Curl",
+      "Single Arm Preacher Curl",
+      "Single-Arm Preacher Curl"
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/one-arm-dumbbell-preacher-curl",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/one-arm-dumbbell-preacher-curl",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "bcp",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Overhead Cable Curl",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "cbl",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/overhead-cable-curl",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/overhead-cable-curl",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "bcp",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Preacher Curl",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/preacher-curl",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/preacher-curl",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "bcp",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Preacher Hammer Dumbbell Curl",
+    "aliases": [
+      "Neutral Grip Preacher Curl"
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/preacher-hammer-dumbbell-curl",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/preacher-hammer-dumbbell-curl",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "bcp",
+    "other_mscl_grp_codes": [
+      "frr"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Reverse Barbell Curl",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/reverse-barbell-curl",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/reverse-barbell-curl",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "bcp",
+    "other_mscl_grp_codes": [
+      "frr"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Reverse Barbell Preacher Curls",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "ezb",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/reverse-barbell-preacher-curls",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/reverse-barbell-preacher-curls",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "bcp",
+    "other_mscl_grp_codes": [
+      "frr"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Reverse Cable Curl",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "cbl",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/reverse-cable-curl",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/reverse-cable-curl",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "bcp",
+    "other_mscl_grp_codes": [
+      "frr"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Reverse Plate Curls",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/reverse-plate-curls",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/reverse-plate-curls",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "bcp",
+    "other_mscl_grp_codes": [
+      "frr"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Seated Biceps",
+    "aliases": [
+      "Biceps Stretch"
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "stt",
+    "level_code": "e",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/seated-biceps",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/seated-biceps",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "bcp",
+    "other_mscl_grp_codes": [
+      "chs",
+      "shl"
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Seated Close-Grip Concentration Barbell Curl",
+    "aliases": [
+      "Concentration Curl"
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/seated-close-grip-concentration-barbell-curl",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/seated-close-grip-concentration-barbell-curl",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "bcp",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Seated Dumbbell Curl",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/seated-dumbbell-curl",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/seated-dumbbell-curl",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "bcp",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Seated Dumbbell Inner Biceps Curl",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/seated-dumbbell-inner-biceps-curl",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/seated-dumbbell-inner-biceps-curl",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "bcp",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Spider Curl",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "ezb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/spider-curl",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/spider-curl",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "bcp",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Standing Biceps Cable Curl",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "cbl",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/standing-biceps-cable-curl",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/standing-biceps-cable-curl",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "bcp",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Standing Biceps Stretch",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "stt",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/standing-biceps-stretch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/standing-biceps-stretch",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "bcp",
+    "other_mscl_grp_codes": [
+      "chs",
+      "shl"
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Standing Concentration Curl",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/standing-concentration-curl",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/standing-concentration-curl",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "bcp",
+    "other_mscl_grp_codes": [
+      "frr"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Standing Dumbbell Reverse Curl",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/standing-dumbbell-reverse-curl",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/standing-dumbbell-reverse-curl",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "bcp",
+    "other_mscl_grp_codes": [
+      "frr"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Standing Inner-Biceps Curl",
+    "aliases": [
+      "Biceps Curl",
+      "Dumbbell Curl"
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/standing-inner-biceps-curl",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/standing-inner-biceps-curl",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "bcp",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Standing One-Arm Cable Curl",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "cbl",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/standing-one-arm-cable-curl",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/standing-one-arm-cable-curl",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "bcp",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Standing One-Arm Dumbbell Curl Over Incline Bench",
+    "aliases": [
+      "Preacher Curl"
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/standing-one-arm-dumbbell-curl-over-incline-bench",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/standing-one-arm-dumbbell-curl-over-incline-bench",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "bcp",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Suspended Curl",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/suspended-curl",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/suspended-curl",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "bcp",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Two-Arm Dumbbell Preacher Curl",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/two-arm-dumbbell-preacher-curl",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/two-arm-dumbbell-preacher-curl",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "bcp",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Wide-Grip Standing Barbell Curl",
+    "aliases": [
+      "Barbell Curl",
+      "Standing Barbell Curl",
+      "Wide Grip Barbell Curl",
+      "Wide Grip Standing Barbell Curl"
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/wide-grip-standing-barbell-curl",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/wide-grip-standing-barbell-curl",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "bcp",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Zottman Curl",
+    "aliases": [
+      "Alternating Dumbbell Curl"
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/zottman-curl",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/zottman-curl",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "bcp",
+    "other_mscl_grp_codes": [
+      "frr"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Zottman Preacher Curl",
+    "aliases": [
+      "Alternating Preacher Curl"
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/zottman-preacher-curl",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/zottman-preacher-curl",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "bcp",
+    "other_mscl_grp_codes": [
+      "frr"
+    ],
+    "type_code": "str"
+  }
+]

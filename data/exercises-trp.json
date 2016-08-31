@@ -1,0 +1,320 @@
+[
+  {
+    "id": null,
+    "name": "Barbell Shrug",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/barbell-shrug",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/barbell-shrug",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "trp",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Barbell Shrug Behind The Back",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/barbell-shrug-behind-the-back",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/barbell-shrug-behind-the-back",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "trp",
+    "other_mscl_grp_codes": [
+      "frr",
+      "mdb"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Cable Shrugs",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "cbl",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/cable-shrugs",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/cable-shrugs",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "trp",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Calf-Machine Shoulder Shrug",
+    "aliases": [
+      "Machine Shoulder Shrug",
+      "Shrug on Calf Machine"
+    ],
+    "desc": "",
+    "equip_code": "mch",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/calf-machine-shoulder-shrug",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/calf-machine-shoulder-shrug",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "trp",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Clean Shrug",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/clean-shrug",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/clean-shrug",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "trp",
+    "other_mscl_grp_codes": [
+      "frr",
+      "shl"
+    ],
+    "type_code": "olw"
+  },
+  {
+    "id": null,
+    "name": "Dumbbell Shrug",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/dumbbell-shrug",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/dumbbell-shrug",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "trp",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Kettlebell Sumo High Pull",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "ktt",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/kettlebell-sumo-high-pull",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/kettlebell-sumo-high-pull",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "trp",
+    "other_mscl_grp_codes": [
+      "add",
+      "glt",
+      "hms",
+      "qdr",
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Leverage Shrug",
+    "aliases": [
+      "Hammerstrength Shrug"
+    ],
+    "desc": "",
+    "equip_code": "mch",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/leverage-shrug",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/leverage-shrug",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "trp",
+    "other_mscl_grp_codes": [
+      "frr"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Scapular Pull-Up",
+    "aliases": [
+      "Reverse Shrug",
+      "Straight Arm Pull-Up"
+    ],
+    "desc": "",
+    "equip_code": "nn",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/scapular-pull-up",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/scapular-pull-up",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "trp",
+    "other_mscl_grp_codes": [
+      "lts",
+      "mdb"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Smith Machine Behind the Back Shrug",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "mch",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/smith-machine-behind-the-back-shrug",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/smith-machine-behind-the-back-shrug",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "trp",
+    "other_mscl_grp_codes": [
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Smith Machine Shrug",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "mch",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/smith-machine-shrug",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/smith-machine-shrug",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "trp",
+    "other_mscl_grp_codes": [
+      "mdb",
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Smith Machine Upright Row",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "mch",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/smith-machine-upright-row",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/smith-machine-upright-row",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "trp",
+    "other_mscl_grp_codes": [
+      "bcp",
+      "mdb",
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Snatch Shrug",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/snatch-shrug",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/snatch-shrug",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "trp",
+    "other_mscl_grp_codes": [
+      "frr",
+      "shl"
+    ],
+    "type_code": "olw"
+  },
+  {
+    "id": null,
+    "name": "Standing Dumbbell Upright Row",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/standing-dumbbell-upright-row",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/standing-dumbbell-upright-row",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "trp",
+    "other_mscl_grp_codes": [
+      "bcp",
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Upright Cable Row",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "cbl",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/upright-cable-row",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/upright-cable-row",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "trp",
+    "other_mscl_grp_codes": [
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Upright Row - With Bands",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bnd",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/upright-row-with-bands",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/upright-row-with-bands",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "trp",
+    "other_mscl_grp_codes": [
+      "shl"
+    ],
+    "type_code": "str"
+  }
+]

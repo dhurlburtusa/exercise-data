@@ -1,0 +1,561 @@
+[
+  {
+    "id": null,
+    "name": "Bottoms-Up Clean From The Hang Position",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "ktt",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/bottoms-up-clean-from-the-hang-position",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/bottoms-up-clean-from-the-hang-position",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "frr",
+    "other_mscl_grp_codes": [
+      "bcp",
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Cable Wrist Curl",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "cbl",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/cable-wrist-curl",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/cable-wrist-curl",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "frr",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Dumbbell Lying Pronation",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/dumbbell-lying-pronation",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/dumbbell-lying-pronation",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "frr",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Dumbbell Lying Supination",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/dumbbell-lying-supination",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/dumbbell-lying-supination",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "frr",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Farmer's Walk",
+    "aliases": [
+      "Farmer's Carry"
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "na",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/farmers-walk",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/farmers-walk",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "frr",
+    "other_mscl_grp_codes": [
+      "abd",
+      "glt",
+      "hms",
+      "lwb",
+      "qdr",
+      "trp"
+    ],
+    "type_code": "stn"
+  },
+  {
+    "id": null,
+    "name": "Finger Curls",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/finger-curls",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/finger-curls",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "frr",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Kneeling Forearm Stretch",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "nn",
+    "force_code": "stt",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/kneeling-forearm-stretch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/kneeling-forearm-stretch",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "frr",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Palms-Down Dumbbell Wrist Curl Over A Bench",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/palms-down-dumbbell-wrist-curl-over-a-bench",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/palms-down-dumbbell-wrist-curl-over-a-bench",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "frr",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Palms-Down Wrist Curl Over A Bench",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/palms-down-wrist-curl-over-a-bench",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/palms-down-wrist-curl-over-a-bench",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "frr",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Palms-Up Barbell Wrist Curl Over A Bench",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/palms-up-barbell-wrist-curl-over-a-bench",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/palms-up-barbell-wrist-curl-over-a-bench",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "frr",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Palms-Up Dumbbell Wrist Curl Over A Bench",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/palms-up-dumbbell-wrist-curl-over-a-bench",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/palms-up-dumbbell-wrist-curl-over-a-bench",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "frr",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Partner Farmer's Walk Competition",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "na",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/partner-farmers-walk-competition",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/partner-farmers-walk-competition",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "frr",
+    "other_mscl_grp_codes": [
+      "abd",
+      "glt",
+      "hms",
+      "lwb",
+      "qdr",
+      "trp"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Partner Suitcase Carry Competition",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "na",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/partner-suitcase-carry-competition",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/partner-suitcase-carry-competition",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "frr",
+    "other_mscl_grp_codes": [
+      "abd",
+      "glt",
+      "hms",
+      "lwb",
+      "qdr",
+      "trp"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Plate Pinch",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "stt",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/plate-pinch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/plate-pinch",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "frr",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Rickshaw Carry",
+    "aliases": [
+      "Frame Carry"
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "na",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/rickshaw-carry",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/rickshaw-carry",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "frr",
+    "other_mscl_grp_codes": [
+      "abd",
+      "clv",
+      "glt",
+      "hms",
+      "lwb",
+      "qdr",
+      "trp"
+    ],
+    "type_code": "stn"
+  },
+  {
+    "id": null,
+    "name": "Seated Dumbbell Palms-Down Wrist Curl",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/seated-dumbbell-palms-down-wrist-curl",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/seated-dumbbell-palms-down-wrist-curl",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "frr",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Seated Dumbbell Palms-Up Wrist Curl",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/seated-dumbbell-palms-up-wrist-curl",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/seated-dumbbell-palms-up-wrist-curl",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "frr",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Seated One-Arm Dumbbell Palms-Down Wrist Curl",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/seated-one-arm-dumbbell-palms-down-wrist-curl",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/seated-one-arm-dumbbell-palms-down-wrist-curl",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "frr",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Seated One-Arm Dumbbell Palms-Up Wrist Curl",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/seated-one-arm-dumbbell-palms-up-wrist-curl",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/seated-one-arm-dumbbell-palms-up-wrist-curl",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "frr",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Seated Palm-Up Barbell Wrist Curl",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/seated-palm-up-barbell-wrist-curl",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/seated-palm-up-barbell-wrist-curl",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "frr",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Seated Palms-Down Barbell Wrist Curl",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/seated-palms-down-barbell-wrist-curl",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/seated-palms-down-barbell-wrist-curl",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "frr",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Seated Two-Arm Palms-Up Low-Pulley Wrist Curl",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "cbl",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/seated-two-arm-palms-up-low-pulley-wrist-curl",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/seated-two-arm-palms-up-low-pulley-wrist-curl",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "frr",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Standing Olympic Plate Hand Squeeze",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "stt",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/standing-olympic-plate-hand-squeeze",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/standing-olympic-plate-hand-squeeze",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "frr",
+    "other_mscl_grp_codes": [
+      "bcp"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Standing Palms-Up Barbell Behind The Back Wrist Curl",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/standing-palms-up-barbell-behind-the-back-wrist-curl",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/standing-palms-up-barbell-behind-the-back-wrist-curl",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "frr",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Suitcase Dumbbell Carry",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "na",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/suitcase-dumbbell-carry",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/suitcase-dumbbell-carry",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "frr",
+    "other_mscl_grp_codes": [
+      "abd",
+      "glt",
+      "hms",
+      "lwb",
+      "qdr",
+      "trp"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Wrist Circles",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/wrist-circles",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/wrist-circles",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "frr",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Wrist Roller",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/wrist-roller",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/wrist-roller",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "frr",
+    "other_mscl_grp_codes": [
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Wrist Rotations with Straight Bar",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/wrist-rotations-with-straight-bar",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/wrist-rotations-with-straight-bar",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "frr",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  }
+]

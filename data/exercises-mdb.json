@@ -1,0 +1,930 @@
+[
+  {
+    "id": null,
+    "name": "Alternating Kettlebell Row",
+    "aliases": [
+      "Alternating Bent Over Row",
+      "Bent Over Row",
+      "Kettlebell Alternating Row"
+    ],
+    "desc": "",
+    "equip_code": "ktt",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/alternating-kettlebell-row",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/alternating-kettlebell-row",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "mdb",
+    "other_mscl_grp_codes": [
+      "bcp",
+      "lts"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Alternating Renegade Row",
+    "aliases": [
+      "Commando Row",
+      "Push-Up Position Plank Alternating Row",
+      "Renegade Row",
+      "Row From Plank"
+    ],
+    "desc": "",
+    "equip_code": "ktt",
+    "force_code": "pll",
+    "level_code": "e",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/alternating-renegade-row",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/alternating-renegade-row",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "mdb",
+    "other_mscl_grp_codes": [
+      "abd",
+      "bcp",
+      "chs",
+      "lts",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Bent Over Barbell Row",
+    "aliases": [
+      "Barbell Row",
+      "Bent Over Row",
+      "Bent-Over Row"
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/bent-over-barbell-row",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/bent-over-barbell-row",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "mdb",
+    "other_mscl_grp_codes": [
+      "bcp",
+      "lts",
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Bent Over One-Arm Long Bar Row",
+    "aliases": [
+      "Bent-Over One Arm T-Bar Row",
+      "Single Arm Row",
+      "Single-Arm Row"
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/bent-over-one-arm-long-bar-row",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/bent-over-one-arm-long-bar-row",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "mdb",
+    "other_mscl_grp_codes": [
+      "bcp",
+      "lts",
+      "lwb",
+      "trp"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Bent Over Two-Arm Long Bar Row",
+    "aliases": [
+      "T-Bar Row"
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/bent-over-two-arm-long-bar-row",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/bent-over-two-arm-long-bar-row",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "mdb",
+    "other_mscl_grp_codes": [
+      "bcp",
+      "lts"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Bent Over Two-Dumbbell Row",
+    "aliases": [
+      "Bent Over Row",
+      "Bent-Over Dumbbell Row",
+      "Dumbbell Row"
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/bent-over-two-dumbbell-row",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/bent-over-two-dumbbell-row",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "mdb",
+    "other_mscl_grp_codes": [
+      "bcp",
+      "lts",
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Bent Over Two-Dumbbell Row With Palms In",
+    "aliases": [
+      "Bent-Over Row",
+      "Neutral Grip Dumbbell Row"
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/bent-over-two-dumbbell-row-with-palms-in",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/bent-over-two-dumbbell-row-with-palms-in",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "mdb",
+    "other_mscl_grp_codes": [
+      "bcp",
+      "lts"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Bodyweight Mid Row",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/bodyweight-mid-row",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/bodyweight-mid-row",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "mdb",
+    "other_mscl_grp_codes": [
+      "bcp",
+      "lts"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Dumbbell Incline Row",
+    "aliases": [
+      "Chest-Supported Dumbbell Row"
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/dumbbell-incline-row",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/dumbbell-incline-row",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "mdb",
+    "other_mscl_grp_codes": [
+      "bcp",
+      "frr",
+      "lts",
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Incline Bench Pull",
+    "aliases": [
+      "Chest Supported Row"
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/incline-bench-pull",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/incline-bench-pull",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "mdb",
+    "other_mscl_grp_codes": [
+      "lts",
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Inverted Row",
+    "aliases": [
+      "Horizontal Barbell Pull Up"
+    ],
+    "desc": "",
+    "equip_code": "nn",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/inverted-row",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/inverted-row",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "mdb",
+    "other_mscl_grp_codes": [
+      "lts"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Inverted Row with Straps",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/inverted-row-with-straps",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/inverted-row-with-straps",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "mdb",
+    "other_mscl_grp_codes": [
+      "bcp",
+      "lts"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Leverage High Row",
+    "aliases": [
+      "Hammerstrength High Row"
+    ],
+    "desc": "",
+    "equip_code": "mch",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/leverage-high-row",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/leverage-high-row",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "mdb",
+    "other_mscl_grp_codes": [
+      "lts"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Lying Cambered Barbell Row",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/lying-cambered-barbell-row",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/lying-cambered-barbell-row",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "mdb",
+    "other_mscl_grp_codes": [
+      "bcp",
+      "lts",
+      "trp"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Lying T-Bar Row",
+    "aliases": [
+      "Chest Supported Row"
+    ],
+    "desc": "",
+    "equip_code": "mch",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/lying-t-bar-row",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/lying-t-bar-row",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "mdb",
+    "other_mscl_grp_codes": [
+      "bcp",
+      "lts"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Man Maker",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/man-maker",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/man-maker",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "mdb",
+    "other_mscl_grp_codes": [
+      "bcp",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Middle Back Shrug",
+    "aliases": [
+      "Scapular Retraction"
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/middle-back-shrug",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/middle-back-shrug",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "mdb",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Middle Back Stretch",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "nn",
+    "force_code": "stt",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/middle-back-stretch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/middle-back-stretch",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "mdb",
+    "other_mscl_grp_codes": [
+      "abd",
+      "lts",
+      "lwb"
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Mixed Grip Chin",
+    "aliases": [
+      "Chin-Up",
+      "Mixed Grip Pull-Up"
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "pll",
+    "level_code": "e",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/mixed-grip-chin",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/mixed-grip-chin",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "mdb",
+    "other_mscl_grp_codes": [
+      "bcp",
+      "lts"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "One Arm Chin-Up",
+    "aliases": [
+      "One-Arm Chin"
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "pll",
+    "level_code": "e",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/one-arm-chin-up",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/one-arm-chin-up",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "mdb",
+    "other_mscl_grp_codes": [
+      "bcp",
+      "frr",
+      "lts"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "One-Arm Dumbbell Row",
+    "aliases": [
+      "Chest-Supported Row",
+      "Dumbbell Row",
+      "One Arm Dumbbell Row",
+      "Single Arm Row",
+      "Single-Arm Row"
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/one-arm-dumbbell-row",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/one-arm-dumbbell-row",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "mdb",
+    "other_mscl_grp_codes": [
+      "bcp",
+      "lts",
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "One-Arm Kettlebell Row",
+    "aliases": [
+      "Bent Over Row"
+    ],
+    "desc": "",
+    "equip_code": "ktt",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/one-arm-kettlebell-row",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/one-arm-kettlebell-row",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "mdb",
+    "other_mscl_grp_codes": [
+      "bcp",
+      "lts"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "One-Arm Long Bar Row",
+    "aliases": [
+      "One-Arm T-Bar Row"
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/one-arm-long-bar-row",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/one-arm-long-bar-row",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "mdb",
+    "other_mscl_grp_codes": [
+      "bcp",
+      "lts"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Partner Facing Feet-Elevated Side Plank With Band Row",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bnd",
+    "force_code": "pll",
+    "level_code": "e",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/partner-facing-feet-elevated-side-plank-with-band-row",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/partner-facing-feet-elevated-side-plank-with-band-row",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "mdb",
+    "other_mscl_grp_codes": [
+      "abd",
+      "bcp",
+      "lts",
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Partner Facing Plank With Band Row",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bnd",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/partner-facing-plank-with-band-row",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/partner-facing-plank-with-band-row",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "mdb",
+    "other_mscl_grp_codes": [
+      "abd",
+      "bcp",
+      "lts",
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Partner Facing Side Plank With Band Row",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bnd",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/partner-facing-side-plank-with-band-row",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/partner-facing-side-plank-with-band-row",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "mdb",
+    "other_mscl_grp_codes": [
+      "abd",
+      "bcp",
+      "lts",
+      "qdr"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Pendlay Rown",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/pendlay-rown",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/pendlay-rown",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "mdb",
+    "other_mscl_grp_codes": [
+      "bcp",
+      "lts",
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Plate Row",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/plate-row",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/plate-row",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "mdb",
+    "other_mscl_grp_codes": [
+      "bcp",
+      "lts",
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Reverse Grip Bent-Over Rows",
+    "aliases": [
+      "Barbell Row",
+      "Reverse Grip Bent Over Row",
+      "Reverse-Grip Bent-Over Row",
+      "Yates Row"
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/reverse-grip-bent-over-rows",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/reverse-grip-bent-over-rows",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "mdb",
+    "other_mscl_grp_codes": [
+      "bcp",
+      "lts",
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Rhomboids-SMR",
+    "aliases": [
+      "Foam Roll Upper Back",
+      "Myofascial Release Rhomboids"
+    ],
+    "desc": "",
+    "equip_code": "fmr",
+    "force_code": "stt",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/rhomboids-smr",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/rhomboids-smr",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "mdb",
+    "other_mscl_grp_codes": [
+      "trp"
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Seated Cable Rows",
+    "aliases": [
+      "Cable Row",
+      "Cable Rows",
+      "Low Row",
+      "Pulley Row"
+    ],
+    "desc": "",
+    "equip_code": "cbl",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/seated-cable-rows",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/seated-cable-rows",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "mdb",
+    "other_mscl_grp_codes": [
+      "bcp",
+      "lts",
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Seated One-arm Cable Pulley Rows",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "cbl",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/seated-one-arm-cable-pulley-rows",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/seated-one-arm-cable-pulley-rows",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "mdb",
+    "other_mscl_grp_codes": [
+      "bcp",
+      "lts",
+      "trp"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Single-Arm Landmine Row",
+    "aliases": [
+      "Meadows Row"
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/single-arm-landmine-row",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/single-arm-landmine-row",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "mdb",
+    "other_mscl_grp_codes": [
+      "bcp",
+      "lts",
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Sled Row",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/sled-row",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/sled-row",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "mdb",
+    "other_mscl_grp_codes": [
+      "bcp",
+      "lts"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Smith Machine Bent Over Row",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "mch",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/smith-machine-bent-over-row",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/smith-machine-bent-over-row",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "mdb",
+    "other_mscl_grp_codes": [
+      "bcp",
+      "lts",
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Spinal Stretch",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "nn",
+    "force_code": "stt",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/spinal-stretch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/spinal-stretch",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "mdb",
+    "other_mscl_grp_codes": [
+      "lts",
+      "lwb",
+      "nck",
+      "trp"
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Straight Bar Bench Mid Rows",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/straight-bar-bench-mid-rows",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/straight-bar-bench-mid-rows",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "mdb",
+    "other_mscl_grp_codes": [
+      "bcp",
+      "lts"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Suspended Row",
+    "aliases": [
+      "Inverted Row",
+      "TRX Row"
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/suspended-row",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/suspended-row",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "mdb",
+    "other_mscl_grp_codes": [
+      "bcp",
+      "lts"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "T-Bar Row",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/t-bar-row",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/t-bar-row",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "mdb",
+    "other_mscl_grp_codes": [
+      "bcp",
+      "lts"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "T-Bar Row with Handle",
+    "aliases": [
+      "Two-Arm Long Bar Row With Handle"
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/t-bar-row-with-handle",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/t-bar-row-with-handle",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "mdb",
+    "other_mscl_grp_codes": [
+      "bcp",
+      "lts"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Two-Arm Kettlebell Row",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "ktt",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/two-arm-kettlebell-row",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/two-arm-kettlebell-row",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "mdb",
+    "other_mscl_grp_codes": [
+      "bcp",
+      "lts"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Upper Back Stretch",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "nn",
+    "force_code": "stt",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/upper-back-stretch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/upper-back-stretch",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "mdb",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Yates Row",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/yates-row",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/yates-row",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "mdb",
+    "other_mscl_grp_codes": [
+      "bcp",
+      "trp"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Yates Row Reverse Grip",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/yates-row-reverse-grip",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/yates-row-reverse-grip",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "mdb",
+    "other_mscl_grp_codes": [
+      "bcp",
+      "trp"
+    ],
+    "type_code": "str"
+  }
+]

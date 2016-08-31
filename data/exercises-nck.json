@@ -1,0 +1,173 @@
+[
+  {
+    "id": null,
+    "name": "Chin To Chest Stretch",
+    "aliases": [
+      "Neck Stretch"
+    ],
+    "desc": "",
+    "equip_code": "nn",
+    "force_code": "stt",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/chin-to-chest-stretch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/chin-to-chest-stretch",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "nck",
+    "other_mscl_grp_codes": [
+      "trp"
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Isometric Neck Exercise - Front And Back",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "stt",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/isometric-neck-exercise-front-and-back",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/isometric-neck-exercise-front-and-back",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "nck",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Isometric Neck Exercise - Sides",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "stt",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/isometric-neck-exercise-sides",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/isometric-neck-exercise-sides",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "nck",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Lying Face Down Plate Neck Resistance",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/lying-face-down-plate-neck-resistance",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/lying-face-down-plate-neck-resistance",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "nck",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Lying Face Up Plate Neck Resistance",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/lying-face-up-plate-neck-resistance",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/lying-face-up-plate-neck-resistance",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "nck",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Neck Bridge Prone",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/neck-bridge-prone",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/neck-bridge-prone",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "nck",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Neck-SMR",
+    "aliases": [
+      "Levator Myofascial Release"
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "stt",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/neck-smr",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/neck-smr",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "nck",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Seated Head Harness Neck Resistance",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/seated-head-harness-neck-resistance",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/seated-head-harness-neck-resistance",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "nck",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Side Neck Stretch",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "nn",
+    "force_code": "stt",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/side-neck-stretch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/side-neck-stretch",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "nck",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "stt"
+  }
+]

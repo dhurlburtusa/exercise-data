@@ -1,0 +1,645 @@
+[
+  {
+    "id": null,
+    "name": "Atlas Stone Trainer",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/atlas-stone-trainer",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/atlas-stone-trainer",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "lwb",
+    "other_mscl_grp_codes": [
+      "bcp",
+      "frr",
+      "glt",
+      "hms",
+      "qdr"
+    ],
+    "type_code": "stn"
+  },
+  {
+    "id": null,
+    "name": "Atlas Stones",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "pll",
+    "level_code": "e",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/atlas-stones",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/atlas-stones",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "lwb",
+    "other_mscl_grp_codes": [
+      "abd",
+      "add",
+      "bcp",
+      "clv",
+      "frr",
+      "glt",
+      "hms",
+      "mdb",
+      "qdr",
+      "trp"
+    ],
+    "type_code": "stn"
+  },
+  {
+    "id": null,
+    "name": "Axle Deadlift",
+    "aliases": [
+      "Thick Bar Deadlift"
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/axle-deadlift",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/axle-deadlift",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "lwb",
+    "other_mscl_grp_codes": [
+      "frr",
+      "glt",
+      "hms",
+      "mdb",
+      "qdr",
+      "trp"
+    ],
+    "type_code": "stn"
+  },
+  {
+    "id": null,
+    "name": "Cat Stretch",
+    "aliases": [
+      "Back Stretch"
+    ],
+    "desc": "",
+    "equip_code": "nn",
+    "force_code": "stt",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/cat-stretch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/cat-stretch",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "lwb",
+    "other_mscl_grp_codes": [
+      "mdb",
+      "trp"
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Child's Pose",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "nn",
+    "force_code": "stt",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/childs-pose",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/childs-pose",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "lwb",
+    "other_mscl_grp_codes": [
+      "glt",
+      "mdb"
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Crossover Reverse Lunge",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "nn",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/crossover-reverse-lunge",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/crossover-reverse-lunge",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "lwb",
+    "other_mscl_grp_codes": [
+      "abc",
+      "abd",
+      "glt",
+      "hms",
+      "qdr"
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Dancer's Stretch",
+    "aliases": [
+      "Cross-Body Back Stretch"
+    ],
+    "desc": "",
+    "equip_code": "nn",
+    "force_code": "stt",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/dancers-stretch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/dancers-stretch",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "lwb",
+    "other_mscl_grp_codes": [
+      "abc",
+      "glt"
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Deadlift with Bands",
+    "aliases": [
+      "Band Deadlift"
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "e",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/deadlift-with-bands",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/deadlift-with-bands",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "lwb",
+    "other_mscl_grp_codes": [
+      "frr",
+      "glt",
+      "hms",
+      "mdb",
+      "qdr",
+      "trp"
+    ],
+    "type_code": "pwr"
+  },
+  {
+    "id": null,
+    "name": "Deadlift with Chains",
+    "aliases": [
+      "Chain Deadlift"
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "e",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/deadlift-with-chains",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/deadlift-with-chains",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "lwb",
+    "other_mscl_grp_codes": [
+      "frr",
+      "glt",
+      "hms",
+      "mdb",
+      "qdr",
+      "trp"
+    ],
+    "type_code": "pwr"
+  },
+  {
+    "id": null,
+    "name": "Deficit Deadlift",
+    "aliases": [
+      "Deadlift From a Deficit"
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/deficit-deadlift",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/deficit-deadlift",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "lwb",
+    "other_mscl_grp_codes": [
+      "frr",
+      "glt",
+      "hms",
+      "mdb",
+      "qdr",
+      "trp"
+    ],
+    "type_code": "pwr"
+  },
+  {
+    "id": null,
+    "name": "Hug A Ball",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "exb",
+    "force_code": "stt",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/hug-a-ball",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/hug-a-ball",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "lwb",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt"
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Hug Knees To Chest",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "nn",
+    "force_code": "stt",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/hug-knees-to-chest",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/hug-knees-to-chest",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "lwb",
+    "other_mscl_grp_codes": [
+      "glt"
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Hyperextensions (Back Extensions)",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/hyperextensions-back-extensions",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/hyperextensions-back-extensions",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "lwb",
+    "other_mscl_grp_codes": [
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Hyperextensions With No Hyperextension Bench",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/hyperextensions-with-no-hyperextension-bench",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/hyperextensions-with-no-hyperextension-bench",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "lwb",
+    "other_mscl_grp_codes": [
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Keg Load",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/keg-load",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/keg-load",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "lwb",
+    "other_mscl_grp_codes": [
+      "abd",
+      "bcp",
+      "clv",
+      "frr",
+      "glt",
+      "hms",
+      "mdb",
+      "qdr",
+      "shl",
+      "trp"
+    ],
+    "type_code": "stn"
+  },
+  {
+    "id": null,
+    "name": "Lower Back-SMR",
+    "aliases": [
+      "Foam Roll Erector Spinae",
+      "Lower Back Myofascial Release"
+    ],
+    "desc": "",
+    "equip_code": "fmr",
+    "force_code": "stt",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/lower-back-smr",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/lower-back-smr",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "lwb",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Partner Flat-Bench Back Extension",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/partner-flat-bench-back-extension",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/partner-flat-bench-back-extension",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "lwb",
+    "other_mscl_grp_codes": [
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Partner Flat-Bench Back Extension With Hold",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/partner-flat-bench-back-extension-with-hold",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/partner-flat-bench-back-extension-with-hold",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "lwb",
+    "other_mscl_grp_codes": [
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Partner Supermans With Alternating High-Five",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "stt",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/partner-supermans-with-alternating-high-five",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/partner-supermans-with-alternating-high-five",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "lwb",
+    "other_mscl_grp_codes": [
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Pelvic Tilt Into Bridge",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "nn",
+    "force_code": "stt",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/pelvic-tilt-into-bridge",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/pelvic-tilt-into-bridge",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "lwb",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Pyramid",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "exb",
+    "force_code": "stt",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/pyramid",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/pyramid",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "lwb",
+    "other_mscl_grp_codes": [
+      "shl"
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Rack Pull with Bands",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/rack-pull-with-bands",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/rack-pull-with-bands",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "lwb",
+    "other_mscl_grp_codes": [
+      "frr",
+      "glt",
+      "hms",
+      "qdr",
+      "trp"
+    ],
+    "type_code": "pwr"
+  },
+  {
+    "id": null,
+    "name": "Rack Pulls",
+    "aliases": [
+      "Partial Deadlift",
+      "Pin Pulls"
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/rack-pulls",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/rack-pulls",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "lwb",
+    "other_mscl_grp_codes": [
+      "frr",
+      "glt",
+      "hms",
+      "trp"
+    ],
+    "type_code": "pwr"
+  },
+  {
+    "id": null,
+    "name": "Reverse Band Deadlift",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "e",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/reverse-band-deadlift",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/reverse-band-deadlift",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "lwb",
+    "other_mscl_grp_codes": [
+      "abc",
+      "add",
+      "clv",
+      "glt",
+      "hms",
+      "qdr"
+    ],
+    "type_code": "pwr"
+  },
+  {
+    "id": null,
+    "name": "Seated Back Extension",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "mch",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/seated-back-extension",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/seated-back-extension",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "lwb",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Seated Good Mornings",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/seated-good-mornings",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/seated-good-mornings",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "lwb",
+    "other_mscl_grp_codes": [
+      "glt"
+    ],
+    "type_code": "pwr"
+  },
+  {
+    "id": null,
+    "name": "Standing Pelvic Tilt",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "nn",
+    "force_code": "stt",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/standing-pelvic-tilt",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/standing-pelvic-tilt",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "lwb",
+    "other_mscl_grp_codes": [
+      "glt"
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Stiff Leg Barbell Good Morning",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/stiff-leg-barbell-good-morning",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/stiff-leg-barbell-good-morning",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "lwb",
+    "other_mscl_grp_codes": [
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Superman",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "stt",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/superman",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/superman",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "lwb",
+    "other_mscl_grp_codes": [
+      "glt",
+      "hms"
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Weighted Ball Hyperextension",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "exb",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/weighted-ball-hyperextension",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/weighted-ball-hyperextension",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "lwb",
+    "other_mscl_grp_codes": [
+      "glt",
+      "hms",
+      "mdb"
+    ],
+    "type_code": "str"
+  }
+]

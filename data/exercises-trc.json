@@ -1,0 +1,1501 @@
+[
+  {
+    "id": null,
+    "name": "Band Skull Crusher",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bnd",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/band-skull-crusher",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/band-skull-crusher",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Bench Dips",
+    "aliases": [
+      "Tricep Dip"
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/bench-dips",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/bench-dips",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+      "chs",
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Bench Press - Powerlifting",
+    "aliases": [
+      "Bench Press"
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/bench-press-powerlifting",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/bench-press-powerlifting",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+      "chs",
+      "frr",
+      "lts",
+      "shl"
+    ],
+    "type_code": "pwr"
+  },
+  {
+    "id": null,
+    "name": "Bench Press with Chains",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "e",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/bench-press-with-chains",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/bench-press-with-chains",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+      "chs",
+      "lts",
+      "shl"
+    ],
+    "type_code": "pwr"
+  },
+  {
+    "id": null,
+    "name": "Board Press",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/board-press",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/board-press",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+      "chs",
+      "frr",
+      "lts",
+      "shl"
+    ],
+    "type_code": "pwr"
+  },
+  {
+    "id": null,
+    "name": "Body Tricep Press",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/body-tricep-press",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/body-tricep-press",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Body-Up",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/body-up",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/body-up",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+      "chs",
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Cable Incline Triceps Extension",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "cbl",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/cable-incline-triceps-extension",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/cable-incline-triceps-extension",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Cable Lying Triceps Extension",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "cbl",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/cable-lying-triceps-extension",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/cable-lying-triceps-extension",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Cable One Arm Tricep Extension",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "cbl",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/cable-one-arm-tricep-extension",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/cable-one-arm-tricep-extension",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Cable Rope Overhead Triceps Extension",
+    "aliases": [
+      "Rope Triceps Extension"
+    ],
+    "desc": "",
+    "equip_code": "cbl",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/cable-rope-overhead-triceps-extension",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/cable-rope-overhead-triceps-extension",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Chain Handle Extension",
+    "aliases": [
+      "Tricep Extension With Chains"
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/chain-handle-extension",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/chain-handle-extension",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "pwr"
+  },
+  {
+    "id": null,
+    "name": "Close-Grip Barbell Bench Press",
+    "aliases": [
+      "Close Grip Bench"
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/close-grip-barbell-bench-press",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/close-grip-barbell-bench-press",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+      "chs",
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Close-Grip Dumbbell Press",
+    "aliases": [
+      "Close-Grip Bench Press With Dumbbell"
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/close-grip-dumbbell-press",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/close-grip-dumbbell-press",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+      "chs",
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Close-Grip EZ-Bar Press",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "ezb",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/close-grip-ez-bar-press",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/close-grip-ez-bar-press",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+      "chs",
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Close-Grip Push-Up off of a Dumbbell",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/close-grip-push-up-off-of-a-dumbbell",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/close-grip-push-up-off-of-a-dumbbell",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+      "abd",
+      "chs",
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Cobra Triceps Extension",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/cobra-triceps-extension",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/cobra-triceps-extension",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+      "chs"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Decline Close-Grip Bench To Skull Crusher",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/decline-close-grip-bench-to-skull-crusher",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/decline-close-grip-bench-to-skull-crusher",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+      "chs",
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Decline Dumbbell Triceps Extension",
+    "aliases": [
+      "Decline Dumbbell Skullcrusher"
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/decline-dumbbell-triceps-extension",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/decline-dumbbell-triceps-extension",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Decline EZ Bar Triceps Extension",
+    "aliases": [
+      "EZ Bar Decline Skullcrusher"
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/decline-ez-bar-triceps-extension",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/decline-ez-bar-triceps-extension",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Dip Machine",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "mch",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/dip-machine",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/dip-machine",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+      "chs",
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Dips - Triceps Version",
+    "aliases": [
+      "Tricep Dips",
+      "Triceps Dips"
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/dips-triceps-version",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/dips-triceps-version",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+      "chs",
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Dumbbell Floor Press",
+    "aliases": [
+      "Floor Press With Dumbbells"
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/dumbbell-floor-press",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/dumbbell-floor-press",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+      "chs",
+      "shl"
+    ],
+    "type_code": "pwr"
+  },
+  {
+    "id": null,
+    "name": "Dumbbell One-Arm Triceps Extension",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/dumbbell-one-arm-triceps-extension",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/dumbbell-one-arm-triceps-extension",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Dumbbell Tricep Extension -Pronated Grip",
+    "aliases": [
+      "Dumbbell Skull Crusher"
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/dumbbell-tricep-extension-pronated-grip",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/dumbbell-tricep-extension-pronated-grip",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "EZ-Bar Skullcrusher",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "ezb",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/ez-bar-skullcrusher",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/ez-bar-skullcrusher",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+      "frr"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Floor Press",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/floor-press",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/floor-press",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+      "chs",
+      "shl"
+    ],
+    "type_code": "pwr"
+  },
+  {
+    "id": null,
+    "name": "Floor Press with Chains",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/floor-press-with-chains",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/floor-press-with-chains",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+      "chs",
+      "shl"
+    ],
+    "type_code": "pwr"
+  },
+  {
+    "id": null,
+    "name": "Incline Barbell Triceps Extension",
+    "aliases": [
+      "Incline Barbell Skull Crusher"
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/incline-barbell-triceps-extension",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/incline-barbell-triceps-extension",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+      "frr"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Incline Push-Up Close-Grip",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/incline-push-up-close-grip",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/incline-push-up-close-grip",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+      "chs",
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "JM Press",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/jm-press",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/jm-press",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+      "chs",
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "JM Press With Bands",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/jm-press-with-bands",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/jm-press-with-bands",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+      "chs",
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Kneeling Cable Triceps Extension",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "cbl",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/kneeling-cable-triceps-extension",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/kneeling-cable-triceps-extension",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Low Cable Triceps Extension",
+    "aliases": [
+      "Low Cable Tricep Extension"
+    ],
+    "desc": "",
+    "equip_code": "cbl",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/low-cable-triceps-extension",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/low-cable-triceps-extension",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Lying Close-Grip Barbell Triceps Extension Behind The Head",
+    "aliases": [
+      "Skull Crusher",
+      "Skullcrusher"
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/lying-close-grip-barbell-triceps-extension-behind-the-head",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/lying-close-grip-barbell-triceps-extension-behind-the-head",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Lying Close-Grip Barbell Triceps Press To Chin",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "ezb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/lying-close-grip-barbell-triceps-press-to-chin",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/lying-close-grip-barbell-triceps-press-to-chin",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Lying Dumbbell Tricep Extension",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/lying-dumbbell-tricep-extension",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/lying-dumbbell-tricep-extension",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+      "chs",
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Lying Triceps Press",
+    "aliases": [
+      "Lying Triceps Extension",
+      "Skullcrusher"
+    ],
+    "desc": "",
+    "equip_code": "ezb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/lying-triceps-press",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/lying-triceps-press",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Machine Triceps Extension",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "mch",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/machine-triceps-extension",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/machine-triceps-extension",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "One Arm Floor Press",
+    "aliases": [
+      "Floor Press",
+      "One-Arm Floor Press",
+      "Single-Arm Floor Press"
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/one-arm-floor-press",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/one-arm-floor-press",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+      "chs",
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "One Arm Pronated Dumbbell Triceps Extension",
+    "aliases": [
+      "One-Arm Dumbbell Extension"
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/one-arm-pronated-dumbbell-triceps-extension",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/one-arm-pronated-dumbbell-triceps-extension",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "One Arm Supinated Dumbbell Triceps Extension",
+    "aliases": [
+      "One-Arm Triceps Extension",
+      "Single-Arm Dumbbell Triceps Extension"
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/one-arm-supinated-dumbbell-triceps-extension",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/one-arm-supinated-dumbbell-triceps-extension",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Overhead Triceps",
+    "aliases": [
+      "Triceps Stretch"
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "stt",
+    "level_code": "e",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/overhead-triceps",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/overhead-triceps",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+      "lts"
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Parallel Bar Dip",
+    "aliases": [
+      "Triceps Dip"
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/parallel-bar-dip",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/parallel-bar-dip",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+      "chs",
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Pin Presses",
+    "aliases": [
+      "Bottoms Up Bench Press"
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/pin-presses",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/pin-presses",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+      "chs",
+      "frr",
+      "lts",
+      "mdb",
+      "shl"
+    ],
+    "type_code": "pwr"
+  },
+  {
+    "id": null,
+    "name": "Push-Ups - Close Triceps Position",
+    "aliases": [
+      "Pushups - Close Triceps Position"
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/push-ups-close-triceps-position",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/push-ups-close-triceps-position",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+      "chs",
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Reverse Band Bench Press",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/reverse-band-bench-press",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/reverse-band-bench-press",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+      "chs",
+      "frr",
+      "lts",
+      "mdb",
+      "shl"
+    ],
+    "type_code": "pwr"
+  },
+  {
+    "id": null,
+    "name": "Reverse Grip Triceps Pushdown",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "cbl",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/reverse-grip-triceps-pushdown",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/reverse-grip-triceps-pushdown",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Reverse Triceps Bench Press",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/reverse-triceps-bench-press",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/reverse-triceps-bench-press",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+      "chs",
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Ring Dips",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/ring-dips",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/ring-dips",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+      "chs",
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Seated Bent-Over One-Arm Dumbbell Triceps Extension",
+    "aliases": [
+      "Triceps Kickback"
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/seated-bent-over-one-arm-dumbbell-triceps-extension",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/seated-bent-over-one-arm-dumbbell-triceps-extension",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Seated Bent-Over Two-Arm Dumbbell Triceps Extension",
+    "aliases": [
+      "Seated Triceps Kickback"
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/seated-bent-over-two-arm-dumbbell-triceps-extension",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/seated-bent-over-two-arm-dumbbell-triceps-extension",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Seated Triceps Press",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/seated-triceps-press",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/seated-triceps-press",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Sled Overhead Triceps Extension",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/sled-overhead-triceps-extension",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/sled-overhead-triceps-extension",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Smith Machine Close-Grip Bench Press",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "mch",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/smith-machine-close-grip-bench-press",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/smith-machine-close-grip-bench-press",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+      "chs",
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Speed Band Overhead Triceps",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bnd",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/speed-band-overhead-triceps",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/speed-band-overhead-triceps",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Speed Band Pushdown",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": null,
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/speed-band-pushdown",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/speed-band-pushdown",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Standing Bent-Over One-Arm Dumbbell Triceps Extension",
+    "aliases": [
+      "Dumbbell Kickbacks"
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/standing-bent-over-one-arm-dumbbell-triceps-extension",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/standing-bent-over-one-arm-dumbbell-triceps-extension",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Standing Bent-Over Two-Arm Dumbbell Triceps Extension",
+    "aliases": [
+      "Standing Kickback"
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/standing-bent-over-two-arm-dumbbell-triceps-extension",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/standing-bent-over-two-arm-dumbbell-triceps-extension",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Standing Dumbbell Triceps Extension",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/standing-dumbbell-triceps-extension",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/standing-dumbbell-triceps-extension",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Standing Low-Pulley One-Arm Triceps Extension",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "cbl",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/standing-low-pulley-one-arm-triceps-extension",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/standing-low-pulley-one-arm-triceps-extension",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+      "chs",
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Standing One-Arm Dumbbell Triceps Extension",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/standing-one-arm-dumbbell-triceps-extension",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/standing-one-arm-dumbbell-triceps-extension",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+      "chs",
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Standing Overhead Barbell Triceps Extension",
+    "aliases": [
+      "French Press"
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/standing-overhead-barbell-triceps-extension",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/standing-overhead-barbell-triceps-extension",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Standing Towel Triceps Extension",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/standing-towel-triceps-extension",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/standing-towel-triceps-extension",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Supine Chest Throw",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "mdb",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/supine-chest-throw",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/supine-chest-throw",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+      "chs",
+      "shl"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "Suspended Triceps Press",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/suspended-triceps-press",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/suspended-triceps-press",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+      "abd",
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Tate Press",
+    "aliases": [
+      "Triceps Press"
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/tate-press",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/tate-press",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+      "chs",
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Tricep Dumbbell Kickback",
+    "aliases": [
+      "Dumbbell Kickbacks",
+      "Tricep Kickbacks",
+      "Triceps Kickbacks"
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/tricep-dumbbell-kickback",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/tricep-dumbbell-kickback",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Tricep Side Stretch",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "nn",
+    "force_code": "stt",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/tricep-side-stretch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/tricep-side-stretch",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+      "shl"
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Triceps Overhead Extension with Rope",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "cbl",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/triceps-overhead-extension-with-rope",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/triceps-overhead-extension-with-rope",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Triceps Plank Extension",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/triceps-plank-extension",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/triceps-plank-extension",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+      "abd"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Triceps Pushdown",
+    "aliases": [
+      "Tricep Push-Down",
+      "Tricep Pushdowns",
+      "Triceps Pushdowns"
+    ],
+    "desc": "",
+    "equip_code": "cbl",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/triceps-pushdown",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/triceps-pushdown",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Triceps Pushdown - Rope Attachment",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "cbl",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/triceps-pushdown-rope-attachment",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/triceps-pushdown-rope-attachment",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Triceps Pushdown - V-Bar Attachment",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "cbl",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/triceps-pushdown-v-bar-attachment",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/triceps-pushdown-v-bar-attachment",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Triceps Stretch",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "nn",
+    "force_code": "stt",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/triceps-stretch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/triceps-stretch",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+      "lts"
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Weighted Bench Dip",
+    "aliases": [
+      "Tricep Dip"
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/weighted-bench-dip",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/weighted-bench-dip",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+      "chs",
+      "shl"
+    ],
+    "type_code": "str"
+  }
+]

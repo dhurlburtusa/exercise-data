@@ -1,0 +1,540 @@
+[
+  {
+    "id": null,
+    "name": "Ankle Circles",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "nn",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/ankle-circles",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/ankle-circles",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "clv",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Anterior Tibialis-SMR",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "stt",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/anterior-tibialis-smr",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/anterior-tibialis-smr",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "clv",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Balance Board",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "na",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/balance-board",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/balance-board",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "clv",
+    "other_mscl_grp_codes": [
+      "hms",
+      "qdr"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Barbell Seated Calf Raise",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/barbell-seated-calf-raise",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/barbell-seated-calf-raise",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "clv",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Calf Press",
+    "aliases": [
+      "Machine Calf Raise",
+      "Toe Press"
+    ],
+    "desc": "",
+    "equip_code": "mch",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/calf-press",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/calf-press",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "clv",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Calf Press On The Leg Press Machine",
+    "aliases": [
+      "Calf Press",
+      "Calf Raises Performed on Leg Press Machine"
+    ],
+    "desc": "",
+    "equip_code": "mch",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/calf-press-on-the-leg-press-machine",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/calf-press-on-the-leg-press-machine",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "clv",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Calf Raise On A Dumbbell",
+    "aliases": [
+      "Single Calf Raise"
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/calf-raise-on-a-dumbbell",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/calf-raise-on-a-dumbbell",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "clv",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Calf Raises - With Bands",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bnd",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/calf-raises-with-bands",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/calf-raises-with-bands",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "clv",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Calf Stretch Elbows Against Wall",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "nn",
+    "force_code": "stt",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/calf-stretch-elbows-against-wall",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/calf-stretch-elbows-against-wall",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "clv",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Calf Stretch Hands Against Wall",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "nn",
+    "force_code": "stt",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/calf-stretch-hands-against-wall",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/calf-stretch-hands-against-wall",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "clv",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Calves-SMR",
+    "aliases": [
+      "Foam Roll Calves"
+    ],
+    "desc": "",
+    "equip_code": "fmr",
+    "force_code": "stt",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/calves-smr",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/calves-smr",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "clv",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Donkey Calf Raises",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/donkey-calf-raises",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/donkey-calf-raises",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "clv",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Dumbbell Seated One-Leg Calf Raise",
+    "aliases": [
+      "Dumbbell Seated Calf Raise"
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/dumbbell-seated-one-leg-calf-raise",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/dumbbell-seated-one-leg-calf-raise",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "clv",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Foot-SMR",
+    "aliases": [
+      "Myofascial Release on Foot Arch"
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "stt",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/foot-smr",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/foot-smr",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "clv",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Knee Circles",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "pll",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/knee-circles",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/knee-circles",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "clv",
+    "other_mscl_grp_codes": [
+      "hms",
+      "qdr"
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Peroneals Stretch",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "stt",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/peroneals-stretch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/peroneals-stretch",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "clv",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Peroneals-SMR",
+    "aliases": [
+      "Foam Roll Peroneals",
+      "Myofascial Release Peroneals"
+    ],
+    "desc": "",
+    "equip_code": "fmr",
+    "force_code": "stt",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/peroneals-smr",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/peroneals-smr",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "clv",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Posterior Tibialis Stretch",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "stt",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/posterior-tibialis-stretch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/posterior-tibialis-stretch",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "clv",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Rocking Standing Calf Raise",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/rocking-standing-calf-raise",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/rocking-standing-calf-raise",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "clv",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Seated Calf Raise",
+    "aliases": [
+      "Seated Calf Raises"
+    ],
+    "desc": "",
+    "equip_code": "mch",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/seated-calf-raise",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/seated-calf-raise",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "clv",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Seated Calf Stretch",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "nn",
+    "force_code": "stt",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/seated-calf-stretch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/seated-calf-stretch",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "clv",
+    "other_mscl_grp_codes": [
+      "hms",
+      "lwb"
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Smith Machine Calf Raise",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "mch",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/smith-machine-calf-raise",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/smith-machine-calf-raise",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "clv",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Smith Machine Reverse Calf Raises",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "mch",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/smith-machine-reverse-calf-raises",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/smith-machine-reverse-calf-raises",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "clv",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Standing Barbell Calf Raise",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/standing-barbell-calf-raise",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/standing-barbell-calf-raise",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "clv",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Standing Calf Raises",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "mch",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/standing-calf-raises",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/standing-calf-raises",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "clv",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Standing Dumbbell Calf Raise",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/standing-dumbbell-calf-raise",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/standing-dumbbell-calf-raise",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "clv",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Standing Gastrocnemius Calf Stretch",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "nn",
+    "force_code": "stt",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/standing-gastrocnemius-calf-stretch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/standing-gastrocnemius-calf-stretch",
+    "mechs_code": "na",
+    "main_mscl_grp_code": "clv",
+    "other_mscl_grp_codes": [
+      "hms"
+    ],
+    "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Standing Soleus And Achilles Stretch",
+    "aliases": [
+      "Calf Stretch"
+    ],
+    "desc": "",
+    "equip_code": "nn",
+    "force_code": "stt",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/standing-soleus-and-achilles-stretch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/standing-soleus-and-achilles-stretch",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "clv",
+    "other_mscl_grp_codes": [
+
+    ],
+    "type_code": "stt"
+  }
+]
