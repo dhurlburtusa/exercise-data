@@ -1,0 +1,139 @@
+[
+  {
+    "id": "",
+    "code": "abd",
+    "name": "Abs",
+    "desc": "",
+    "priv_notes": "On: bodybuilding.com, exercise.com."
+  }, {
+    "id": "",
+    "code": "abc",
+    "name": "Abductors",
+    "desc": "",
+    "priv_notes": "On: bodybuilding.com"
+  }, /* {
+    "id": "",
+    "code": "arm",
+    "name": "Arms",
+    "desc": ""
+  }, {
+    "id": "",
+    "code": "bck",
+    "name": "Back",
+    "desc": "",
+    "priv_notes": "On: jefit.com"
+  }, */ {
+    "id": "",
+    "code": "add",
+    "name": "Adductors",
+    "desc": "",
+    "priv_notes": "On: bodybuilding.com"
+  }, {
+    "id": "",
+    "code": "bcp",
+    "name": "Biceps",
+    "desc": "",
+    "priv_notes": "On: bodybuilding.com, exercise.com."
+  }, {
+    "id": "",
+    "code": "clv",
+    "name": "Calves",
+    "desc": "",
+    "priv_notes": "On: bodybuilding.com, exercise.com."
+  }, {
+    "id": "",
+    "code": "crd",
+    "name": "Cardio",
+    "desc": "",
+    "priv_notes": "On: jefit.com."
+  }, {
+    "id": "",
+    "code": "chs",
+    "name": "Chest",
+    "desc": "",
+    "priv_notes": "On: bodybuilding.com, exercise.com."
+  }, {
+    "id": "",
+    "code": "frr",
+    "name": "Forearms",
+    "desc": "",
+    "priv_notes": "On: bodybuilding.com, exercise.com."
+  }, {
+    "id": "",
+    "code": "glt",
+    "name": "Glutes",
+    "desc": "",
+    "priv_notes": "On: bodybuilding.com, exercise.com."
+  }, {
+    "id": "",
+    "code": "hms",
+    "name": "Hamstrings",
+    "desc": "",
+    "priv_notes": "On: bodybuilding.com, exercise.com."
+  }, {
+    "id": "",
+    "code": "hpf",
+    "name": "Hip Flexors",
+    "desc": "",
+    "priv_notes": "On: exercise.com."
+  }, {
+    "id": "",
+    "code": "lts",
+    "name": "Lats",
+    "desc": "",
+    "priv_notes": "On: bodybuilding.com, exercise.com."
+  }, /* {
+    "id": "",
+    "code": "lg",
+    "name": "Legs",
+    "desc": ""
+  }, */ {
+    "id": "",
+    "code": "lwb",
+    "name": "Lower Back",
+    "desc": "",
+    "priv_notes": "On: bodybuilding.com, exercise.com."
+  }, {
+    "id": "",
+    "code": "mdb",
+    "name": "Middle Back",
+    "desc": "",
+    "priv_notes": "On: bodybuilding.com, exercise.com."
+  }, {
+    "id": "",
+    "code": "nck",
+    "name": "Neck",
+    "desc": "",
+    "priv_notes": "On: bodybuilding.com, exercise.com."
+  }, {
+    "id": "",
+    "code": "obl",
+    "name": "Obliques",
+    "desc": "",
+    "priv_notes": "On: exercise.com."
+  }, {
+    "id": "",
+    "code": "qdr",
+    "name": "Quads",
+    "desc": "",
+    "priv_notes": "On: bodybuilding.com, exercise.com."
+  }, {
+    "id": "",
+    "code": "shl",
+    "name": "Shoulders",
+    "desc": "",
+    "priv_notes": "On: bodybuilding.com, exercise.com."
+  }, {
+    "id": "",
+    "code": "trp",
+    "name": "Traps",
+    "desc": "",
+    "priv_notes": "On: bodybuilding.com, exercise.com."
+  }, {
+    "id": "",
+    "code": "trc",
+    "name": "Triceps",
+    "desc": "",
+    "priv_notes": "On: bodybuilding.com, exercise.com."
+  }
+]
