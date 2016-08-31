@@ -1,0 +1,21 @@
+[
+  {
+    "id": "",
+    "code": "cmp",
+    "name": "Compound",
+    "desc": "",
+    "priv_notes": "On: bodybuilding.com, exercise.com."
+  }, {
+    "id": "",
+    "code": "iso",
+    "name": "Isolation",
+    "desc": "",
+    "priv_notes": "On: bodybuilding.com, exercise.com."
+  }, {
+    "id": "",
+    "code": "na",
+    "name": "N/A",
+    "desc": "",
+    "priv_notes": "On: bodybuilding.com."
+  }
+]
