@@ -1041,6 +1041,25 @@
   },
   {
     "id": null,
+    "name": "Front Dumbbell Raise Using Towel",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/front-dumbbell-raise-using-towel",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/front-dumbbell-raise-using-towel",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "shl",
+    "other_mscl_grp_codes": [
+      "trp"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
     "name": "Front Incline Dumbbell Raise",
     "aliases": [
 
@@ -1789,6 +1808,25 @@
     "main_mscl_grp_code": "shl",
     "other_mscl_grp_codes": [
 
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Plate Shoulder Circle Big To Small Rotation",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/plate-shoulder-circle-big-to-small-rotation",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/plate-shoulder-circle-big-to-small-rotation",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "shl",
+    "other_mscl_grp_codes": [
+      "trp"
     ],
     "type_code": "str"
   },

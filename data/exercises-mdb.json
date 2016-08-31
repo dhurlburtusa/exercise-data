@@ -49,6 +49,28 @@
   },
   {
     "id": null,
+    "name": "Barbell Deadlift Bent Row Complex",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "pll",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/barbell-deadlift-bent-row-complex",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/barbell-deadlift-bent-row-complex",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "mdb",
+    "other_mscl_grp_codes": [
+      "glt",
+      "hms",
+      "lts",
+      "lwb"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
     "name": "Bent Over Barbell Row",
     "aliases": [
       "Barbell Row",

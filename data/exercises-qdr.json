@@ -1,6 +1,27 @@
 [
   {
     "id": null,
+    "name": "90-Degree Jump Squat Twist",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/90-degree-jump-squat-twist",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/90-degree-jump-squat-twist",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
     "name": "Alien Squat",
     "aliases": [
 
@@ -85,6 +106,27 @@
       "lwb"
     ],
     "type_code": "stn"
+  },
+  {
+    "id": null,
+    "name": "Barbell Front-To-Back Squat",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "brb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/barbell-front-to-back-squat",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/barbell-front-to-back-squat",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
   },
   {
     "id": null,
@@ -805,6 +847,27 @@
   },
   {
     "id": null,
+    "name": "Close-Stance Dumbbell Front Squat",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/close-stance-dumbbell-front-squat",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/close-stance-dumbbell-front-squat",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
     "name": "Conan's Wheel",
     "aliases": [
       "Conans",
@@ -899,6 +962,26 @@
   },
   {
     "id": null,
+    "name": "Dumbbell Front Squat",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/dumbbell-front-squat",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/dumbbell-front-squat",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
     "name": "Dumbbell Goblet Squat",
     "aliases": [
 
@@ -912,6 +995,49 @@
     "mechs_code": "cmp",
     "main_mscl_grp_code": "qdr",
     "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Dumbbell Jump Squat",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/dumbbell-jump-squat",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/dumbbell-jump-squat",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "Dumbbell Lunge and Curl",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/dumbbell-lunge-and-curl",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/dumbbell-lunge-and-curl",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "bcp",
       "clv",
       "glt",
       "hms"
@@ -1936,6 +2062,46 @@
 
     ],
     "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "Lateral Hop 4 Times To Sprint",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "na",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/lateral-hop-4-times-to-sprint",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/lateral-hop-4-times-to-sprint",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "plm"
+  },
+  {
+    "id": null,
+    "name": "Lateral Hop Holding Dumbbells",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/lateral-hop-holding-dumbbells",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/lateral-hop-holding-dumbbells",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv"
+    ],
+    "type_code": "plm"
   },
   {
     "id": null,
@@ -4273,6 +4439,27 @@
       "hms"
     ],
     "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Wide-Stance Jump Squat To Close-Stance",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "psh",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/wide-stance-jump-squat-to-close-stance",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/wide-stance-jump-squat-to-close-stance",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "qdr",
+    "other_mscl_grp_codes": [
+      "clv",
+      "glt",
+      "hms"
+    ],
+    "type_code": "plm"
   },
   {
     "id": null,

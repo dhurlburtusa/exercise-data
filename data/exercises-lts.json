@@ -1,6 +1,26 @@
 [
   {
     "id": null,
+    "name": "Around The World Pull-Up",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "pll",
+    "level_code": "e",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/around-the-world-pull-up",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/around-the-world-pull-up",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "lts",
+    "other_mscl_grp_codes": [
+      "bcp",
+      "mdb"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
     "name": "Assisted Chin-Up",
     "aliases": [
 
@@ -327,6 +347,27 @@
     "other_mscl_grp_codes": [
       "bcp",
       "mdb"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "L-Sit Chin-Up",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "pll",
+    "level_code": "e",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/l-sit-chin-up",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/l-sit-chin-up",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "lts",
+    "other_mscl_grp_codes": [
+      "abd",
+      "bcp",
+      "frr"
     ],
     "type_code": "str"
   },

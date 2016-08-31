@@ -665,6 +665,50 @@
   },
   {
     "id": null,
+    "name": "Dumbbell V-Sit Cross Jab",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/dumbbell-v-sit-cross-jab",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/dumbbell-v-sit-cross-jab",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+      "lts",
+      "mdb",
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Dumbbell Vi-Sit Cross Jab",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": null,
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/dumbbell-vi-sit-cross-jab",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/dumbbell-vi-sit-cross-jab",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+      "lts",
+      "mdb",
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
     "name": "Elbow to Knee",
     "aliases": [
 
@@ -1697,6 +1741,26 @@
   },
   {
     "id": null,
+    "name": "Shoulder Tap",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "bdo",
+    "force_code": "na",
+    "level_code": "b",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/shoulder-tap",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/shoulder-tap",
+    "mechs_code": "iso",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+      "shl",
+      "trc"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
     "name": "Side Bridge",
     "aliases": [
 
@@ -1749,6 +1813,28 @@
     "main_mscl_grp_code": "abd",
     "other_mscl_grp_codes": [
 
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "Skin The Cat To Push-Up",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "pll",
+    "level_code": "e",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/skin-the-cat-to-push-up",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/skin-the-cat-to-push-up",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+      "chs",
+      "lts",
+      "shl",
+      "trc"
     ],
     "type_code": "str"
   },
@@ -2163,6 +2249,27 @@
     "main_mscl_grp_code": "abd",
     "other_mscl_grp_codes": [
 
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
+    "name": "V-Sit Lying Down Ball Throw And Catch",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "mdb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/v-sit-lying-down-ball-throw-and-catch",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/v-sit-lying-down-ball-throw-and-catch",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "abd",
+    "other_mscl_grp_codes": [
+      "chs",
+      "shl",
+      "trc"
     ],
     "type_code": "str"
   },

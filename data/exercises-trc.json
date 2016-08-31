@@ -124,6 +124,26 @@
   },
   {
     "id": null,
+    "name": "Body Triceps Press Using Flat Bench",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/body-triceps-press-using-flat-bench",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/body-triceps-press-using-flat-bench",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+      "abd",
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
     "name": "Body-Up",
     "aliases": [
 
@@ -995,6 +1015,26 @@
   },
   {
     "id": null,
+    "name": "Russian Bar Dip",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "oth",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/russian-bar-dip",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/russian-bar-dip",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+      "chs",
+      "shl"
+    ],
+    "type_code": "str"
+  },
+  {
+    "id": null,
     "name": "Seated Bent-Over One-Arm Dumbbell Triceps Extension",
     "aliases": [
       "Triceps Kickback"
@@ -1477,6 +1517,25 @@
       "lts"
     ],
     "type_code": "stt"
+  },
+  {
+    "id": null,
+    "name": "V-Sit Dumbbell Triceps Extension",
+    "aliases": [
+
+    ],
+    "desc": "",
+    "equip_code": "dmb",
+    "force_code": "psh",
+    "level_code": "i",
+    "link_detailed": "http://www.bodybuilding.com/exercises/detail/view/name/v-sit-dumbbell-triceps-extension",
+    "link_summary": "http://www.bodybuilding.com/exercises/main/popup/name/v-sit-dumbbell-triceps-extension",
+    "mechs_code": "cmp",
+    "main_mscl_grp_code": "trc",
+    "other_mscl_grp_codes": [
+      "abd"
+    ],
+    "type_code": "str"
   },
   {
     "id": null,
