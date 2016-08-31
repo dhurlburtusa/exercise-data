@@ -1,6 +1,5 @@
 [
   {
-    "id": null,
     "name": "Alternate Hammer Curl",
     "aliases": [
       "Alternating Hammer Curl",
@@ -21,7 +20,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Alternate Incline Dumbbell Curl",
     "aliases": [
       "Alternating Incline Bicep Curl",
@@ -41,7 +39,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Barbell Curl",
     "aliases": [
 
@@ -60,7 +57,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Barbell Curls Lying Against An Incline",
     "aliases": [
 
@@ -79,7 +75,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Biceps Curl To Shoulder Press",
     "aliases": [
 
@@ -99,7 +94,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Brachialis-SMR",
     "aliases": [
       "Bicep Foam Roll"
@@ -118,7 +112,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Cable Hammer Curls - Rope Attachment",
     "aliases": [
 
@@ -137,7 +130,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Cable Preacher Curl",
     "aliases": [
       "Cable Scott Curl"
@@ -156,7 +148,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Close-Grip EZ Bar Curl",
     "aliases": [
 
@@ -175,7 +166,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Close-Grip EZ-Bar Curl with Band",
     "aliases": [
 
@@ -194,7 +184,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Close-Grip Standing Barbell Curl",
     "aliases": [
 
@@ -213,7 +202,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Concentration Curls",
     "aliases": [
 
@@ -232,7 +220,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Cross Body Hammer Curl",
     "aliases": [
 
@@ -251,7 +238,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Drag Curl",
     "aliases": [
 
@@ -270,7 +256,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Dumbbell Alternate Bicep Curl",
     "aliases": [
       "Alternating Dumbbell Curl"
@@ -289,7 +274,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Dumbbell Bicep Curl",
     "aliases": [
       "Dumbbell Curls"
@@ -308,7 +292,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Dumbbell Prone Incline Curl",
     "aliases": [
 
@@ -327,7 +310,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "EZ-Bar Curl",
     "aliases": [
       "E-Z Curls"
@@ -346,7 +328,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Flexor Incline Dumbbell Curls",
     "aliases": [
 
@@ -365,7 +346,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Hammer Curls",
     "aliases": [
       "Neutral Grip Biceps Curl"
@@ -384,7 +364,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "High Cable Curls",
     "aliases": [
 
@@ -403,7 +382,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Incline Dumbbell Curl",
     "aliases": [
       "Incline Dumbbell Curls"
@@ -422,7 +400,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Incline Hammer Curls",
     "aliases": [
 
@@ -441,7 +418,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Incline Inner Biceps Curl",
     "aliases": [
 
@@ -460,7 +436,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Lying Cable Curl",
     "aliases": [
 
@@ -479,7 +454,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Lying Close-Grip Bar Curl On High Pulley",
     "aliases": [
 
@@ -498,7 +472,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Lying High Bench Barbell Curl",
     "aliases": [
 
@@ -517,7 +490,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Lying Supine Dumbbell Curl",
     "aliases": [
 
@@ -536,7 +508,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Machine Bicep Curl",
     "aliases": [
       "Biceps Curl"
@@ -555,7 +526,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Machine Preacher Curls",
     "aliases": [
       "Machine Biceps Curls",
@@ -575,7 +545,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "One Arm Dumbbell Preacher Curl",
     "aliases": [
       "One-Arm Preacher Curl",
@@ -596,7 +565,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "One-Arm Plank Dumbbell Biceps Curl",
     "aliases": [
 
@@ -617,7 +585,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Overhead Cable Curl",
     "aliases": [
 
@@ -636,7 +603,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Preacher Curl",
     "aliases": [
 
@@ -655,7 +621,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Preacher Hammer Dumbbell Curl",
     "aliases": [
       "Neutral Grip Preacher Curl"
@@ -674,7 +639,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Reverse Barbell Curl",
     "aliases": [
 
@@ -693,7 +657,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Reverse Barbell Preacher Curls",
     "aliases": [
 
@@ -712,7 +675,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Reverse Cable Curl",
     "aliases": [
 
@@ -731,7 +693,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Reverse Plate Curls",
     "aliases": [
 
@@ -750,7 +711,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Seated Biceps",
     "aliases": [
       "Biceps Stretch"
@@ -770,7 +730,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Seated Close-Grip Concentration Barbell Curl",
     "aliases": [
       "Concentration Curl"
@@ -789,7 +748,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Seated Dumbbell Curl",
     "aliases": [
 
@@ -808,7 +766,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Seated Dumbbell Inner Biceps Curl",
     "aliases": [
 
@@ -827,7 +784,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Seated Straight-Bar Curl Superset",
     "aliases": [
 
@@ -846,7 +802,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Spider Curl",
     "aliases": [
 
@@ -865,7 +820,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Standing Biceps Cable Curl",
     "aliases": [
 
@@ -884,7 +838,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Standing Biceps Stretch",
     "aliases": [
 
@@ -904,7 +857,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Standing Concentration Curl",
     "aliases": [
 
@@ -923,7 +875,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Standing Dumbbell Reverse Curl",
     "aliases": [
 
@@ -942,7 +893,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Standing Inner-Biceps Curl",
     "aliases": [
       "Biceps Curl",
@@ -962,7 +912,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Standing One-Arm Cable Curl",
     "aliases": [
 
@@ -981,7 +930,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Standing One-Arm Dumbbell Curl Over Incline Bench",
     "aliases": [
       "Preacher Curl"
@@ -1000,7 +948,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Suspended Curl",
     "aliases": [
 
@@ -1019,7 +966,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Two-Arm Dumbbell Preacher Curl",
     "aliases": [
 
@@ -1038,7 +984,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Wide-Grip Standing Barbell Curl",
     "aliases": [
       "Barbell Curl",
@@ -1060,7 +1005,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Zottman Curl",
     "aliases": [
       "Alternating Dumbbell Curl"
@@ -1079,7 +1023,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Zottman Preacher Curl",
     "aliases": [
       "Alternating Preacher Curl"

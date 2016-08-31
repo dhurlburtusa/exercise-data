@@ -1,6 +1,5 @@
 [
   {
-    "id": null,
     "name": "Atlas Stone Trainer",
     "aliases": [
 
@@ -23,7 +22,6 @@
     "type_code": "stn"
   },
   {
-    "id": null,
     "name": "Atlas Stones",
     "aliases": [
 
@@ -51,7 +49,6 @@
     "type_code": "stn"
   },
   {
-    "id": null,
     "name": "Axle Deadlift",
     "aliases": [
       "Thick Bar Deadlift"
@@ -75,7 +72,6 @@
     "type_code": "stn"
   },
   {
-    "id": null,
     "name": "Cat Stretch",
     "aliases": [
       "Back Stretch"
@@ -95,7 +91,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Child's Pose",
     "aliases": [
 
@@ -115,7 +110,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Crossover Reverse Lunge",
     "aliases": [
 
@@ -138,7 +132,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Dancer's Stretch",
     "aliases": [
       "Cross-Body Back Stretch"
@@ -158,7 +151,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Deadlift with Bands",
     "aliases": [
       "Band Deadlift"
@@ -182,7 +174,6 @@
     "type_code": "pwr"
   },
   {
-    "id": null,
     "name": "Deadlift with Chains",
     "aliases": [
       "Chain Deadlift"
@@ -206,7 +197,6 @@
     "type_code": "pwr"
   },
   {
-    "id": null,
     "name": "Deficit Deadlift",
     "aliases": [
       "Deadlift From a Deficit"
@@ -230,7 +220,6 @@
     "type_code": "pwr"
   },
   {
-    "id": null,
     "name": "Hug A Ball",
     "aliases": [
 
@@ -250,7 +239,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Hug Knees To Chest",
     "aliases": [
 
@@ -269,7 +257,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Hyperextensions (Back Extensions)",
     "aliases": [
 
@@ -289,7 +276,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Hyperextensions With No Hyperextension Bench",
     "aliases": [
 
@@ -309,7 +295,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Keg Load",
     "aliases": [
 
@@ -337,7 +322,6 @@
     "type_code": "stn"
   },
   {
-    "id": null,
     "name": "Lower Back-SMR",
     "aliases": [
       "Foam Roll Erector Spinae",
@@ -357,7 +341,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Partner Flat-Bench Back Extension",
     "aliases": [
 
@@ -377,7 +360,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Partner Flat-Bench Back Extension With Hold",
     "aliases": [
 
@@ -397,7 +379,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Partner Supermans With Alternating High-Five",
     "aliases": [
 
@@ -417,7 +398,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Pelvic Tilt Into Bridge",
     "aliases": [
 
@@ -436,7 +416,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Pyramid",
     "aliases": [
 
@@ -455,7 +434,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Rack Pull with Bands",
     "aliases": [
 
@@ -478,7 +456,6 @@
     "type_code": "pwr"
   },
   {
-    "id": null,
     "name": "Rack Pulls",
     "aliases": [
       "Partial Deadlift",
@@ -501,7 +478,6 @@
     "type_code": "pwr"
   },
   {
-    "id": null,
     "name": "Reverse Band Deadlift",
     "aliases": [
 
@@ -525,7 +501,6 @@
     "type_code": "pwr"
   },
   {
-    "id": null,
     "name": "Seated Back Extension",
     "aliases": [
 
@@ -544,7 +519,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Seated Good Mornings",
     "aliases": [
 
@@ -563,7 +537,6 @@
     "type_code": "pwr"
   },
   {
-    "id": null,
     "name": "Standing Pelvic Tilt",
     "aliases": [
 
@@ -582,7 +555,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Stiff Leg Barbell Good Morning",
     "aliases": [
 
@@ -602,7 +574,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Superman",
     "aliases": [
 
@@ -622,7 +593,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Weighted Ball Hyperextension",
     "aliases": [
 

@@ -1,6 +1,5 @@
 [
   {
-    "id": null,
     "name": "Barbell Shrug",
     "aliases": [
 
@@ -19,7 +18,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Barbell Shrug Behind The Back",
     "aliases": [
 
@@ -39,7 +37,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Cable Shrugs",
     "aliases": [
 
@@ -58,7 +55,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Calf-Machine Shoulder Shrug",
     "aliases": [
       "Machine Shoulder Shrug",
@@ -78,7 +74,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Clean Shrug",
     "aliases": [
 
@@ -98,7 +93,6 @@
     "type_code": "olw"
   },
   {
-    "id": null,
     "name": "Dumbbell Shrug",
     "aliases": [
 
@@ -117,7 +111,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Kettlebell Sumo High Pull",
     "aliases": [
 
@@ -140,7 +133,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Leverage Shrug",
     "aliases": [
       "Hammerstrength Shrug"
@@ -159,7 +151,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Scapular Pull-Up",
     "aliases": [
       "Reverse Shrug",
@@ -180,7 +171,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Smith Machine Behind the Back Shrug",
     "aliases": [
 
@@ -199,7 +189,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Smith Machine Shrug",
     "aliases": [
 
@@ -219,7 +208,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Smith Machine Upright Row",
     "aliases": [
 
@@ -240,7 +228,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Snatch Shrug",
     "aliases": [
 
@@ -260,7 +247,6 @@
     "type_code": "olw"
   },
   {
-    "id": null,
     "name": "Standing Dumbbell Upright Row",
     "aliases": [
 
@@ -280,7 +266,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Upright Cable Row",
     "aliases": [
 
@@ -299,7 +284,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Upright Row - With Bands",
     "aliases": [
 

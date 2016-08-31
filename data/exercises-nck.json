@@ -1,6 +1,5 @@
 [
   {
-    "id": null,
     "name": "Chin To Chest Stretch",
     "aliases": [
       "Neck Stretch"
@@ -19,7 +18,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Isometric Neck Exercise - Front And Back",
     "aliases": [
 
@@ -38,7 +36,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Isometric Neck Exercise - Sides",
     "aliases": [
 
@@ -57,7 +54,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Lying Face Down Plate Neck Resistance",
     "aliases": [
 
@@ -76,7 +72,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Lying Face Up Plate Neck Resistance",
     "aliases": [
 
@@ -95,7 +90,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Neck Bridge Prone",
     "aliases": [
 
@@ -114,7 +108,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Neck-SMR",
     "aliases": [
       "Levator Myofascial Release"
@@ -133,7 +126,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Seated Head Harness Neck Resistance",
     "aliases": [
 
@@ -152,7 +144,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Side Neck Stretch",
     "aliases": [
 

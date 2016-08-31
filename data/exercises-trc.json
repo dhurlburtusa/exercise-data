@@ -1,6 +1,5 @@
 [
   {
-    "id": null,
     "name": "Band Skull Crusher",
     "aliases": [
 
@@ -19,7 +18,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Bench Dips",
     "aliases": [
       "Tricep Dip"
@@ -39,7 +37,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Bench Press - Powerlifting",
     "aliases": [
       "Bench Press"
@@ -61,7 +58,6 @@
     "type_code": "pwr"
   },
   {
-    "id": null,
     "name": "Bench Press with Chains",
     "aliases": [
 
@@ -82,7 +78,6 @@
     "type_code": "pwr"
   },
   {
-    "id": null,
     "name": "Board Press",
     "aliases": [
 
@@ -104,7 +99,6 @@
     "type_code": "pwr"
   },
   {
-    "id": null,
     "name": "Body Tricep Press",
     "aliases": [
 
@@ -123,7 +117,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Body Triceps Press Using Flat Bench",
     "aliases": [
 
@@ -143,7 +136,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Body-Up",
     "aliases": [
 
@@ -163,7 +155,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Cable Incline Triceps Extension",
     "aliases": [
 
@@ -182,7 +173,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Cable Lying Triceps Extension",
     "aliases": [
 
@@ -201,7 +191,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Cable One Arm Tricep Extension",
     "aliases": [
 
@@ -220,7 +209,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Cable Rope Overhead Triceps Extension",
     "aliases": [
       "Rope Triceps Extension"
@@ -239,7 +227,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Chain Handle Extension",
     "aliases": [
       "Tricep Extension With Chains"
@@ -258,7 +245,6 @@
     "type_code": "pwr"
   },
   {
-    "id": null,
     "name": "Close-Grip Barbell Bench Press",
     "aliases": [
       "Close Grip Bench"
@@ -278,7 +264,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Close-Grip Dumbbell Press",
     "aliases": [
       "Close-Grip Bench Press With Dumbbell"
@@ -298,7 +283,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Close-Grip EZ-Bar Press",
     "aliases": [
 
@@ -318,7 +302,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Close-Grip Push-Up off of a Dumbbell",
     "aliases": [
 
@@ -339,7 +322,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Cobra Triceps Extension",
     "aliases": [
 
@@ -358,7 +340,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Decline Close-Grip Bench To Skull Crusher",
     "aliases": [
 
@@ -378,7 +359,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Decline Dumbbell Triceps Extension",
     "aliases": [
       "Decline Dumbbell Skullcrusher"
@@ -397,7 +377,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Decline EZ Bar Triceps Extension",
     "aliases": [
       "EZ Bar Decline Skullcrusher"
@@ -416,7 +395,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Dip Machine",
     "aliases": [
 
@@ -436,7 +414,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Dips - Triceps Version",
     "aliases": [
       "Tricep Dips",
@@ -457,7 +434,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Dumbbell Floor Press",
     "aliases": [
       "Floor Press With Dumbbells"
@@ -477,7 +453,6 @@
     "type_code": "pwr"
   },
   {
-    "id": null,
     "name": "Dumbbell One-Arm Triceps Extension",
     "aliases": [
 
@@ -496,7 +471,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Dumbbell Tricep Extension -Pronated Grip",
     "aliases": [
       "Dumbbell Skull Crusher"
@@ -515,7 +489,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "EZ-Bar Skullcrusher",
     "aliases": [
 
@@ -534,7 +507,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Floor Press",
     "aliases": [
 
@@ -554,7 +526,6 @@
     "type_code": "pwr"
   },
   {
-    "id": null,
     "name": "Floor Press with Chains",
     "aliases": [
 
@@ -574,7 +545,6 @@
     "type_code": "pwr"
   },
   {
-    "id": null,
     "name": "Incline Barbell Triceps Extension",
     "aliases": [
       "Incline Barbell Skull Crusher"
@@ -593,7 +563,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Incline Push-Up Close-Grip",
     "aliases": [
 
@@ -613,7 +582,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "JM Press",
     "aliases": [
 
@@ -633,7 +601,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "JM Press With Bands",
     "aliases": [
 
@@ -653,7 +620,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Kneeling Cable Triceps Extension",
     "aliases": [
 
@@ -672,7 +638,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Low Cable Triceps Extension",
     "aliases": [
       "Low Cable Tricep Extension"
@@ -691,7 +656,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Lying Close-Grip Barbell Triceps Extension Behind The Head",
     "aliases": [
       "Skull Crusher",
@@ -711,7 +675,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Lying Close-Grip Barbell Triceps Press To Chin",
     "aliases": [
 
@@ -730,7 +693,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Lying Dumbbell Tricep Extension",
     "aliases": [
 
@@ -750,7 +712,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Lying Triceps Press",
     "aliases": [
       "Lying Triceps Extension",
@@ -770,7 +731,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Machine Triceps Extension",
     "aliases": [
 
@@ -789,7 +749,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "One Arm Floor Press",
     "aliases": [
       "Floor Press",
@@ -811,7 +770,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "One Arm Pronated Dumbbell Triceps Extension",
     "aliases": [
       "One-Arm Dumbbell Extension"
@@ -830,7 +788,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "One Arm Supinated Dumbbell Triceps Extension",
     "aliases": [
       "One-Arm Triceps Extension",
@@ -850,7 +807,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Overhead Triceps",
     "aliases": [
       "Triceps Stretch"
@@ -869,7 +825,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Parallel Bar Dip",
     "aliases": [
       "Triceps Dip"
@@ -889,7 +844,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Pin Presses",
     "aliases": [
       "Bottoms Up Bench Press"
@@ -912,7 +866,6 @@
     "type_code": "pwr"
   },
   {
-    "id": null,
     "name": "Push-Ups - Close Triceps Position",
     "aliases": [
       "Pushups - Close Triceps Position"
@@ -932,7 +885,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Reverse Band Bench Press",
     "aliases": [
 
@@ -955,7 +907,6 @@
     "type_code": "pwr"
   },
   {
-    "id": null,
     "name": "Reverse Grip Triceps Pushdown",
     "aliases": [
 
@@ -974,7 +925,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Reverse Triceps Bench Press",
     "aliases": [
 
@@ -994,7 +944,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Ring Dips",
     "aliases": [
 
@@ -1014,7 +963,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Russian Bar Dip",
     "aliases": [
 
@@ -1034,7 +982,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Seated Bent-Over One-Arm Dumbbell Triceps Extension",
     "aliases": [
       "Triceps Kickback"
@@ -1053,7 +1000,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Seated Bent-Over Two-Arm Dumbbell Triceps Extension",
     "aliases": [
       "Seated Triceps Kickback"
@@ -1072,7 +1018,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Seated Triceps Press",
     "aliases": [
 
@@ -1091,7 +1036,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Sled Overhead Triceps Extension",
     "aliases": [
 
@@ -1110,7 +1054,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Smith Machine Close-Grip Bench Press",
     "aliases": [
 
@@ -1130,7 +1073,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Speed Band Overhead Triceps",
     "aliases": [
 
@@ -1149,7 +1091,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Speed Band Pushdown",
     "aliases": [
 
@@ -1168,7 +1109,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Standing Bent-Over One-Arm Dumbbell Triceps Extension",
     "aliases": [
       "Dumbbell Kickbacks"
@@ -1187,7 +1127,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Standing Bent-Over Two-Arm Dumbbell Triceps Extension",
     "aliases": [
       "Standing Kickback"
@@ -1206,7 +1145,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Standing Dumbbell Triceps Extension",
     "aliases": [
 
@@ -1225,7 +1163,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Standing Low-Pulley One-Arm Triceps Extension",
     "aliases": [
 
@@ -1245,7 +1182,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Standing One-Arm Dumbbell Triceps Extension",
     "aliases": [
 
@@ -1265,7 +1201,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Standing Overhead Barbell Triceps Extension",
     "aliases": [
       "French Press"
@@ -1284,7 +1219,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Standing Towel Triceps Extension",
     "aliases": [
 
@@ -1303,7 +1237,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Supine Chest Throw",
     "aliases": [
 
@@ -1323,7 +1256,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Suspended Triceps Press",
     "aliases": [
 
@@ -1343,7 +1275,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Tate Press",
     "aliases": [
       "Triceps Press"
@@ -1363,7 +1294,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Tricep Dumbbell Kickback",
     "aliases": [
       "Dumbbell Kickbacks",
@@ -1384,7 +1314,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Tricep Side Stretch",
     "aliases": [
 
@@ -1403,7 +1332,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Triceps Overhead Extension with Rope",
     "aliases": [
 
@@ -1422,7 +1350,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Triceps Plank Extension",
     "aliases": [
 
@@ -1441,7 +1368,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Triceps Pushdown",
     "aliases": [
       "Tricep Push-Down",
@@ -1462,7 +1388,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Triceps Pushdown - Rope Attachment",
     "aliases": [
 
@@ -1481,7 +1406,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Triceps Pushdown - V-Bar Attachment",
     "aliases": [
 
@@ -1500,7 +1424,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Triceps Stretch",
     "aliases": [
 
@@ -1519,7 +1442,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "V-Sit Dumbbell Triceps Extension",
     "aliases": [
 
@@ -1538,7 +1460,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Weighted Bench Dip",
     "aliases": [
       "Tricep Dip"

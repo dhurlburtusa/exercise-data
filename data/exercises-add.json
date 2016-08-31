@@ -1,6 +1,5 @@
 [
   {
-    "id": null,
     "name": "Adductor",
     "aliases": [
       "Foam Roll Inner Thigh",
@@ -20,7 +19,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Adductor/Groin",
     "aliases": [
       "Adductor PNF Stretch",
@@ -41,7 +39,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Band Hip Adductions",
     "aliases": [
 
@@ -60,7 +57,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Carioca Quick Step",
     "aliases": [
 
@@ -84,7 +80,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Groin and Back Stretch",
     "aliases": [
 
@@ -103,7 +98,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Groiners",
     "aliases": [
 
@@ -122,7 +116,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Lateral Bound",
     "aliases": [
 
@@ -145,7 +138,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Lateral Box Jump",
     "aliases": [
 
@@ -168,7 +160,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Lateral Cone Hops",
     "aliases": [
 
@@ -191,7 +182,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Lying Bent Leg Groin",
     "aliases": [
 
@@ -210,7 +200,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Side Leg Raises",
     "aliases": [
 
@@ -229,7 +218,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Side Lying Groin Stretch",
     "aliases": [
 
@@ -248,7 +236,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Thigh Adductor",
     "aliases": [
       "Inner Thigh Machine"

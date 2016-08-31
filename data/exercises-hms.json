@@ -1,6 +1,5 @@
 [
   {
-    "id": null,
     "name": "90/90 Hamstring",
     "aliases": [
       "Dynamic Hamstring Stretch"
@@ -19,7 +18,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Alternating Hang Clean",
     "aliases": [
       "Alternating Kettlebell Clean",
@@ -45,7 +43,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Alternating Leg Swing",
     "aliases": [
 
@@ -66,7 +63,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Ball Leg Curl",
     "aliases": [
       "Hamstring Curl",
@@ -88,7 +84,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Band Good Morning",
     "aliases": [
 
@@ -108,7 +103,6 @@
     "type_code": "pwr"
   },
   {
-    "id": null,
     "name": "Band Good Morning (Pull Through)",
     "aliases": [
 
@@ -128,7 +122,6 @@
     "type_code": "pwr"
   },
   {
-    "id": null,
     "name": "Barbell Deadlift",
     "aliases": [
 
@@ -149,7 +142,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Box Jump (Multiple Response)",
     "aliases": [
       "Front Box Jump"
@@ -172,7 +164,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Box Skip",
     "aliases": [
 
@@ -195,7 +186,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Chair Leg Extended Stretch",
     "aliases": [
 
@@ -214,7 +204,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Clean",
     "aliases": [
       "Squat Clean"
@@ -239,7 +228,6 @@
     "type_code": "olw"
   },
   {
-    "id": null,
     "name": "Clean Deadlift",
     "aliases": [
       "Clean-Grip Deadlift"
@@ -263,7 +251,6 @@
     "type_code": "olw"
   },
   {
-    "id": null,
     "name": "Double Kettlebell Alternating Hang Clean",
     "aliases": [
       "Alternating Kettlebell Clean"
@@ -288,7 +275,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Dumbbell Clean",
     "aliases": [
       "Dumbbell Power Clean"
@@ -313,7 +299,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Floor Glute-Ham Raise",
     "aliases": [
 
@@ -333,7 +318,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Front Box Jump",
     "aliases": [
 
@@ -356,7 +340,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Front Leg Raises",
     "aliases": [
 
@@ -375,7 +358,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Glute Ham Raise",
     "aliases": [
 
@@ -395,7 +377,6 @@
     "type_code": "pwr"
   },
   {
-    "id": null,
     "name": "Good Morning",
     "aliases": [
 
@@ -416,7 +397,6 @@
     "type_code": "pwr"
   },
   {
-    "id": null,
     "name": "Good Morning off Pins",
     "aliases": [
       "Bottoms Up Good Morning"
@@ -437,7 +417,6 @@
     "type_code": "pwr"
   },
   {
-    "id": null,
     "name": "Hamstring Stretch",
     "aliases": [
 
@@ -456,7 +435,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Hamstring-SMR",
     "aliases": [
       "Foam Roll Hamstrings",
@@ -476,7 +454,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Hang Snatch",
     "aliases": [
 
@@ -502,7 +479,6 @@
     "type_code": "olw"
   },
   {
-    "id": null,
     "name": "Hang Snatch - Below Knees",
     "aliases": [
 
@@ -528,7 +504,6 @@
     "type_code": "olw"
   },
   {
-    "id": null,
     "name": "Hanging Bar Good Morning",
     "aliases": [
       "Suspended Good Morning"
@@ -549,7 +524,6 @@
     "type_code": "pwr"
   },
   {
-    "id": null,
     "name": "High Kick",
     "aliases": [
 
@@ -568,7 +542,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Hip Stretch With Twist",
     "aliases": [
 
@@ -589,7 +562,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Hurdle Hops",
     "aliases": [
 
@@ -611,7 +583,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Inchworm",
     "aliases": [
 
@@ -630,7 +601,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Intermediate Groin Stretch",
     "aliases": [
 
@@ -649,7 +619,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Kettlebell Dead Clean",
     "aliases": [
 
@@ -672,7 +641,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Kettlebell Hang Clean",
     "aliases": [
 
@@ -695,7 +663,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Kettlebell One-Legged Deadlift",
     "aliases": [
       "Single-Leg Deadlift"
@@ -715,7 +682,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Knee To Chest",
     "aliases": [
 
@@ -734,7 +700,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Knee Tuck Jump",
     "aliases": [
 
@@ -757,7 +722,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Leg-Up Hamstring Stretch",
     "aliases": [
 
@@ -776,7 +740,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Linear 3-Part Start Technique",
     "aliases": [
 
@@ -796,7 +759,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Linear Acceleration Wall Drill",
     "aliases": [
 
@@ -817,7 +779,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Lunge Pass Through",
     "aliases": [
 
@@ -838,7 +799,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Lying Hamstring",
     "aliases": [
       "PNF Hamstring Stretch"
@@ -857,7 +817,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Lying Leg Curls",
     "aliases": [
       "Lying Hamstrings Curl"
@@ -876,7 +835,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Moving Claw Series",
     "aliases": [
 
@@ -896,7 +854,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Muscle Snatch",
     "aliases": [
       "Snatch"
@@ -919,7 +876,6 @@
     "type_code": "olw"
   },
   {
-    "id": null,
     "name": "Natural Glute Ham Raise",
     "aliases": [
       "Glute-Ham Raise",
@@ -941,7 +897,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "One-Arm Kettlebell Clean",
     "aliases": [
       "Kettlebell Clean"
@@ -963,7 +918,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "One-Arm Kettlebell Swings",
     "aliases": [
       "Kettlebell Swing"
@@ -985,7 +939,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "One-Arm Open Palm Kettlebell Clean",
     "aliases": [
       "Kettlebell Clean"
@@ -1008,7 +961,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Open Palm Kettlebell Clean",
     "aliases": [
       "Kettlebell Clean"
@@ -1030,7 +982,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Platform Hamstring Slides",
     "aliases": [
 
@@ -1049,7 +1000,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Power Clean",
     "aliases": [
 
@@ -1076,7 +1026,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Power Clean from Blocks",
     "aliases": [
       "Power Clean From Boxes"
@@ -1095,7 +1044,6 @@
     "type_code": "olw"
   },
   {
-    "id": null,
     "name": "Power Snatch",
     "aliases": [
       "Hang Power Snatch"
@@ -1120,7 +1068,6 @@
     "type_code": "olw"
   },
   {
-    "id": null,
     "name": "Power Stairs",
     "aliases": [
       "Power Stair Trainer"
@@ -1145,7 +1092,6 @@
     "type_code": "stn"
   },
   {
-    "id": null,
     "name": "Prone Manual Hamstring",
     "aliases": [
 
@@ -1164,7 +1110,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Prowler Sprint",
     "aliases": [
       "Sled Push"
@@ -1187,7 +1132,6 @@
     "type_code": "crd"
   },
   {
-    "id": null,
     "name": "Reverse Band Sumo Deadlift",
     "aliases": [
 
@@ -1213,7 +1157,6 @@
     "type_code": "pwr"
   },
   {
-    "id": null,
     "name": "Reverse Hyperextension",
     "aliases": [
       "Reverse Hyper"
@@ -1233,7 +1176,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Romanian Deadlift",
     "aliases": [
 
@@ -1252,7 +1194,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Romanian Deadlift from Deficit",
     "aliases": [
       "Straight-Legged Deadlift"
@@ -1274,7 +1215,6 @@
     "type_code": "olw"
   },
   {
-    "id": null,
     "name": "Romanian Deadlift With Dumbbells",
     "aliases": [
 
@@ -1294,7 +1234,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Romanian Deadlift with Kettlebell",
     "aliases": [
 
@@ -1314,7 +1253,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Runner's Stretch",
     "aliases": [
 
@@ -1333,7 +1271,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Seated Band Hamstring Curl",
     "aliases": [
       "Leg Curl"
@@ -1352,7 +1289,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Seated Floor Hamstring Stretch",
     "aliases": [
 
@@ -1371,7 +1307,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Seated Hamstring",
     "aliases": [
       "Hamstring Stretch"
@@ -1390,7 +1325,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Seated Hamstring and Calf Stretch",
     "aliases": [
 
@@ -1409,7 +1343,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Seated Leg Curl",
     "aliases": [
       "Seated Leg Curls"
@@ -1428,7 +1361,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Single Leg Deadlift",
     "aliases": [
 
@@ -1448,7 +1380,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Single-Leg Balance",
     "aliases": [
 
@@ -1467,7 +1398,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Smith Machine Hang Power Clean",
     "aliases": [
 
@@ -1490,7 +1420,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Smith Machine Stiff-Legged Deadlift",
     "aliases": [
 
@@ -1510,7 +1439,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Snatch Deadlift",
     "aliases": [
       "Snatch-Grip Deadlift"
@@ -1533,7 +1461,6 @@
     "type_code": "olw"
   },
   {
-    "id": null,
     "name": "Snatch Pull",
     "aliases": [
       "Snatch High Pull"
@@ -1556,7 +1483,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Split Snatch",
     "aliases": [
 
@@ -1582,7 +1508,6 @@
     "type_code": "olw"
   },
   {
-    "id": null,
     "name": "Split Squats",
     "aliases": [
 
@@ -1603,7 +1528,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Standing Hamstring and Calf Stretch",
     "aliases": [
 
@@ -1622,7 +1546,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Standing Leg Curl",
     "aliases": [
       "Hamstring Curl",
@@ -1642,7 +1565,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Standing Toe Touches",
     "aliases": [
       "Standing Hamstring Stretch"
@@ -1661,7 +1583,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Stiff-Legged Barbell Deadlift",
     "aliases": [
       "Barbell Stiff-Legged Deadlifts"
@@ -1681,7 +1602,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Stiff-Legged Deadlift",
     "aliases": [
 
@@ -1701,7 +1621,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Stiff-Legged Dumbbell Deadlift",
     "aliases": [
       "Dumbbell Stiff Legged Dead Lifts"
@@ -1721,7 +1640,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Sumo Deadlift",
     "aliases": [
       "Wide Stance Deadlift"
@@ -1746,7 +1664,6 @@
     "type_code": "pwr"
   },
   {
-    "id": null,
     "name": "Sumo Deadlift with Bands",
     "aliases": [
 
@@ -1771,7 +1688,6 @@
     "type_code": "pwr"
   },
   {
-    "id": null,
     "name": "Sumo Deadlift with Chains",
     "aliases": [
 
@@ -1797,7 +1713,6 @@
     "type_code": "pwr"
   },
   {
-    "id": null,
     "name": "Sumo Squat Stretch",
     "aliases": [
 
@@ -1818,7 +1733,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Suspended Leg Curl",
     "aliases": [
 
@@ -1838,7 +1752,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "The Straddle",
     "aliases": [
 
@@ -1858,7 +1771,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Upper Back-Leg Grab",
     "aliases": [
 
@@ -1878,7 +1790,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Vertical Swing",
     "aliases": [
       "Dumbbell Swing"
@@ -1899,7 +1810,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Wide Stance Stiff Legs",
     "aliases": [
       "Stiff Legged Deadlift - Wide",
@@ -1924,7 +1834,6 @@
     "type_code": "olw"
   },
   {
-    "id": null,
     "name": "World's Greatest Stretch",
     "aliases": [
 

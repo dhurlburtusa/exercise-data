@@ -1219,7 +1219,6 @@ def extract_exercise_hash_from(details_url)
   require 'open-uri'
 
   exercise_hash = {}
-  exercise_hash['id'] = nil
   exercise_hash['name'] = nil
   exercise_hash['aliases'] = []
   exercise_hash['desc'] = ''

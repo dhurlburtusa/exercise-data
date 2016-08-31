@@ -1,84 +1,70 @@
 [
   {
-    "id": "",
     "code": "bnd",
     "name": "Bands",
     "desc": "",
     "priv_note": "On: bodybuilding.com, jefit.com."
   }, {
-    "id": "",
     "code": "brb",
     "name": "Barbell",
     "desc": "",
     "priv_note": "On: bodybuilding.com, jefit.com."
   }, {
-    "id": "",
     "code": "bnc",
     "name": "Bench",
     "desc": "",
     "priv_note": "On: jefit.com."
   }, {
-    "id": "",
     "code": "bdo",
     "name": "Body Only",
     "desc": "",
     "priv_note": "On: bodybuilding.com, jefit.com."
   }, {
-    "id": "",
     "code": "cbl",
     "name": "Cable",
     "desc": "",
     "priv_note": "On: bodybuilding.com."
   }, {
-    "id": "",
     "code": "dmb",
     "name": "Dumbbell",
     "desc": "",
     "priv_note": "On: bodybuilding.com, jefit.com."
   }, {
-    "id": "",
     "code": "ezb",
     "name": "E-Z Curl Bar",
     "desc": "",
     "priv_note": "On: bodybuilding.com, jefit.com (as EZ - Bar)."
   }, {
-    "id": "",
     "code": "exb",
     "name": "Exercise Ball",
     "desc": "",
     "priv_note": "On: bodybuilding.com, jefit.com."
   }, {
-    "id": "",
     "code": "fmr",
     "name": "Foam Roll",
     "desc": "",
     "priv_note": "On: bodybuilding.com, jefit.com."
   }, {
-    "id": "",
     "code": "ktt",
     "name": "Kettlebells",
     "desc": "",
     "priv_note": "On: bodybuilding.com, jefit.com."
   }, {
-    "id": "",
     "code": "mch",
     "name": "Machine",
     "desc": "",
     "priv_note": "On: bodybuilding.com."
   }, {
-    "id": "",
     "code": "mdb",
     "name": "Medicine Ball",
     "desc": "",
     "priv_note": "On: bodybuilding.com."
   }, {
-    "id": "",
     "code": "nn",
     "name": "None",
     "desc": "",
     "priv_note": "On: bodybuilding.com."
   }, {
-    "id": "",
     "code": "oth",
     "name": "Other",
     "desc": "",

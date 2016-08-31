@@ -1,6 +1,5 @@
 [
   {
-    "id": null,
     "name": "Alternating Cable Shoulder Press",
     "aliases": [
 
@@ -19,7 +18,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Alternating Deltoid Raise",
     "aliases": [
       "Front and Side Raises",
@@ -39,7 +37,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Alternating Kettlebell Press",
     "aliases": [
       "Kettlebell Alternating Military Press",
@@ -59,7 +56,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Anti-Gravity Press",
     "aliases": [
 
@@ -80,7 +76,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Arm Circles",
     "aliases": [
 
@@ -99,7 +94,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Arnold Dumbbell Press",
     "aliases": [
       "Rotating Shoulder Press",
@@ -119,7 +113,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Axle Clean And Press",
     "aliases": [
       "Continental Clean"
@@ -144,7 +137,6 @@
     "type_code": "stn"
   },
   {
-    "id": null,
     "name": "Back Flyes - With Bands",
     "aliases": [
       "Back Flies",
@@ -167,7 +159,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Backward Medicine Ball Throw",
     "aliases": [
 
@@ -186,7 +177,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Band Pull Apart",
     "aliases": [
 
@@ -206,7 +196,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Barbell Front Raise",
     "aliases": [
 
@@ -225,7 +214,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Barbell Incline Shoulder Raise",
     "aliases": [
       "Shoulder Protraction",
@@ -245,7 +233,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Barbell Rear Delt Row",
     "aliases": [
       "Elbows Out Barbell Row"
@@ -266,7 +253,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Barbell Shoulder Press",
     "aliases": [
       "Seated Barbell Shoulder Press"
@@ -286,7 +272,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Battling Ropes",
     "aliases": [
       "Wave Lengths"
@@ -306,7 +291,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Bent Over Dumbbell Rear Delt Raise With Head On Bench",
     "aliases": [
       "Bent-Over Dumbbell Rear Delt Raise With Head on Bench"
@@ -325,7 +309,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Bent Over Low-Pulley Side Lateral",
     "aliases": [
       "Rear Delt Cable Raise",
@@ -347,7 +330,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Bradford/Rocky Presses",
     "aliases": [
       "Alternating Shoulder Press",
@@ -369,7 +351,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Cable Internal Rotation",
     "aliases": [
 
@@ -388,7 +369,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Cable Rear Delt Fly",
     "aliases": [
       "High Cable Fly"
@@ -407,7 +387,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Cable Rope Rear-Delt Rows",
     "aliases": [
       "Rear Delt Cable Row",
@@ -428,7 +407,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Cable Seated Lateral Raise",
     "aliases": [
       "Rear Delt Cable Fly",
@@ -449,7 +427,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Cable Shoulder Press",
     "aliases": [
       "Standing Shoulder Press With Cables"
@@ -468,7 +445,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Car Drivers",
     "aliases": [
 
@@ -487,7 +463,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Chair Upper Body Stretch",
     "aliases": [
 
@@ -507,7 +482,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Circus Bell",
     "aliases": [
       "Fat Dumbbell Press"
@@ -531,7 +505,6 @@
     "type_code": "stn"
   },
   {
-    "id": null,
     "name": "Clean and Jerk",
     "aliases": [
 
@@ -556,7 +529,6 @@
     "type_code": "olw"
   },
   {
-    "id": null,
     "name": "Clean and Press",
     "aliases": [
 
@@ -583,7 +555,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Crucifix",
     "aliases": [
 
@@ -602,7 +573,6 @@
     "type_code": "stn"
   },
   {
-    "id": null,
     "name": "Cuban Press",
     "aliases": [
 
@@ -621,7 +591,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Double Kettlebell Jerk",
     "aliases": [
       "Double Kettlebell Split Jerk"
@@ -642,7 +611,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Double Kettlebell Push Press",
     "aliases": [
 
@@ -663,7 +631,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Double Kettlebell Snatch",
     "aliases": [
 
@@ -684,7 +651,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Dumbbell Clean And Jerk",
     "aliases": [
 
@@ -709,7 +675,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Dumbbell Incline Shoulder Raise",
     "aliases": [
 
@@ -728,7 +693,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Dumbbell Lying One-Arm Rear Lateral Raise",
     "aliases": [
       "Dumbbell Rear Delt Raise",
@@ -748,7 +712,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Dumbbell Lying Rear Lateral Raise",
     "aliases": [
       "Rear Delt Raise",
@@ -768,7 +731,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Dumbbell One-Arm Shoulder Press",
     "aliases": [
       "Single Dumbbell Press"
@@ -787,7 +749,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Dumbbell One-Arm Upright Row",
     "aliases": [
 
@@ -807,7 +768,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Dumbbell Raise",
     "aliases": [
       "Dumbbell Upright Row"
@@ -826,7 +786,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Dumbbell Rear Delt Row",
     "aliases": [
 
@@ -847,7 +806,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Dumbbell Scaption",
     "aliases": [
 
@@ -866,7 +824,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Dumbbell Shoulder Press",
     "aliases": [
 
@@ -885,7 +842,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Dumbbell Squat To Shoulder Press",
     "aliases": [
 
@@ -907,7 +863,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Elbow Circles",
     "aliases": [
 
@@ -926,7 +881,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "External Rotation",
     "aliases": [
 
@@ -945,7 +899,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "External Rotation with Band",
     "aliases": [
 
@@ -964,7 +917,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "External Rotation with Cable",
     "aliases": [
 
@@ -983,7 +935,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Face Pull",
     "aliases": [
 
@@ -1002,7 +953,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Front Cable Raise",
     "aliases": [
 
@@ -1021,7 +971,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Front Dumbbell Raise",
     "aliases": [
       "Alternating Front Raise"
@@ -1040,7 +989,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Front Dumbbell Raise Using Towel",
     "aliases": [
 
@@ -1059,7 +1007,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Front Incline Dumbbell Raise",
     "aliases": [
 
@@ -1078,7 +1025,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Front Plate Raise",
     "aliases": [
 
@@ -1097,7 +1043,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Front Two-Dumbbell Raise",
     "aliases": [
 
@@ -1116,7 +1061,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Half-kneeling Dumbbell Shoulder Press",
     "aliases": [
 
@@ -1135,7 +1079,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Hand Stand Push-Up",
     "aliases": [
 
@@ -1155,7 +1098,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Handstand Push-Ups",
     "aliases": [
 
@@ -1174,7 +1116,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Internal Rotation with Band",
     "aliases": [
 
@@ -1193,7 +1134,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Iron Cross",
     "aliases": [
 
@@ -1217,7 +1157,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Jerk Balance",
     "aliases": [
 
@@ -1239,7 +1178,6 @@
     "type_code": "olw"
   },
   {
-    "id": null,
     "name": "Kettlebell Arnold Press",
     "aliases": [
 
@@ -1258,7 +1196,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Kettlebell Pirate Ships",
     "aliases": [
 
@@ -1277,7 +1214,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Kettlebell Seated Press",
     "aliases": [
 
@@ -1296,7 +1232,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Kettlebell Seesaw Press",
     "aliases": [
 
@@ -1315,7 +1250,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Kettlebell Thruster",
     "aliases": [
 
@@ -1335,7 +1269,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Kettlebell Turkish Get-Up (Lunge style)",
     "aliases": [
       "Turkish Get Up"
@@ -1357,7 +1290,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Kettlebell Turkish Get-Up (Squat style)",
     "aliases": [
       "Turkish Get Up"
@@ -1380,7 +1312,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Kneeling Arm Drill",
     "aliases": [
 
@@ -1399,7 +1330,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Landmine Linear Jammer",
     "aliases": [
       "Landmine Thruster"
@@ -1423,7 +1353,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Lateral Raise - With Bands",
     "aliases": [
 
@@ -1442,7 +1371,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Leverage Shoulder Press",
     "aliases": [
       "Hammerstrength Shoulder Press"
@@ -1461,7 +1389,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Log Lift",
     "aliases": [
       "Log Clean and Press"
@@ -1488,7 +1415,6 @@
     "type_code": "stn"
   },
   {
-    "id": null,
     "name": "Low Pulley Row To Neck",
     "aliases": [
       "Face Pull"
@@ -1509,7 +1435,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Lying One-Arm Lateral Raise",
     "aliases": [
 
@@ -1528,7 +1453,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Lying Rear Delt Raise",
     "aliases": [
 
@@ -1547,7 +1471,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Machine Lateral Raise",
     "aliases": [
 
@@ -1566,7 +1489,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Machine Shoulder (Military) Press",
     "aliases": [
       "Overhead Press",
@@ -1586,7 +1508,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Medicine Ball Scoop Throw",
     "aliases": [
 
@@ -1607,7 +1528,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "One-Arm Incline Lateral Raise",
     "aliases": [
 
@@ -1626,7 +1546,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "One-Arm Kettlebell Clean and Jerk",
     "aliases": [
       "Kettlebell Clean and Jerk"
@@ -1645,7 +1564,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "One-Arm Kettlebell Jerk",
     "aliases": [
       "Kettlebell Jerk"
@@ -1666,7 +1584,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "One-Arm Kettlebell Military Press To The Side",
     "aliases": [
       "Kettlebell Overhead Press",
@@ -1686,7 +1603,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "One-Arm Kettlebell Para Press",
     "aliases": [
 
@@ -1705,7 +1621,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "One-Arm Kettlebell Push Press",
     "aliases": [
       "Push Press"
@@ -1726,7 +1641,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "One-Arm Kettlebell Snatch",
     "aliases": [
       "Kettlebell Snatch",
@@ -1751,7 +1665,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "One-Arm Kettlebell Split Jerk",
     "aliases": [
       "Kettlebell Jerk"
@@ -1773,7 +1686,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "One-Arm Kettlebell Split Snatch",
     "aliases": [
       "Kettlebell Snatch"
@@ -1793,7 +1705,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "One-Arm Side Laterals",
     "aliases": [
       "Lateral Raise"
@@ -1812,7 +1723,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Plate Shoulder Circle Big To Small Rotation",
     "aliases": [
 
@@ -1831,7 +1741,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Power Partials",
     "aliases": [
       "Dumbbell Lateral Raise"
@@ -1850,7 +1759,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Punches",
     "aliases": [
 
@@ -1870,7 +1778,6 @@
     "type_code": "crd"
   },
   {
-    "id": null,
     "name": "Push Press",
     "aliases": [
 
@@ -1890,7 +1797,6 @@
     "type_code": "olw"
   },
   {
-    "id": null,
     "name": "Push Press - Behind the Neck",
     "aliases": [
 
@@ -1911,7 +1817,6 @@
     "type_code": "olw"
   },
   {
-    "id": null,
     "name": "Rack Delivery",
     "aliases": [
       "Muscle Clean"
@@ -1931,7 +1836,6 @@
     "type_code": "olw"
   },
   {
-    "id": null,
     "name": "Return Push from Stance",
     "aliases": [
 
@@ -1951,7 +1855,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Reverse Flyes",
     "aliases": [
 
@@ -1970,7 +1873,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Reverse Flyes With External Rotation",
     "aliases": [
       "Rear Delt Flyes"
@@ -1989,7 +1891,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Reverse Machine Flyes",
     "aliases": [
       "Rear Delt Machine Flyes"
@@ -2008,7 +1909,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Round The World Shoulder Stretch",
     "aliases": [
 
@@ -2028,7 +1928,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Seated Barbell Military Press",
     "aliases": [
       "Shoulder Press"
@@ -2047,7 +1946,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Seated Bent-Over Rear Delt Raise",
     "aliases": [
       "Rear Delt Fly"
@@ -2066,7 +1964,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Seated Cable Shoulder Press",
     "aliases": [
       "Freemotion Shoulder Press"
@@ -2085,7 +1982,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Seated Dumbbell Press",
     "aliases": [
 
@@ -2104,7 +2000,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Seated Front Deltoid",
     "aliases": [
 
@@ -2123,7 +2018,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Seated Side Lateral Raise",
     "aliases": [
 
@@ -2142,7 +2036,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "See-Saw Press (Alternating Side Press)",
     "aliases": [
       "See Saw Press"
@@ -2162,7 +2055,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Shoulder Circles",
     "aliases": [
 
@@ -2181,7 +2073,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Shoulder Press - With Bands",
     "aliases": [
 
@@ -2200,7 +2091,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Shoulder Raise",
     "aliases": [
 
@@ -2219,7 +2109,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Shoulder Stretch",
     "aliases": [
 
@@ -2238,7 +2127,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Side Lateral Raise",
     "aliases": [
 
@@ -2257,7 +2145,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Side Laterals to Front Raise",
     "aliases": [
       "Alternating Deltoid Raise"
@@ -2276,7 +2163,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Side Wrist Pull",
     "aliases": [
 
@@ -2296,7 +2182,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Single Dumbbell Raise",
     "aliases": [
 
@@ -2316,7 +2201,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Single-Arm Linear Jammer",
     "aliases": [
       "Barbell Levers"
@@ -2336,7 +2220,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Sled Overhead Backward Walk",
     "aliases": [
 
@@ -2357,7 +2240,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Sled Reverse Flye",
     "aliases": [
 
@@ -2376,7 +2258,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Smith Incline Shoulder Raise",
     "aliases": [
 
@@ -2395,7 +2276,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Smith Machine One-Arm Upright Row",
     "aliases": [
 
@@ -2415,7 +2295,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Smith Machine Overhead Shoulder Press",
     "aliases": [
 
@@ -2434,7 +2313,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Snatch-Grip Behind-The-Neck Overhead Press",
     "aliases": [
 
@@ -2453,7 +2331,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Standing Alternating Dumbbell Press",
     "aliases": [
 
@@ -2472,7 +2349,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Standing Barbell Press Behind Neck",
     "aliases": [
       "Behind Neck Press",
@@ -2492,7 +2368,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Standing Bradford Press",
     "aliases": [
 
@@ -2511,7 +2386,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Standing Dumbbell Press",
     "aliases": [
       "Dumbbell Shoulder Press",
@@ -2531,7 +2405,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Standing Dumbbell Straight-Arm Front Delt Raise Above Head",
     "aliases": [
 
@@ -2550,7 +2423,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Standing Front Barbell Raise Over Head",
     "aliases": [
 
@@ -2569,7 +2441,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Standing Low-Pulley Deltoid Raise",
     "aliases": [
       "Cable Lateral Raise"
@@ -2588,7 +2459,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Standing Military Press",
     "aliases": [
       "Standing Barbell Press",
@@ -2608,7 +2478,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Standing Palm-In One-Arm Dumbbell Press",
     "aliases": [
       "Single Neutral-Grip Shoulder Press"
@@ -2627,7 +2496,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Standing Palms-In Dumbbell Press",
     "aliases": [
 
@@ -2646,7 +2514,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Standing Two-Arm Overhead Throw",
     "aliases": [
 
@@ -2666,7 +2533,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Straight Raises on Incline Bench",
     "aliases": [
 
@@ -2685,7 +2551,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Suspended Back Fly",
     "aliases": [
 
@@ -2705,7 +2570,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Tall Muscle Snatch",
     "aliases": [
 
@@ -2727,7 +2591,6 @@
     "type_code": "olw"
   },
   {
-    "id": null,
     "name": "Two-Arm Kettlebell Clean",
     "aliases": [
 
@@ -2750,7 +2613,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Two-Arm Kettlebell Jerk",
     "aliases": [
       "Kettlebell Jerk"
@@ -2771,7 +2633,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Two-Arm Kettlebell Military Press",
     "aliases": [
 
@@ -2790,7 +2651,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Upright Barbell Row",
     "aliases": [
       "Upright Rows"
@@ -2809,7 +2669,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Upward Stretch",
     "aliases": [
 
@@ -2829,7 +2688,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Wall Walk",
     "aliases": [
 

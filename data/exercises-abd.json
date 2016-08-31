@@ -1,6 +1,5 @@
 [
   {
-    "id": null,
     "name": "3/4 Sit-Up",
     "aliases": [
 
@@ -19,7 +18,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Ab Crunch Machine",
     "aliases": [
 
@@ -38,7 +36,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Ab Roller",
     "aliases": [
       "Ab Roll Out",
@@ -60,7 +57,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Advanced Kettlebell Windmill",
     "aliases": [
 
@@ -81,7 +77,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Air Bike",
     "aliases": [
       "Bicycle Crunches"
@@ -100,7 +95,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Alternate Heel Touchers",
     "aliases": [
 
@@ -119,7 +113,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Barbell Ab Rollout",
     "aliases": [
 
@@ -139,7 +132,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Barbell Ab Rollout - On Knees",
     "aliases": [
 
@@ -159,7 +151,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Barbell Rollout from Bench",
     "aliases": [
 
@@ -181,7 +172,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Barbell Side Bend",
     "aliases": [
       "Barbell Side Bends"
@@ -200,7 +190,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Bent Press",
     "aliases": [
 
@@ -224,7 +213,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Bent-Knee Hip Raise",
     "aliases": [
       "Reverse Crunch"
@@ -243,7 +231,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Bosu Ball Cable Crunch With Side Bends",
     "aliases": [
 
@@ -262,7 +249,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Bosu Ball Crunch",
     "aliases": [
 
@@ -281,7 +267,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Bottoms Up",
     "aliases": [
 
@@ -300,7 +285,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Butt-Ups",
     "aliases": [
 
@@ -319,7 +303,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Cable Crunch",
     "aliases": [
 
@@ -338,7 +321,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Cable Judo Flip",
     "aliases": [
 
@@ -357,7 +339,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Cable Reverse Crunch",
     "aliases": [
 
@@ -376,7 +357,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Cable Russian Twists",
     "aliases": [
       "Stability Ball Abdominal Twist"
@@ -395,7 +375,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Cable Seated Crunch",
     "aliases": [
 
@@ -414,7 +393,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Cable Tuck Reverse Crunch",
     "aliases": [
 
@@ -433,7 +411,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Cocoons",
     "aliases": [
 
@@ -452,7 +429,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Cross Crunch",
     "aliases": [
 
@@ -471,7 +447,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Cross-Body Crunch",
     "aliases": [
 
@@ -490,7 +465,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Crunch - Hands Overhead",
     "aliases": [
 
@@ -509,7 +483,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Crunch - Legs On Exercise Ball",
     "aliases": [
       "Crunches on Exercise Ball"
@@ -528,7 +501,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Crunches",
     "aliases": [
 
@@ -547,7 +519,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Dead Bug",
     "aliases": [
 
@@ -566,7 +537,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Decline Crunch",
     "aliases": [
 
@@ -585,7 +555,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Decline Oblique Crunch",
     "aliases": [
 
@@ -604,7 +573,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Decline Reverse Crunch",
     "aliases": [
 
@@ -623,7 +591,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Double Kettlebell Windmill",
     "aliases": [
 
@@ -645,7 +612,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Dumbbell Side Bend",
     "aliases": [
 
@@ -664,7 +630,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Dumbbell V-Sit Cross Jab",
     "aliases": [
 
@@ -686,7 +651,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Dumbbell Vi-Sit Cross Jab",
     "aliases": [
 
@@ -708,7 +672,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Elbow to Knee",
     "aliases": [
 
@@ -727,7 +690,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Exercise Ball Crunch",
     "aliases": [
 
@@ -746,7 +708,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Exercise Ball Pull-In",
     "aliases": [
       "Ab Pull-In"
@@ -765,7 +726,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Flat Bench Leg Pull-In",
     "aliases": [
 
@@ -784,7 +744,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Flat Bench Lying Leg Raise",
     "aliases": [
 
@@ -803,7 +762,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Frog Sit-Ups",
     "aliases": [
 
@@ -822,7 +780,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Gorilla Chin/Crunch",
     "aliases": [
       "Gorilla Chin",
@@ -843,7 +800,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Hanging Leg Raise",
     "aliases": [
       "Hanging Leg Raises"
@@ -862,7 +818,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Hanging Oblique Knee Raise",
     "aliases": [
 
@@ -881,7 +836,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Hanging Pike",
     "aliases": [
 
@@ -900,7 +854,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Jackknife Sit-Up",
     "aliases": [
       "V-Up"
@@ -919,7 +872,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Janda Sit-Up",
     "aliases": [
 
@@ -938,7 +890,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Kettlebell Figure 8",
     "aliases": [
 
@@ -958,7 +909,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Kettlebell Pass Between The Legs",
     "aliases": [
 
@@ -979,7 +929,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Kettlebell Windmill",
     "aliases": [
 
@@ -1001,7 +950,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Knee/Hip Raise On Parallel Bars",
     "aliases": [
       "Knee / Hip Raise on Parallel Bars"
@@ -1020,7 +968,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Kneeling Cable Crunch With Alternating Oblique Twists",
     "aliases": [
       "Kneeling Oblique Cable Crunch"
@@ -1039,7 +986,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Landmine 180's",
     "aliases": [
       "Russian Twist"
@@ -1060,7 +1006,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Leg Pull-In",
     "aliases": [
       "Reverse Crunch"
@@ -1079,7 +1024,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Lower Back Curl",
     "aliases": [
 
@@ -1098,7 +1042,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Medicine Ball Full Twist",
     "aliases": [
 
@@ -1117,7 +1060,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Medicine Ball Rotational Throw",
     "aliases": [
 
@@ -1137,7 +1079,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Oblique Cable Crunch",
     "aliases": [
 
@@ -1156,7 +1097,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Oblique Crunches",
     "aliases": [
 
@@ -1175,7 +1115,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Oblique Crunches - On The Floor",
     "aliases": [
 
@@ -1194,7 +1133,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "One-Arm High-Pulley Cable Side Bends",
     "aliases": [
 
@@ -1213,7 +1151,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "One-Arm Medicine Ball Slam",
     "aliases": [
 
@@ -1233,7 +1170,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Otis-Up",
     "aliases": [
 
@@ -1254,7 +1190,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Overhead Stretch",
     "aliases": [
 
@@ -1276,7 +1211,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Pallof Press",
     "aliases": [
       "Pallof Press ISO"
@@ -1297,7 +1231,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Pallof Press With Rotation",
     "aliases": [
 
@@ -1318,7 +1251,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Partner 3-Touch Motion Russian Twist",
     "aliases": [
 
@@ -1337,7 +1269,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Partner Facing Planks With Alternating High-Five",
     "aliases": [
 
@@ -1357,7 +1288,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Partner Hanging Knee Raise With Manual Resistance",
     "aliases": [
 
@@ -1376,7 +1306,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Partner Hanging Knee Raise With Throw Down",
     "aliases": [
 
@@ -1395,7 +1324,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Partner Lying Leg Raise With Lateral Throw Down",
     "aliases": [
 
@@ -1414,7 +1342,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Partner Lying Leg Raise With Throw Down",
     "aliases": [
 
@@ -1433,7 +1360,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Partner Resistance Standing Twist",
     "aliases": [
 
@@ -1452,7 +1378,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Partner Side-To-Side Russian Twist & Pass",
     "aliases": [
 
@@ -1471,7 +1396,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Partner Sit-Up With High-Five",
     "aliases": [
 
@@ -1490,7 +1414,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Partner Target Sit-Up",
     "aliases": [
 
@@ -1509,7 +1432,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Plank",
     "aliases": [
       "Prone Iso Abs"
@@ -1528,7 +1450,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Plate Twist",
     "aliases": [
 
@@ -1547,7 +1468,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Press Sit-Up",
     "aliases": [
 
@@ -1568,7 +1488,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Reverse Crunch",
     "aliases": [
 
@@ -1587,7 +1506,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Rope Crunch",
     "aliases": [
 
@@ -1606,7 +1524,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Russian Twist",
     "aliases": [
 
@@ -1625,7 +1542,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Scissor Kick",
     "aliases": [
 
@@ -1644,7 +1560,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Seated Barbell Twist",
     "aliases": [
 
@@ -1663,7 +1578,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Seated Flat Bench Leg Pull-In",
     "aliases": [
 
@@ -1682,7 +1596,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Seated Leg Tucks",
     "aliases": [
       "Leg Pull-in"
@@ -1701,7 +1614,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Seated Overhead Stretch",
     "aliases": [
 
@@ -1720,7 +1632,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Seated Scissor Kick",
     "aliases": [
 
@@ -1740,7 +1651,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Shoulder Tap",
     "aliases": [
 
@@ -1760,7 +1670,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Side Bridge",
     "aliases": [
 
@@ -1779,7 +1688,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Side Jackknife",
     "aliases": [
 
@@ -1798,7 +1706,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Sit-Up",
     "aliases": [
 
@@ -1817,7 +1724,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Skin The Cat To Push-Up",
     "aliases": [
 
@@ -1839,7 +1745,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Sledgehammer Swings",
     "aliases": [
 
@@ -1862,7 +1767,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Smith Machine Hip Raise",
     "aliases": [
 
@@ -1881,7 +1785,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Spell Caster",
     "aliases": [
 
@@ -1901,7 +1804,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Spider Crawl",
     "aliases": [
 
@@ -1922,7 +1824,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Stability Ball Pike With Knee Tuck",
     "aliases": [
 
@@ -1941,7 +1842,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Standing Cable Lift",
     "aliases": [
 
@@ -1960,7 +1860,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Standing Cable Wood Chop",
     "aliases": [
 
@@ -1979,7 +1878,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Standing Lateral Stretch",
     "aliases": [
 
@@ -1998,7 +1896,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Standing Rope Crunch",
     "aliases": [
 
@@ -2017,7 +1914,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Stomach Vacuum",
     "aliases": [
 
@@ -2036,7 +1932,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Straight-Legged Hip Raise",
     "aliases": [
 
@@ -2055,7 +1950,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Suitcase Crunch",
     "aliases": [
 
@@ -2074,7 +1968,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Supine One-Arm Overhead Throw",
     "aliases": [
 
@@ -2095,7 +1988,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Supine Two-Arm Overhead Throw",
     "aliases": [
 
@@ -2116,7 +2008,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Suspended Crunch",
     "aliases": [
 
@@ -2135,7 +2026,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Suspended Fallout",
     "aliases": [
       "Blast Straps Fallout",
@@ -2158,7 +2048,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Suspended Pike",
     "aliases": [
 
@@ -2177,7 +2066,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Suspended Reverse Crunch",
     "aliases": [
 
@@ -2196,7 +2084,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Toe Touchers",
     "aliases": [
 
@@ -2215,7 +2102,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Torso Rotation",
     "aliases": [
 
@@ -2234,7 +2120,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Tuck Crunch",
     "aliases": [
 
@@ -2253,7 +2138,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "V-Sit Lying Down Ball Throw And Catch",
     "aliases": [
 
@@ -2274,7 +2158,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Waiter's Carry",
     "aliases": [
 
@@ -2293,7 +2176,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Weighted Ball Side Bend",
     "aliases": [
       "Oblique Crunch"
@@ -2312,7 +2194,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Weighted Crunches",
     "aliases": [
 
@@ -2331,7 +2212,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Weighted Sit-Ups - With Bands",
     "aliases": [
       "Sit Up",
@@ -2351,7 +2231,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Weighted Suitcase Crunch",
     "aliases": [
 
@@ -2370,7 +2249,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Wind Sprints",
     "aliases": [
 

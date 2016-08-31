@@ -1,6 +1,5 @@
 [
   {
-    "id": null,
     "name": "Alternating Floor Press",
     "aliases": [
       "Alternating Kettlebell Floor Press",
@@ -22,7 +21,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Around The Worlds",
     "aliases": [
 
@@ -41,7 +39,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Bar Push-Up Smith Machine",
     "aliases": [
 
@@ -61,7 +58,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Bar Throw And Press",
     "aliases": [
 
@@ -81,7 +77,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Barbell Bench Press - Medium Grip",
     "aliases": [
       "Barbell Bench Press"
@@ -101,7 +96,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Barbell Bench Press-Wide Grip",
     "aliases": [
 
@@ -121,7 +115,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Barbell Guillotine Bench Press",
     "aliases": [
       "Neck Press"
@@ -141,7 +134,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Barbell Incline Bench Press Medium-Grip",
     "aliases": [
 
@@ -161,7 +153,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Behind Head Chest Stretch",
     "aliases": [
 
@@ -180,7 +171,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Bench Press - With Bands",
     "aliases": [
       "Bench Press With Bands"
@@ -200,7 +190,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Bench Press With Short Bands",
     "aliases": [
 
@@ -220,7 +209,6 @@
     "type_code": "pwr"
   },
   {
-    "id": null,
     "name": "Bent-Arm Dumbbell Pullover",
     "aliases": [
 
@@ -241,7 +229,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Bodyweight Flyes",
     "aliases": [
 
@@ -262,7 +249,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Bosu Ball Push-Up",
     "aliases": [
 
@@ -282,7 +268,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Burpee To Medicine Ball Press",
     "aliases": [
 
@@ -305,7 +290,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Butterfly",
     "aliases": [
       "Pec Deck",
@@ -325,7 +309,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Cable Chest Press",
     "aliases": [
       "Freemotion Chest Press"
@@ -345,7 +328,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Cable Crossover",
     "aliases": [
       "Standing Cable Crossovers"
@@ -364,7 +346,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Cable Iron Cross",
     "aliases": [
 
@@ -383,7 +364,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Chain Press",
     "aliases": [
 
@@ -403,7 +383,6 @@
     "type_code": "pwr"
   },
   {
-    "id": null,
     "name": "Chest And Front Of Shoulder Stretch",
     "aliases": [
       "Broomstick Stretch"
@@ -422,7 +401,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Chest Push (multiple response)",
     "aliases": [
       "Kneeling Medicine Ball Throw"
@@ -443,7 +421,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Chest Push (single response)",
     "aliases": [
       "Kneeling Medicine Ball Throw"
@@ -464,7 +441,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Chest Push from 3 point stance",
     "aliases": [
       "Medicine Ball Throw; Medicine Ball Snap"
@@ -485,7 +461,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Chest Push with Run Release",
     "aliases": [
       "Medicine Ball Throw With Sprint"
@@ -506,7 +481,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Chest Stretch on Stability Ball",
     "aliases": [
       "Stability Ball Pec Stretch"
@@ -525,7 +499,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Clapping Push-Up",
     "aliases": [
 
@@ -545,7 +518,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Clock Push-Up",
     "aliases": [
 
@@ -565,7 +537,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Close-Hands Push-Up",
     "aliases": [
 
@@ -585,7 +556,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Cross Over - With Bands",
     "aliases": [
       "Band Cross Over"
@@ -605,7 +575,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Decline Barbell Bench Press",
     "aliases": [
 
@@ -625,7 +594,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Decline Dumbbell Bench Press",
     "aliases": [
 
@@ -645,7 +613,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Decline Dumbbell Flyes",
     "aliases": [
 
@@ -664,7 +631,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Decline Explosive Push-Up",
     "aliases": [
 
@@ -684,7 +650,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Decline Push-Up",
     "aliases": [
 
@@ -704,7 +669,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Decline Smith Press",
     "aliases": [
 
@@ -724,7 +688,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Diamond Push-Up",
     "aliases": [
 
@@ -744,7 +707,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Dips - Chest Version",
     "aliases": [
       "Chest Dips"
@@ -764,7 +726,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Dive Bomber Push-Up",
     "aliases": [
 
@@ -784,7 +745,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Drop Push",
     "aliases": [
       "Plyometric Push-Up"
@@ -804,7 +764,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Dumbbell Bench Press",
     "aliases": [
 
@@ -824,7 +783,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Dumbbell Bench Press with Neutral Grip",
     "aliases": [
 
@@ -844,7 +802,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Dumbbell Flyes",
     "aliases": [
 
@@ -863,7 +820,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Dynamic Chest Stretch",
     "aliases": [
 
@@ -882,7 +838,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Elbows Back",
     "aliases": [
 
@@ -901,7 +856,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Extended Range One-Arm Kettlebell Floor Press",
     "aliases": [
       "Single-Arm Floor Press"
@@ -921,7 +875,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Flat Bench Cable Flyes",
     "aliases": [
 
@@ -940,7 +893,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Forward Drag with Press",
     "aliases": [
       "Sled Drag With Press"
@@ -964,7 +916,6 @@
     "type_code": "stn"
   },
   {
-    "id": null,
     "name": "Front Raise And Pullover",
     "aliases": [
 
@@ -985,7 +936,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Hammer Grip Incline DB Bench Press",
     "aliases": [
       "Neutral Incline Dumbbell Press"
@@ -1005,7 +955,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Hand Release Push-Up",
     "aliases": [
 
@@ -1026,7 +975,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Heavy Bag Thrust",
     "aliases": [
 
@@ -1047,7 +995,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Incline Cable Chest Press",
     "aliases": [
       "Incline Cable Elevators"
@@ -1067,7 +1014,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Incline Cable Flye",
     "aliases": [
 
@@ -1086,7 +1032,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Incline Dumbbell Bench With Palms Facing In",
     "aliases": [
       "Neutral Incline Dumbbell Bench Press"
@@ -1106,7 +1051,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Incline Dumbbell Flyes",
     "aliases": [
       "Incline Bench Flyes"
@@ -1125,7 +1069,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Incline Dumbbell Flyes - With A Twist",
     "aliases": [
       "Supinating Incline Dumbbell Flyes"
@@ -1144,7 +1087,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Incline Dumbbell Press",
     "aliases": [
 
@@ -1164,7 +1106,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Incline Dumbbell Press Reverse-Grip",
     "aliases": [
 
@@ -1184,7 +1125,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Incline Push-Up",
     "aliases": [
 
@@ -1204,7 +1144,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Incline Push-Up Depth Jump",
     "aliases": [
       "Plyometric Push-Up"
@@ -1224,7 +1163,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Incline Push-Up Medium",
     "aliases": [
 
@@ -1245,7 +1183,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Incline Push-Up Reverse Grip",
     "aliases": [
 
@@ -1266,7 +1203,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Incline Push-Up Wide",
     "aliases": [
 
@@ -1287,7 +1223,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Isometric Chest Squeezes",
     "aliases": [
 
@@ -1307,7 +1242,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Isometric Wipers",
     "aliases": [
 
@@ -1328,7 +1262,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Leg-Over Floor Press",
     "aliases": [
 
@@ -1348,7 +1281,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Leverage Chest Press",
     "aliases": [
       "Hammerstrength Chest Press"
@@ -1368,7 +1300,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Leverage Decline Chest Press",
     "aliases": [
       "Hammerstrength Decline Chest Press"
@@ -1388,7 +1319,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Leverage Incline Chest Press",
     "aliases": [
       "Hammerstrength Incline Chest Press"
@@ -1408,7 +1338,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Low Cable Crossover",
     "aliases": [
 
@@ -1427,7 +1356,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Machine Bench Press",
     "aliases": [
       "Chest Press"
@@ -1447,7 +1375,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Medicine Ball Chest Pass",
     "aliases": [
 
@@ -1467,7 +1394,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Medicine-Ball Push-Up",
     "aliases": [
 
@@ -1487,7 +1413,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Neck Press",
     "aliases": [
       "Clavicular Bench Press",
@@ -1509,7 +1434,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "One Arm Dumbbell Bench Press",
     "aliases": [
       "Dumbbell Bench Press",
@@ -1532,7 +1456,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "One-Arm Flat Bench Dumbbell Flye",
     "aliases": [
 
@@ -1551,7 +1474,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "One-Arm Kettlebell Floor Press",
     "aliases": [
       "Floor Press"
@@ -1570,7 +1492,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "One-Arm Push-Up",
     "aliases": [
 
@@ -1590,7 +1511,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Plyo Kettlebell Pushups",
     "aliases": [
       "Plyometric Push-Up"
@@ -1610,7 +1530,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Plyo Push-up",
     "aliases": [
       "Plyometric Push-Up"
@@ -1630,7 +1549,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Push Up to Side Plank",
     "aliases": [
 
@@ -1651,7 +1569,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Push-Up Wide",
     "aliases": [
 
@@ -1672,7 +1589,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Push-Ups With Feet Elevated",
     "aliases": [
 
@@ -1692,7 +1608,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Push-Ups With Feet On An Exercise Ball",
     "aliases": [
 
@@ -1712,7 +1627,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Pushups",
     "aliases": [
       "Push Up",
@@ -1733,7 +1647,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Pushups (Close and Wide Hand Positions)",
     "aliases": [
       "Push Up",
@@ -1754,7 +1667,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Side To Side Push-Up",
     "aliases": [
 
@@ -1774,7 +1686,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Single-Arm Cable Crossover",
     "aliases": [
 
@@ -1793,7 +1704,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Single-Arm Push-Up",
     "aliases": [
       "One-Arm Push-Up",
@@ -1814,7 +1724,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Smith Machine Bench Press",
     "aliases": [
 
@@ -1834,7 +1743,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Smith Machine Decline Press",
     "aliases": [
 
@@ -1854,7 +1762,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Smith Machine Incline Bench Press",
     "aliases": [
       "Smith Machine Incline Chest Press"
@@ -1874,7 +1781,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Staggered Push-Up",
     "aliases": [
 
@@ -1894,7 +1800,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Standing Cable Chest Press",
     "aliases": [
 
@@ -1914,7 +1819,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Straight-Arm Dumbbell Pullover",
     "aliases": [
 
@@ -1935,7 +1839,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Superman Push-Up",
     "aliases": [
 
@@ -1955,7 +1858,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Suspended Chest Fly",
     "aliases": [
 
@@ -1975,7 +1877,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Suspended Push-Up",
     "aliases": [
 
@@ -1995,7 +1896,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Svend Press",
     "aliases": [
 
@@ -2015,7 +1915,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Tiger-Bend Push-Up",
     "aliases": [
 
@@ -2035,7 +1934,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Triple Clap Push-Up",
     "aliases": [
 
@@ -2055,7 +1953,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Typewriter Push-Up",
     "aliases": [
 
@@ -2075,7 +1972,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Weighted Push-Up",
     "aliases": [
 
@@ -2095,7 +1991,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Wide-Grip Barbell Bench Press",
     "aliases": [
 
@@ -2115,7 +2010,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Wide-Grip Decline Barbell Bench Press",
     "aliases": [
 
@@ -2135,7 +2029,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Wide-Grip Decline Barbell Pullover",
     "aliases": [
 
@@ -2155,7 +2048,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Wide-Hands Push-Up",
     "aliases": [
 

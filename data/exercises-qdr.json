@@ -1,6 +1,5 @@
 [
   {
-    "id": null,
     "name": "90-Degree Jump Squat Twist",
     "aliases": [
 
@@ -21,7 +20,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Alien Squat",
     "aliases": [
 
@@ -43,7 +41,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "All Fours Quad Stretch",
     "aliases": [
       "Pronated Hip Flexor Stretch"
@@ -62,7 +59,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Alternate Leg Diagonal Bound",
     "aliases": [
 
@@ -85,7 +81,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Backward Drag",
     "aliases": [
       "Backward Sled Drag"
@@ -108,7 +103,6 @@
     "type_code": "stn"
   },
   {
-    "id": null,
     "name": "Barbell Front-To-Back Squat",
     "aliases": [
 
@@ -129,7 +123,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Barbell Full Squat",
     "aliases": [
       "High Bar Squat",
@@ -152,7 +145,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Barbell Hack Squat",
     "aliases": [
 
@@ -173,7 +165,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Barbell Lunge",
     "aliases": [
       "Weighted Lunges"
@@ -194,7 +185,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Barbell Reverse Lunge",
     "aliases": [
 
@@ -215,7 +205,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Barbell Side Split Squat",
     "aliases": [
       "Barbell Side Lunge"
@@ -236,7 +225,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Barbell Squat",
     "aliases": [
       "Barbell Full Squat"
@@ -257,7 +245,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Barbell Squat To A Bench",
     "aliases": [
       "Barbell Squat to a Box"
@@ -279,7 +266,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Barbell Squat To A Box",
     "aliases": [
 
@@ -300,7 +286,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Barbell Step Ups",
     "aliases": [
       "Barbell Step-Ups"
@@ -321,7 +306,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Barbell Thruster",
     "aliases": [
 
@@ -345,7 +329,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Barbell Walking Lunge",
     "aliases": [
 
@@ -366,7 +349,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Bear Crawl Sled Drags",
     "aliases": [
 
@@ -387,7 +369,6 @@
     "type_code": "stn"
   },
   {
-    "id": null,
     "name": "Bench Jump",
     "aliases": [
       "Front Bench Jump",
@@ -410,7 +391,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Bench Sprint",
     "aliases": [
 
@@ -431,7 +411,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Bicycling",
     "aliases": [
 
@@ -452,7 +431,6 @@
     "type_code": "crd"
   },
   {
-    "id": null,
     "name": "Bicycling, Stationary",
     "aliases": [
       "Stationary Bike"
@@ -473,7 +451,6 @@
     "type_code": "crd"
   },
   {
-    "id": null,
     "name": "Bodyweight Lunge",
     "aliases": [
 
@@ -494,7 +471,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Bodyweight Reverse Lunge",
     "aliases": [
 
@@ -515,7 +491,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Bodyweight Squat",
     "aliases": [
       "Air Squat",
@@ -536,7 +511,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Bodyweight Walking Lunge",
     "aliases": [
 
@@ -557,7 +531,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Bosu Ball Squat",
     "aliases": [
 
@@ -578,7 +551,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Box Squat",
     "aliases": [
 
@@ -601,7 +573,6 @@
     "type_code": "pwr"
   },
   {
-    "id": null,
     "name": "Box Squat with Bands",
     "aliases": [
 
@@ -625,7 +596,6 @@
     "type_code": "pwr"
   },
   {
-    "id": null,
     "name": "Box Squat with Chains",
     "aliases": [
 
@@ -649,7 +619,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Burpee",
     "aliases": [
       "Burpees"
@@ -672,7 +641,6 @@
     "type_code": "crd"
   },
   {
-    "id": null,
     "name": "Burpee Over Barbell",
     "aliases": [
 
@@ -695,7 +663,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Butt Kicks",
     "aliases": [
 
@@ -715,7 +682,6 @@
     "type_code": "crd"
   },
   {
-    "id": null,
     "name": "Cable Deadlifts",
     "aliases": [
 
@@ -737,7 +703,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Cable Hip Adduction",
     "aliases": [
 
@@ -756,7 +721,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Car Deadlift",
     "aliases": [
       "Deadlift Apparatus"
@@ -779,7 +743,6 @@
     "type_code": "stn"
   },
   {
-    "id": null,
     "name": "Chair Squat",
     "aliases": [
       "Smith Machine Squat"
@@ -800,7 +763,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Clean from Blocks",
     "aliases": [
       "Clean From Boxes"
@@ -823,7 +785,6 @@
     "type_code": "olw"
   },
   {
-    "id": null,
     "name": "Clean Pull",
     "aliases": [
       "Clean High Pull"
@@ -846,7 +807,6 @@
     "type_code": "olw"
   },
   {
-    "id": null,
     "name": "Close-Stance Dumbbell Front Squat",
     "aliases": [
 
@@ -867,7 +827,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Conan's Wheel",
     "aliases": [
       "Conans",
@@ -893,7 +852,6 @@
     "type_code": "stn"
   },
   {
-    "id": null,
     "name": "Defensive Slide",
     "aliases": [
 
@@ -915,7 +873,6 @@
     "type_code": "crd"
   },
   {
-    "id": null,
     "name": "Depth Jump Leap",
     "aliases": [
 
@@ -938,7 +895,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Double Leg Butt Kick",
     "aliases": [
 
@@ -961,7 +917,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Dumbbell Front Squat",
     "aliases": [
 
@@ -981,7 +936,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Dumbbell Goblet Squat",
     "aliases": [
 
@@ -1002,7 +956,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Dumbbell Jump Squat",
     "aliases": [
 
@@ -1023,7 +976,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Dumbbell Lunge and Curl",
     "aliases": [
 
@@ -1045,7 +997,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Dumbbell Lunges",
     "aliases": [
 
@@ -1066,7 +1017,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Dumbbell Overhead Squat",
     "aliases": [
 
@@ -1090,7 +1040,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Dumbbell Rear Lunge",
     "aliases": [
 
@@ -1111,7 +1060,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Dumbbell Seated Box Jump",
     "aliases": [
 
@@ -1132,7 +1080,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Dumbbell Side Lunge",
     "aliases": [
 
@@ -1153,7 +1100,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Dumbbell Squat",
     "aliases": [
 
@@ -1175,7 +1121,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Dumbbell Squat To A Bench",
     "aliases": [
 
@@ -1197,7 +1142,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Dumbbell Step Ups",
     "aliases": [
 
@@ -1218,7 +1162,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Dumbbell Walking Lunge",
     "aliases": [
 
@@ -1239,7 +1182,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Elevated Back Lunge",
     "aliases": [
 
@@ -1259,7 +1201,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Elliptical Trainer",
     "aliases": [
 
@@ -1280,7 +1221,6 @@
     "type_code": "crd"
   },
   {
-    "id": null,
     "name": "Fast Kick With Arm Circles",
     "aliases": [
 
@@ -1302,7 +1242,6 @@
     "type_code": "crd"
   },
   {
-    "id": null,
     "name": "Fast Skipping",
     "aliases": [
 
@@ -1325,7 +1264,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Feet Jack",
     "aliases": [
 
@@ -1344,7 +1282,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Football Up-Down",
     "aliases": [
 
@@ -1367,7 +1304,6 @@
     "type_code": "crd"
   },
   {
-    "id": null,
     "name": "Forward Band Walk",
     "aliases": [
 
@@ -1387,7 +1323,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Frankenstein Squat",
     "aliases": [
       "Hands-Free Front Squat"
@@ -1409,7 +1344,6 @@
     "type_code": "olw"
   },
   {
-    "id": null,
     "name": "Freehand Jump Squat",
     "aliases": [
 
@@ -1430,7 +1364,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Frog Hops",
     "aliases": [
       "Prisoner Squat Jump"
@@ -1451,7 +1384,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Front Barbell Squat",
     "aliases": [
       "Front Squats"
@@ -1472,7 +1404,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Front Barbell Squat To A Bench",
     "aliases": [
 
@@ -1493,7 +1424,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Front Cone Hops (or hurdle hops)",
     "aliases": [
 
@@ -1516,7 +1446,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Front Squat (Bodybuilder)",
     "aliases": [
 
@@ -1536,7 +1465,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Front Squat (Clean Grip)",
     "aliases": [
 
@@ -1556,7 +1484,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Front Squat Push Press",
     "aliases": [
 
@@ -1579,7 +1506,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Front Squats With Two Kettlebells",
     "aliases": [
       "Kettlebell Front Squat"
@@ -1599,7 +1525,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Front-To-Back Squat With Belt",
     "aliases": [
 
@@ -1620,7 +1545,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Goblet Squat",
     "aliases": [
       "Kettlebell Squat"
@@ -1642,7 +1566,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Hack Squat",
     "aliases": [
       "Hack Squats"
@@ -1663,7 +1586,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Hang Clean",
     "aliases": [
 
@@ -1688,7 +1610,6 @@
     "type_code": "olw"
   },
   {
-    "id": null,
     "name": "Hang Clean - Below the Knees",
     "aliases": [
 
@@ -1713,7 +1634,6 @@
     "type_code": "olw"
   },
   {
-    "id": null,
     "name": "Heaving Snatch Balance",
     "aliases": [
       "Drop Snatch"
@@ -1737,7 +1657,6 @@
     "type_code": "olw"
   },
   {
-    "id": null,
     "name": "High Knee Jog",
     "aliases": [
 
@@ -1757,7 +1676,6 @@
     "type_code": "crd"
   },
   {
-    "id": null,
     "name": "Hip Flexion with Band",
     "aliases": [
 
@@ -1776,7 +1694,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Ice Skater",
     "aliases": [
 
@@ -1797,7 +1714,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Intermediate Hip Flexor and Quad Stretch",
     "aliases": [
 
@@ -1816,7 +1732,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Iron Crosses (stretch)",
     "aliases": [
 
@@ -1835,7 +1750,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Jefferson Squats",
     "aliases": [
 
@@ -1858,7 +1772,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Jerk Dip Squat",
     "aliases": [
       "Dip Squat"
@@ -1878,7 +1791,6 @@
     "type_code": "olw"
   },
   {
-    "id": null,
     "name": "Jog In Place",
     "aliases": [
 
@@ -1899,7 +1811,6 @@
     "type_code": "crd"
   },
   {
-    "id": null,
     "name": "Jogging-Treadmill",
     "aliases": [
 
@@ -1919,7 +1830,6 @@
     "type_code": "crd"
   },
   {
-    "id": null,
     "name": "Jump Lunge To Feet Jack",
     "aliases": [
 
@@ -1940,7 +1850,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Jump Squat",
     "aliases": [
 
@@ -1961,7 +1870,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Jumping Jacks",
     "aliases": [
 
@@ -1981,7 +1889,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Kettlebell Curtsy Lunge",
     "aliases": [
 
@@ -2002,7 +1909,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Kettlebell Pistol Squat",
     "aliases": [
       "Kettlebell One-Legged Squat"
@@ -2024,7 +1930,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Kettlebell Sumo Squat",
     "aliases": [
 
@@ -2045,7 +1950,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Kneeling Hip Flexor",
     "aliases": [
 
@@ -2064,7 +1968,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Lateral Hop 4 Times To Sprint",
     "aliases": [
 
@@ -2085,7 +1988,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Lateral Hop Holding Dumbbells",
     "aliases": [
 
@@ -2104,7 +2006,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Lateral Speed Step",
     "aliases": [
 
@@ -2124,7 +2025,6 @@
     "type_code": "crd"
   },
   {
-    "id": null,
     "name": "Leg Extensions",
     "aliases": [
 
@@ -2143,7 +2043,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Leg Press",
     "aliases": [
       "Leg Presses"
@@ -2164,7 +2063,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Leverage Deadlift",
     "aliases": [
       "Leverage Squat"
@@ -2184,7 +2082,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Linear Depth Jump",
     "aliases": [
 
@@ -2205,7 +2102,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Looking At Ceiling",
     "aliases": [
       "Kneeling Quad Stretch"
@@ -2224,7 +2120,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Lunge Sprint",
     "aliases": [
 
@@ -2245,7 +2140,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Lying Machine Squat",
     "aliases": [
 
@@ -2266,7 +2160,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Lying Prone Quadriceps",
     "aliases": [
 
@@ -2285,7 +2178,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Machine Squat",
     "aliases": [
 
@@ -2306,7 +2198,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Mountain Climbers",
     "aliases": [
 
@@ -2327,7 +2218,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Narrow Stance Hack Squats",
     "aliases": [
 
@@ -2348,7 +2238,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Narrow Stance Leg Press",
     "aliases": [
 
@@ -2369,7 +2258,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Narrow Stance Squats",
     "aliases": [
 
@@ -2391,7 +2279,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Olympic Squat",
     "aliases": [
       "High Bar Squat",
@@ -2413,7 +2300,6 @@
     "type_code": "olw"
   },
   {
-    "id": null,
     "name": "On Your Side Quad Stretch",
     "aliases": [
 
@@ -2432,7 +2318,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "On-Your-Back Quad Stretch",
     "aliases": [
 
@@ -2451,7 +2336,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "One Half Locust",
     "aliases": [
 
@@ -2472,7 +2356,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "One Leg Barbell Squat",
     "aliases": [
       "Bulgarian Split Squat",
@@ -2495,7 +2378,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "One-Arm Overhead Kettlebell Squats",
     "aliases": [
       "Overhead Squat"
@@ -2517,7 +2399,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "One-Arm Side Deadlift",
     "aliases": [
       "Suitcase Deadlift"
@@ -2541,7 +2422,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Overhead Squat",
     "aliases": [
 
@@ -2566,7 +2446,6 @@
     "type_code": "olw"
   },
   {
-    "id": null,
     "name": "Pistol Squat",
     "aliases": [
       "One-Legged Squat"
@@ -2587,7 +2466,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Plie Dumbbell Squat",
     "aliases": [
       "Sumo Dumbbell Squat"
@@ -2609,7 +2487,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Pop Squat",
     "aliases": [
 
@@ -2632,7 +2509,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Power Jerk",
     "aliases": [
       "Push Jerk"
@@ -2656,7 +2532,6 @@
     "type_code": "olw"
   },
   {
-    "id": null,
     "name": "Power Snatch from Blocks",
     "aliases": [
       "Power Snatch From Boxes"
@@ -2682,7 +2557,6 @@
     "type_code": "olw"
   },
   {
-    "id": null,
     "name": "Quad Stretch",
     "aliases": [
 
@@ -2701,7 +2575,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Quadriceps-SMR",
     "aliases": [
       "Foam Roll Quadriceps",
@@ -2721,7 +2594,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Quick Leap",
     "aliases": [
 
@@ -2741,7 +2613,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Rear Leg Raises",
     "aliases": [
 
@@ -2760,7 +2631,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Recumbent Bike",
     "aliases": [
 
@@ -2781,7 +2651,6 @@
     "type_code": "crd"
   },
   {
-    "id": null,
     "name": "Reverse Band Box Squat",
     "aliases": [
 
@@ -2806,7 +2675,6 @@
     "type_code": "pwr"
   },
   {
-    "id": null,
     "name": "Reverse Band Power Squat",
     "aliases": [
       "Reverse Band Squat"
@@ -2829,7 +2697,6 @@
     "type_code": "pwr"
   },
   {
-    "id": null,
     "name": "Rickshaw Deadlift",
     "aliases": [
       "Frame Deadlift"
@@ -2852,7 +2719,6 @@
     "type_code": "stn"
   },
   {
-    "id": null,
     "name": "Rocket Jump",
     "aliases": [
 
@@ -2872,7 +2738,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Rope Jumping",
     "aliases": [
 
@@ -2892,7 +2757,6 @@
     "type_code": "crd"
   },
   {
-    "id": null,
     "name": "Rowing, Stationary",
     "aliases": [
       "Stationary Rowing"
@@ -2916,7 +2780,6 @@
     "type_code": "crd"
   },
   {
-    "id": null,
     "name": "Running, Treadmill",
     "aliases": [
 
@@ -2937,7 +2800,6 @@
     "type_code": "crd"
   },
   {
-    "id": null,
     "name": "Sandbag Load",
     "aliases": [
       "Sandbags"
@@ -2965,7 +2827,6 @@
     "type_code": "stn"
   },
   {
-    "id": null,
     "name": "Scissors Jump",
     "aliases": [
       "Lunge Jump"
@@ -2985,7 +2846,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Seated Leg Press",
     "aliases": [
 
@@ -3006,7 +2866,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Side Hop-Sprint",
     "aliases": [
 
@@ -3028,7 +2887,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Side Lunge",
     "aliases": [
       "Bodyweight Side Lunge"
@@ -3048,7 +2906,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Side Standing Long Jump",
     "aliases": [
 
@@ -3069,7 +2926,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Side to Side Box Shuffle",
     "aliases": [
 
@@ -3091,7 +2947,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Single Arm Overhead Kettlebell Squat",
     "aliases": [
 
@@ -3113,7 +2968,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Single Leg Butt Kick",
     "aliases": [
 
@@ -3133,7 +2987,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Single Leg Push-off",
     "aliases": [
 
@@ -3153,7 +3006,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Single-Arm Dumbbell Overhead Squat",
     "aliases": [
 
@@ -3176,7 +3028,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Single-Cone Sprint Drill",
     "aliases": [
 
@@ -3197,7 +3048,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Single-Leg Box Jump",
     "aliases": [
 
@@ -3218,7 +3068,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Single-Leg High Box Squat",
     "aliases": [
       "Band-Assisted Step-Up"
@@ -3238,7 +3087,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Single-Leg Hop Progression",
     "aliases": [
 
@@ -3260,7 +3108,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Single-Leg Lateral Hop",
     "aliases": [
 
@@ -3282,7 +3129,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Single-Leg Leg Extension",
     "aliases": [
       "Leg Extension"
@@ -3301,7 +3147,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Single-Leg Press",
     "aliases": [
 
@@ -3322,7 +3167,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Single-Leg Skater Squat",
     "aliases": [
 
@@ -3342,7 +3186,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Single-Leg Squat To Box",
     "aliases": [
 
@@ -3363,7 +3206,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Single-Leg Stride Jump",
     "aliases": [
 
@@ -3385,7 +3227,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Sit Squats",
     "aliases": [
       "Air Squats"
@@ -3406,7 +3247,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Skating",
     "aliases": [
       "Rollerblading"
@@ -3429,7 +3269,6 @@
     "type_code": "crd"
   },
   {
-    "id": null,
     "name": "Sled Drag - Harness",
     "aliases": [
       "Sled Pull"
@@ -3450,7 +3289,6 @@
     "type_code": "stn"
   },
   {
-    "id": null,
     "name": "Sled Push",
     "aliases": [
 
@@ -3473,7 +3311,6 @@
     "type_code": "stn"
   },
   {
-    "id": null,
     "name": "Slide Jump Shot",
     "aliases": [
 
@@ -3495,7 +3332,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Slow Jog",
     "aliases": [
 
@@ -3516,7 +3352,6 @@
     "type_code": "crd"
   },
   {
-    "id": null,
     "name": "Smith Machine Leg Press",
     "aliases": [
       "Inverted Leg Press"
@@ -3537,7 +3372,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Smith Machine Pistol Squat",
     "aliases": [
 
@@ -3558,7 +3392,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Smith Machine Squat",
     "aliases": [
 
@@ -3580,7 +3413,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Smith Single-Leg Split Squat",
     "aliases": [
 
@@ -3601,7 +3433,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Snatch",
     "aliases": [
 
@@ -3626,7 +3457,6 @@
     "type_code": "olw"
   },
   {
-    "id": null,
     "name": "Snatch Balance",
     "aliases": [
       "Drop Snatch"
@@ -3649,7 +3479,6 @@
     "type_code": "olw"
   },
   {
-    "id": null,
     "name": "Snatch from Blocks",
     "aliases": [
       "Snatch From Boxes"
@@ -3675,7 +3504,6 @@
     "type_code": "olw"
   },
   {
-    "id": null,
     "name": "Speed Box Squat",
     "aliases": [
 
@@ -3696,7 +3524,6 @@
     "type_code": "pwr"
   },
   {
-    "id": null,
     "name": "Speed Squats",
     "aliases": [
 
@@ -3718,7 +3545,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Split Clean",
     "aliases": [
 
@@ -3743,7 +3569,6 @@
     "type_code": "olw"
   },
   {
-    "id": null,
     "name": "Split Jerk",
     "aliases": [
 
@@ -3765,7 +3590,6 @@
     "type_code": "olw"
   },
   {
-    "id": null,
     "name": "Split Jump",
     "aliases": [
 
@@ -3786,7 +3610,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Split Squat with Dumbbells",
     "aliases": [
 
@@ -3806,7 +3629,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Split Squat With Kettlebells",
     "aliases": [
 
@@ -3827,7 +3649,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Square Hop",
     "aliases": [
 
@@ -3847,7 +3668,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Squat Jerk",
     "aliases": [
 
@@ -3870,7 +3690,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Squat with Bands",
     "aliases": [
 
@@ -3893,7 +3712,6 @@
     "type_code": "pwr"
   },
   {
-    "id": null,
     "name": "Squat with Chains",
     "aliases": [
 
@@ -3916,7 +3734,6 @@
     "type_code": "pwr"
   },
   {
-    "id": null,
     "name": "Squat with Plate Movers",
     "aliases": [
 
@@ -3939,7 +3756,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Squats - With Bands",
     "aliases": [
 
@@ -3961,7 +3777,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Stairmaster",
     "aliases": [
 
@@ -3982,7 +3797,6 @@
     "type_code": "crd"
   },
   {
-    "id": null,
     "name": "Standing Elevated Quad Stretch",
     "aliases": [
 
@@ -4001,7 +3815,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Standing Hip Flexors",
     "aliases": [
 
@@ -4020,7 +3833,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Standing Long Jump",
     "aliases": [
 
@@ -4041,7 +3853,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Star Jump",
     "aliases": [
 
@@ -4063,7 +3874,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Step Mill",
     "aliases": [
       "Stairmaster"
@@ -4084,7 +3894,6 @@
     "type_code": "crd"
   },
   {
-    "id": null,
     "name": "Stride Jump Crossover",
     "aliases": [
 
@@ -4106,7 +3915,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Suspended Split Squat",
     "aliases": [
 
@@ -4129,7 +3937,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Tire Flip",
     "aliases": [
 
@@ -4156,7 +3963,6 @@
     "type_code": "stn"
   },
   {
-    "id": null,
     "name": "Trail Running/Walking",
     "aliases": [
 
@@ -4177,7 +3983,6 @@
     "type_code": "crd"
   },
   {
-    "id": null,
     "name": "Trap Bar Deadlift",
     "aliases": [
       "Hex Bar Deadlift"
@@ -4197,7 +4002,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Trap Bar Jump",
     "aliases": [
 
@@ -4218,7 +4022,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Vertical Mountain Climber",
     "aliases": [
 
@@ -4241,7 +4044,6 @@
     "type_code": "crd"
   },
   {
-    "id": null,
     "name": "Walking High Knees",
     "aliases": [
 
@@ -4262,7 +4064,6 @@
     "type_code": "crd"
   },
   {
-    "id": null,
     "name": "Walking Lunge With Overhead Weight",
     "aliases": [
 
@@ -4288,7 +4089,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Walking, Treadmill",
     "aliases": [
 
@@ -4309,7 +4109,6 @@
     "type_code": "crd"
   },
   {
-    "id": null,
     "name": "Wall Ball Squat",
     "aliases": [
 
@@ -4335,7 +4134,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Wall Squat",
     "aliases": [
 
@@ -4355,7 +4153,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Weighted Jump Squat",
     "aliases": [
 
@@ -4377,7 +4174,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Weighted Sissy Squat",
     "aliases": [
 
@@ -4398,7 +4194,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Weighted Squat",
     "aliases": [
       "Belt Squat",
@@ -4420,7 +4215,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Wide-Stance Barbell Squat",
     "aliases": [
       "Sumo Squat"
@@ -4441,7 +4235,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Wide-Stance Jump Squat To Close-Stance",
     "aliases": [
 
@@ -4462,7 +4255,6 @@
     "type_code": "plm"
   },
   {
-    "id": null,
     "name": "Wide-Stance Leg Press",
     "aliases": [
 
@@ -4483,7 +4275,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Yoke Walk",
     "aliases": [
       "Fridge Carry"
@@ -4508,7 +4299,6 @@
     "type_code": "stn"
   },
   {
-    "id": null,
     "name": "Zercher Squats",
     "aliases": [
       "Front-Loaded Barbell Squat"

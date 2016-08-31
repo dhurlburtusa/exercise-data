@@ -1,6 +1,5 @@
 [
   {
-    "id": null,
     "name": "Clam",
     "aliases": [
 
@@ -19,7 +18,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Fire Hydrant",
     "aliases": [
       "Kneeling Hip Abduction"
@@ -38,7 +36,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Hip Circle",
     "aliases": [
 
@@ -57,7 +54,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Hip Circles (prone)",
     "aliases": [
 
@@ -76,7 +72,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Iliotibial Tract-SMR",
     "aliases": [
       "Foam Roll Iliotibial Band",
@@ -96,7 +91,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "IT Band and Glute Stretch",
     "aliases": [
 
@@ -115,7 +109,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Lateral Band Walk",
     "aliases": [
 
@@ -135,7 +128,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Lying Crossover",
     "aliases": [
 
@@ -154,7 +146,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Monster Walk",
     "aliases": [
       "Band Walk"
@@ -173,7 +164,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Standing Hip Circles",
     "aliases": [
 
@@ -192,7 +182,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Thigh Abductor",
     "aliases": [
       "Outer Thigh Machine"
@@ -211,7 +200,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Windmills",
     "aliases": [
 

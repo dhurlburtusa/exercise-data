@@ -1,6 +1,5 @@
 [
   {
-    "id": null,
     "name": "Alternating Kettlebell Row",
     "aliases": [
       "Alternating Bent Over Row",
@@ -22,7 +21,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Alternating Renegade Row",
     "aliases": [
       "Commando Row",
@@ -48,7 +46,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Barbell Deadlift Bent Row Complex",
     "aliases": [
 
@@ -70,7 +67,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Bent Over Barbell Row",
     "aliases": [
       "Barbell Row",
@@ -93,7 +89,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Bent Over One-Arm Long Bar Row",
     "aliases": [
       "Bent-Over One Arm T-Bar Row",
@@ -117,7 +112,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Bent Over Two-Arm Long Bar Row",
     "aliases": [
       "T-Bar Row"
@@ -137,7 +131,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Bent Over Two-Dumbbell Row",
     "aliases": [
       "Bent Over Row",
@@ -160,7 +153,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Bent Over Two-Dumbbell Row With Palms In",
     "aliases": [
       "Bent-Over Row",
@@ -181,7 +173,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Bodyweight Mid Row",
     "aliases": [
 
@@ -201,7 +192,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Dumbbell Incline Row",
     "aliases": [
       "Chest-Supported Dumbbell Row"
@@ -223,7 +213,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Incline Bench Pull",
     "aliases": [
       "Chest Supported Row"
@@ -243,7 +232,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Inverted Row",
     "aliases": [
       "Horizontal Barbell Pull Up"
@@ -262,7 +250,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Inverted Row with Straps",
     "aliases": [
 
@@ -282,7 +269,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Leverage High Row",
     "aliases": [
       "Hammerstrength High Row"
@@ -301,7 +287,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Lying Cambered Barbell Row",
     "aliases": [
 
@@ -322,7 +307,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Lying T-Bar Row",
     "aliases": [
       "Chest Supported Row"
@@ -342,7 +326,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Man Maker",
     "aliases": [
 
@@ -362,7 +345,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Middle Back Shrug",
     "aliases": [
       "Scapular Retraction"
@@ -381,7 +363,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Middle Back Stretch",
     "aliases": [
 
@@ -402,7 +383,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Mixed Grip Chin",
     "aliases": [
       "Chin-Up",
@@ -423,7 +403,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "One Arm Chin-Up",
     "aliases": [
       "One-Arm Chin"
@@ -444,7 +423,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "One-Arm Dumbbell Row",
     "aliases": [
       "Chest-Supported Row",
@@ -469,7 +447,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "One-Arm Kettlebell Row",
     "aliases": [
       "Bent Over Row"
@@ -489,7 +466,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "One-Arm Long Bar Row",
     "aliases": [
       "One-Arm T-Bar Row"
@@ -509,7 +485,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Partner Facing Feet-Elevated Side Plank With Band Row",
     "aliases": [
 
@@ -531,7 +506,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Partner Facing Plank With Band Row",
     "aliases": [
 
@@ -553,7 +527,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Partner Facing Side Plank With Band Row",
     "aliases": [
 
@@ -575,7 +548,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Pendlay Rown",
     "aliases": [
 
@@ -596,7 +568,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Plate Row",
     "aliases": [
 
@@ -617,7 +588,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Reverse Grip Bent-Over Rows",
     "aliases": [
       "Barbell Row",
@@ -641,7 +611,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Rhomboids-SMR",
     "aliases": [
       "Foam Roll Upper Back",
@@ -661,7 +630,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Seated Cable Rows",
     "aliases": [
       "Cable Row",
@@ -685,7 +653,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Seated One-arm Cable Pulley Rows",
     "aliases": [
 
@@ -706,7 +673,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Single-Arm Landmine Row",
     "aliases": [
       "Meadows Row"
@@ -727,7 +693,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Sled Row",
     "aliases": [
 
@@ -747,7 +712,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Smith Machine Bent Over Row",
     "aliases": [
 
@@ -768,7 +732,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Spinal Stretch",
     "aliases": [
 
@@ -790,7 +753,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Straight Bar Bench Mid Rows",
     "aliases": [
 
@@ -810,7 +772,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Suspended Row",
     "aliases": [
       "Inverted Row",
@@ -831,7 +792,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "T-Bar Row",
     "aliases": [
 
@@ -851,7 +811,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "T-Bar Row with Handle",
     "aliases": [
       "Two-Arm Long Bar Row With Handle"
@@ -871,7 +830,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Two-Arm Kettlebell Row",
     "aliases": [
 
@@ -891,7 +849,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Upper Back Stretch",
     "aliases": [
 
@@ -910,7 +867,6 @@
     "type_code": "stt"
   },
   {
-    "id": null,
     "name": "Yates Row",
     "aliases": [
 
@@ -930,7 +886,6 @@
     "type_code": "str"
   },
   {
-    "id": null,
     "name": "Yates Row Reverse Grip",
     "aliases": [
 
