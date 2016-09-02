@@ -9,16 +9,12 @@
     "name": "Abductors",
     "desc": "",
     "priv_notes": "On: bodybuilding.com"
-  }, /* {
-    "code": "arm",
-    "name": "Arms",
-    "desc": ""
   }, {
     "code": "bck",
     "name": "Back",
     "desc": "",
     "priv_notes": "On: jefit.com"
-  }, */ {
+  }, {
     "code": "add",
     "name": "Adductors",
     "desc": "",
@@ -68,11 +64,7 @@
     "name": "Lats",
     "desc": "",
     "priv_notes": "On: bodybuilding.com, exercise.com."
-  }, /* {
-    "code": "lg",
-    "name": "Legs",
-    "desc": ""
-  }, */ {
+  }, {
     "code": "lwb",
     "name": "Lower Back",
     "desc": "",
