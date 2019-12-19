@@ -10,15 +10,15 @@
     "desc": "",
     "priv_notes": "On: bodybuilding.com"
   }, {
-    "code": "bck",
-    "name": "Back",
-    "desc": "",
-    "priv_notes": "On: jefit.com"
-  }, {
     "code": "add",
     "name": "Adductors",
     "desc": "",
     "priv_notes": "On: bodybuilding.com"
+  }, {
+    "code": "bck",
+    "name": "Back",
+    "desc": "",
+    "priv_notes": "On: jefit.com"
   }, {
     "code": "bcp",
     "name": "Biceps",
